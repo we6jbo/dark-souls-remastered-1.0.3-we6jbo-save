@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this character archive, cite this repository."
+title: "Dark Souls Remastered v1.0.3 we6jbo Character Archive"
+type: dataset
+authors:
+  - family-names: "O'Neal"
+    given-names: "Jeremiah"
+repository-code: "https://github.com/we6jbo/dark-souls-remastered-1.0.3-we6jbo-save"
+license: GPL-3.0-only
+keywords:
+  - Dark Souls Remastered
+  - Dark Souls Remastered 1.0.3
+  - we6jbo
+  - character archive
+  - Nintendo Switch
+  - save reconstruction
+  - game preservation

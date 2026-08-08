@@ -1,0 +1,14 @@
+Dark Souls Remastered v1.0.3 — we6jbo character archive
+Character: we6jbo
+Level: 259
+Covenant: Chaos Servant +2
+Reconstruction target: NG+ — Beginning of NG+ / Northern Undead Asylum
+Starting class: Unknown — not required for recreation
+Starting gift: Unknown — not required for recreation
+Source platform: Nintendo Switch
+Canonical data file: we6jbo-character.json
+Canonical JSON SHA-256: 9830b9b42fc8abc92aac853cb264ebeb92918dd337b2032c3adce221e69572dc
+Last saved UTC: 2026-08-08T21:17:51.980353+00:00
+Finalized: True
+Repository license identifier: GPL-3.0-only
+Repository: https://github.com/we6jbo/dark-souls-remastered-1.0.3-we6jbo-save

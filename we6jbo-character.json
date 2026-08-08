@@ -1,0 +1,2218 @@
+{
+  "schema_version": 1,
+  "game": "Dark Souls Remastered",
+  "game_version_recorded": "1.0.3",
+  "platform_source": "Nintendo Switch",
+  "character_name": "we6jbo",
+  "covenant": "Chaos Servant",
+  "covenant_rank": "+2",
+  "level": 259,
+  "souls": 398300,
+  "humanity_counter": 0,
+  "attributes": {
+    "Vitality": 50,
+    "Attunement": 50,
+    "Endurance": 53,
+    "Strength": 16,
+    "Dexterity": 45,
+    "Resistance": 30,
+    "Intelligence": 58,
+    "Faith": 38
+  },
+  "observed_status": {
+    "HP": "1500/1500",
+    "Stamina": 160,
+    "Equip Load": "25.8/139.5",
+    "R Weapon 1": 487,
+    "R Weapon 2": 46,
+    "L Weapon 1": 120,
+    "L Weapon 2": 50,
+    "Physical DEF": "316(174)",
+    "VS Strike": 327,
+    "VS Slash": 321,
+    "VS Thrust": 312,
+    "Magic DEF": "233(174)",
+    "Flame DEF": "236(174)",
+    "Lightning DEF": "274(174)",
+    "Poise": 8,
+    "Bleed Resist": 210,
+    "Poison Resist": 201,
+    "Curse Resist": 72,
+    "Item Discovery": 100,
+    "Attunement Slots": 10
+  },
+  "equipped": {
+    "Right Hand 1": "Moonlight Greatsword +5",
+    "Right Hand 2": "Logan's Catalyst",
+    "Left Hand 1": "Balder Shield +12",
+    "Left Hand 2": "Pyromancy Flame +5",
+    "Head": "Crown of Dusk",
+    "Chest": "Witch Cloak +5",
+    "Hands": "Brass Gauntlets +5",
+    "Legs": "Xanthous Waistcloth +5",
+    "Ring 1": "Bellowing Dragoncrest Ring",
+    "Ring 2": "Havel's Ring",
+    "Usable Item 1": "Estus Flask +7 x13",
+    "Usable Item 2": "Homeward Bone x76"
+  },
+  "reconstruction": {
+    "target_cycle": "NG+",
+    "target_start": "Beginning of NG+ / Northern Undead Asylum",
+    "starting_class": "Unknown — not required for recreation",
+    "starting_gift": "Unknown — not required for recreation",
+    "appearance": "Choose later — visual only for this reconstruction",
+    "sex_body_type": "Choose later — visual only for this reconstruction",
+    "human_hollow_state": "Not preserved — choose/toggle in game",
+    "attuned_spells": "Not preserved — configure at a bonfire",
+    "quick_item_slots": "Not preserved — configure in equipment menu",
+    "weapon_shield_slots": "Not preserved — configure from owned equipment",
+    "world_progression": "Reset intentionally to beginning of NG+",
+    "reconstruction_blockers": []
+  },
+  "notes": [
+    "Character was played on Nintendo Switch.",
+    "Item/soul duplication was used by the player; quantities are archival observations.",
+    "Goal: recreate a mirror-like offline PC character later, using the recorded legitimate in-game fields and owned items.",
+    "Observed attack/defense values are snapshots and may be derived from attributes/equipment."
+  ],
+  "finalized": true,
+  "inventory": [
+    {
+      "name": "Servant Roster",
+      "quantity": 1
+    },
+    {
+      "name": "Soul of a Lost Undead",
+      "quantity": 1
+    },
+    {
+      "name": "Soul of a Nameless Soldier",
+      "quantity": 2
+    },
+    {
+      "name": "Firebomb",
+      "quantity": 7
+    },
+    {
+      "name": "Souvenir of Reprisal",
+      "quantity": 2
+    },
+    {
+      "name": "Thank You Carving",
+      "quantity": 1
+    },
+    {
+      "name": "Red Sign Soapstone",
+      "quantity": 1
+    },
+    {
+      "name": "Egg Vermifuge",
+      "quantity": 1
+    },
+    {
+      "name": "Eye of Death",
+      "quantity": 4
+    },
+    {
+      "name": "White Sign Soapstone",
+      "quantity": 1
+    },
+    {
+      "name": "Black Firebomb",
+      "quantity": 84
+    },
+    {
+      "name": "Transient Curse",
+      "quantity": 2
+    },
+    {
+      "name": "Divine Blessing",
+      "quantity": 2
+    },
+    {
+      "name": "Orange Guidance Soapstone",
+      "quantity": 1
+    },
+    {
+      "name": "Book of the Guilty",
+      "quantity": 1
+    },
+    {
+      "name": "Hello Carving",
+      "quantity": 1
+    },
+    {
+      "name": "Sunlight Medal",
+      "quantity": 1
+    },
+    {
+      "name": "Throwing Knife",
+      "quantity": 7
+    },
+    {
+      "name": "Green Blossom",
+      "quantity": 99
+    },
+    {
+      "name": "Bloodred Moss Clump",
+      "quantity": 2
+    },
+    {
+      "name": "Dung Pie",
+      "quantity": 6
+    },
+    {
+      "name": "Alluring Skull",
+      "quantity": 37
+    },
+    {
+      "name": "Cracked Red Eye Orb",
+      "quantity": 16
+    },
+    {
+      "name": "Charcoal Pine Resin",
+      "quantity": 10
+    },
+    {
+      "name": "Gold Pine Resin",
+      "quantity": 9
+    },
+    {
+      "name": "Purging Stone",
+      "quantity": 5
+    },
+    {
+      "name": "Estus Flask +7",
+      "quantity": 13
+    },
+    {
+      "name": "Purple Moss Clump",
+      "quantity": 11
+    },
+    {
+      "name": "Soul of the Moonlight Butterfly",
+      "quantity": 1
+    },
+    {
+      "name": "Lloyd's Talisman",
+      "quantity": 23
+    },
+    {
+      "name": "Homeward Bone",
+      "quantity": 76
+    },
+    {
+      "name": "Humanity",
+      "quantity": 3
+    },
+    {
+      "name": "Black Separation Crystal",
+      "quantity": 1
+    },
+    {
+      "name": "Silver Pendant",
+      "quantity": 1
+    },
+    {
+      "name": "Rubbish",
+      "quantity": 2
+    },
+    {
+      "name": "Copper Coin",
+      "quantity": 1
+    },
+    {
+      "name": "Darksign",
+      "quantity": 1
+    },
+    {
+      "name": "Dried Finger",
+      "quantity": 1
+    },
+    {
+      "name": "Titanite Shard",
+      "quantity": 81
+    },
+    {
+      "name": "Large Titanite Shard",
+      "quantity": 81
+    },
+    {
+      "name": "Titanite Chunk",
+      "quantity": 11
+    },
+    {
+      "name": "Titanite Slab",
+      "quantity": 3
+    },
+    {
+      "name": "Green Titanite Shard",
+      "quantity": 99
+    },
+    {
+      "name": "Blue Titanite Chunk",
+      "quantity": 4
+    },
+    {
+      "name": "Red Titanite Chunk",
+      "quantity": 9
+    },
+    {
+      "name": "White Titanite Chunk",
+      "quantity": 10
+    },
+    {
+      "name": "White Titanite Slab",
+      "quantity": 1
+    },
+    {
+      "name": "Twinkling Titanite",
+      "quantity": 99
+    },
+    {
+      "name": "Demon Titanite",
+      "quantity": 1
+    },
+    {
+      "name": "Lord Soul",
+      "quantity": 2
+    },
+    {
+      "name": "Bequeathed Lord Soul Shard",
+      "quantity": 1
+    },
+    {
+      "name": "Repairbox",
+      "quantity": 1
+    },
+    {
+      "name": "Weapon Smithbox",
+      "quantity": 1
+    },
+    {
+      "name": "Armor Smithbox",
+      "quantity": 1
+    },
+    {
+      "name": "Bottomless Box",
+      "quantity": 1
+    },
+    {
+      "name": "Rite of Kindling",
+      "quantity": 1
+    },
+    {
+      "name": "Peculiar Doll",
+      "quantity": 1
+    },
+    {
+      "name": "Master Key",
+      "quantity": 1
+    },
+    {
+      "name": "Crest of Artorias",
+      "quantity": 1
+    },
+    {
+      "name": "Dungeon Cell Key",
+      "quantity": 1
+    },
+    {
+      "name": "Undead Asylum F2 East Key",
+      "quantity": 1
+    },
+    {
+      "name": "Undead Asylum F2 West Key",
+      "quantity": 1
+    },
+    {
+      "name": "Big Pilgrim's Key",
+      "quantity": 1
+    },
+    {
+      "name": "Residence Key",
+      "quantity": 1
+    },
+    {
+      "name": "Basement Key",
+      "quantity": 1
+    },
+    {
+      "name": "Key to Depths",
+      "quantity": 1
+    },
+    {
+      "name": "Watchtower Basement Key",
+      "quantity": 1
+    },
+    {
+      "name": "Sewer Chamber Key",
+      "quantity": 1
+    },
+    {
+      "name": "Blighttown Key",
+      "quantity": 1
+    },
+    {
+      "name": "Key to New Londo Ruins",
+      "quantity": 1
+    },
+    {
+      "name": "Key to the Seal",
+      "quantity": 1
+    },
+    {
+      "name": "Cage Key",
+      "quantity": 1
+    },
+    {
+      "name": "Archive Tower Cell Key",
+      "quantity": 1
+    },
+    {
+      "name": "Archive Prison Extra Key",
+      "quantity": 1
+    },
+    {
+      "name": "Archive Tower Giant Cell Key",
+      "quantity": 1
+    },
+    {
+      "name": "Archive Tower Giant Door Key",
+      "quantity": 1
+    }
+  ],
+  "equipment_inventory": [
+    {
+      "name": "Anklet of the Great Lord",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Antiquated Dress",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Antiquated Gloves",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Antiquated Skirt",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Astora's Straight Sword",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Balder Leggings",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Balder Shield",
+      "quantity": 1,
+      "upgrade": 12,
+      "upgrade_max": 15
+    },
+    {
+      "name": "Bandit's Knife",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": 15
+    },
+    {
+      "name": "Barbed Straight Sword",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": 15
+    },
+    {
+      "name": "Battle Axe",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": 15
+    },
+    {
+      "name": "Beatrice's Catalyst",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Bellowing Dragoncrest Ring",
+      "quantity": 2,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Big Hat",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Black Iron Armor",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Black Iron Gauntlets",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Black Iron Greatshield",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": 5
+    },
+    {
+      "name": "Black Iron Helm",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Black Iron Leggings",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Black Knight Halberd",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": 5
+    },
+    {
+      "name": "Black Knight Sword",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": 5
+    },
+    {
+      "name": "Black Leather Armor",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Black Leather Armor",
+      "quantity": 1,
+      "upgrade": 5,
+      "upgrade_max": 5
+    },
+    {
+      "name": "Black Leather Boots",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Black Leather Boots",
+      "quantity": 1,
+      "upgrade": 3,
+      "upgrade_max": 3
+    },
+    {
+      "name": "Black Leather Gloves",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Black Leather Gloves",
+      "quantity": 1,
+      "upgrade": 3,
+      "upgrade_max": 3
+    },
+    {
+      "name": "Black Sorcerer Boots",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Black Sorcerer Cloak",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Black Sorcerer Gauntlets",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Black Sorcerer Hat",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Blood-Stained Skirt",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Bloodshield",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": 5
+    },
+    {
+      "name": "Blue Tearstone Ring",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Bracelet of the Great Lord",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Brass Armor",
+      "quantity": 2,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Brass Gauntlets",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Brass Gauntlets",
+      "quantity": 1,
+      "upgrade": 5,
+      "upgrade_max": 5
+    },
+    {
+      "name": "Brass Helm",
+      "quantity": 2,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Brass Leggings",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Brigand Armor",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Brigand Gauntlets",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Brigand Hood",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Brigand Trousers",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Broken Straight Sword",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Buckler",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": 15
+    },
+    {
+      "name": "Butcher Knife",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": 15
+    },
+    {
+      "name": "Caduceus Round Shield",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": 15
+    },
+    {
+      "name": "Calamity Ring",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Cat Covenant Ring",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Chain Armor",
+      "quantity": 2,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Chain Leggings",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Chester's Gloves",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Chester's Long Coat",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Chester's Trousers",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Claymore",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": 15
+    },
+    {
+      "name": "Cleansing Greatshield",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Composite Bow",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": 15
+    },
+    {
+      "name": "Covenant of Artorias",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Covetous Gold Serpent Ring",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Covetous Silver Serpent Ring",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Cracked Round Shield",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": 15
+    },
+    {
+      "name": "Crescent Axe",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": 15
+    },
+    {
+      "name": "Crest Shield",
+      "quantity": 1,
+      "upgrade": 5,
+      "upgrade_max": 5
+    },
+    {
+      "name": "Crimson Gloves",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Crimson Robe",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Crimson Waistcloth",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Crown of Dusk",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Crown of the Dark Sun",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Crown of the Great Lord",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Crystal Greatsword",
+      "quantity": 2,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Crystal Halberd",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Crystal Shield",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Crystal Straight Sword",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Cursebite Ring",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Dark Silver Tracer",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": 5
+    },
+    {
+      "name": "Dark Wood Grain Ring",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Darkmoon Seance Ring",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Demon's Catalyst",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Demon's Great Hammer",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Demon's Greataxe",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Demon's Spear",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": 5
+    },
+    {
+      "name": "Dingy Gloves",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Dingy Hood",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Dingy Robe",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Dragon Crest Shield",
+      "quantity": 1,
+      "upgrade": 2,
+      "upgrade_max": 5
+    },
+    {
+      "name": "Dragon Tooth",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": 5
+    },
+    {
+      "name": "Drake Sword",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": 5
+    },
+    {
+      "name": "Dusk Crown Ring",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Eagle Shield",
+      "quantity": 1,
+      "upgrade": 6,
+      "upgrade_max": 15
+    },
+    {
+      "name": "Embraced Armor of Favor",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Enchanted Composite Bow",
+      "quantity": 1,
+      "upgrade": 5,
+      "upgrade_max": 5
+    },
+    {
+      "name": "Enchanted Falchion",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Estoc",
+      "quantity": 2,
+      "upgrade": null,
+      "upgrade_max": 15
+    },
+    {
+      "name": "Falchion",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": 15
+    },
+    {
+      "name": "Fang Boar Helm",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Flame Stoneplate Ring",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Gargoyle Helm",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Gargoyle's Halberd",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Gargoyle's Shield",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": 15
+    },
+    {
+      "name": "Gauntlets of Favor",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Gauntlets of the Channelers",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Giant's Halberd",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Gold Tracer",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": 5
+    },
+    {
+      "name": "Gold-Hemmed Black Cloak",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Gold-Hemmed Black Gloves",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Gold-Hemmed Black Hood",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Gold-Hemmed Black Skirt",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Grass Crest Shield",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": 5
+    },
+    {
+      "name": "Great Scythe",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": 15
+    },
+    {
+      "name": "Greatsword",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": 15
+    },
+    {
+      "name": "Guardian Gauntlets",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Halberd",
+      "quantity": 2,
+      "upgrade": null,
+      "upgrade_max": 15
+    },
+    {
+      "name": "Hard Leather Armor",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Hard Leather Boots",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Hard Leather Gauntlets",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Havel's Armor",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Havel's Gauntlets",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Havel's Greatshield",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": 5
+    },
+    {
+      "name": "Havel's Helm",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Havel's Leggings",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Havel's Ring",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Heater Shield",
+      "quantity": 1,
+      "upgrade": 14,
+      "upgrade_max": 15
+    },
+    {
+      "name": "Heavy Crossbow",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": 15
+    },
+    {
+      "name": "Helm of Favor",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Hollow Soldier Armor",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Hollow Soldier Helm",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Hollow Soldier Shield",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": 15
+    },
+    {
+      "name": "Hollow Soldier Waistcloth",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Hollow Warrior Armor",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Hollow Warrior Waistcloth",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Hornet Ring",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Iron Round Shield",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": 15
+    },
+    {
+      "name": "Izalith Catalyst",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Jagged Ghost Blade",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Knight Armor",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Knight Gauntlets",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Knight Helm",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Knight Leggings",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Knight Shield",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": 15
+    },
+    {
+      "name": "Large Club",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": 15
+    },
+    {
+      "name": "Leather Armor",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Leather Boots",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Leather Gloves",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Leggings of Favor",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Lightning Gargoyle's Halberd",
+      "quantity": 1,
+      "upgrade": 5,
+      "upgrade_max": 5
+    },
+    {
+      "name": "Lightning Spear",
+      "quantity": 1,
+      "upgrade": 1,
+      "upgrade_max": 1
+    },
+    {
+      "name": "Lingering Dragoncrest Ring",
+      "quantity": 2,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Logan's Catalyst",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Longbow",
+      "quantity": 2,
+      "upgrade": null,
+      "upgrade_max": 15
+    },
+    {
+      "name": "Lord's Blade Gloves",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Lord's Blade Robe",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Lord's Blade Waistcloth",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Maiden Gloves",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Maiden Hood",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Maiden Robe",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Maiden Skirt",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Man-serpent Greatsword",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": 15
+    },
+    {
+      "name": "Mask of the Child",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Mask of the Sealer",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Moonlight Greatsword",
+      "quantity": 1,
+      "upgrade": 5,
+      "upgrade_max": 5
+    },
+    {
+      "name": "Morning Star",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": 15
+    },
+    {
+      "name": "Notched Whip",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": 15
+    },
+    {
+      "name": "Occult Club",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Oolacile Ivory Catalyst",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Orange Charred Ring",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Painting Guardian Gloves",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Painting Guardian Hood",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Painting Guardian Robe",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Painting Guardian Waistcloth",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Parrying Dagger",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": 15
+    },
+    {
+      "name": "Plank Shield",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": 15
+    },
+    {
+      "name": "Porcelain Mask",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Pyromancy Flame",
+      "quantity": 1,
+      "upgrade": 5,
+      "upgrade_max": 15
+    },
+    {
+      "name": "Pyromancy Flame",
+      "quantity": 1,
+      "upgrade": 15,
+      "upgrade_max": 15
+    },
+    {
+      "name": "Quelaag's Furysword",
+      "quantity": 1,
+      "upgrade": 5,
+      "upgrade_max": 5
+    },
+    {
+      "name": "Rare Ring of Sacrifice",
+      "quantity": 2,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Red and White Round Shield",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": 15
+    },
+    {
+      "name": "Ricard's Rapier",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": 15
+    },
+    {
+      "name": "Ring of Favor and Protection",
+      "quantity": 2,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Ring of Sacrifice",
+      "quantity": 2,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Ring of the Sun Princess",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Ring of the Sun's Firstborn",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Robe of the Channeler",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Robe of the Great Lord",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Rusted Iron Ring",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Sack",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Sage Robe",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Scimitar",
+      "quantity": 2,
+      "upgrade": null,
+      "upgrade_max": 15
+    },
+    {
+      "name": "Shortsword",
+      "quantity": 2,
+      "upgrade": null,
+      "upgrade_max": 15
+    },
+    {
+      "name": "Six-Eyed Helm of the Channelers",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Skull Lantern",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Snickering Top Hat",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Sniper Crossbow",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": 15
+    },
+    {
+      "name": "Sorcerer Boots",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Sorcerer Cloak",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Sorcerer Gauntlets",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Sorcerer Hat",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Sorcerer's Catalyst",
+      "quantity": 2,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Spider Shield",
+      "quantity": 1,
+      "upgrade": 7,
+      "upgrade_max": 15
+    },
+    {
+      "name": "Spiked Shield",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": 15
+    },
+    {
+      "name": "Standard Helm",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Stone Armor",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Stone Gauntlets",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Stone Helm",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Stone Leggings",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Straight Sword Hilt",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Talisman",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Target Shield",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": 15
+    },
+    {
+      "name": "Thief Mask",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Thief Mask",
+      "quantity": 1,
+      "upgrade": 3,
+      "upgrade_max": 3
+    },
+    {
+      "name": "Tin Banishment Catalyst",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Titanite Catch Pole",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": 5
+    },
+    {
+      "name": "Traveling Boots",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Traveling Gloves",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Waistcloth of the Channelers",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Wanderer Boots",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Wanderer Coat",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Wanderer Hood",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Wanderer Manchette",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "White Seance Ring",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Witch Cloak",
+      "quantity": 1,
+      "upgrade": 5,
+      "upgrade_max": 5
+    },
+    {
+      "name": "Witch Gloves",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Witch Hat",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Witch Skirt",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Wolf Ring",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Wood Bolt",
+      "quantity": 999,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Wooden Arrow",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Xanthous Crown",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Xanthous Gloves",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Xanthous Overcoat",
+      "quantity": 1,
+      "upgrade": null,
+      "upgrade_max": null
+    },
+    {
+      "name": "Xanthous Waistcloth",
+      "quantity": 1,
+      "upgrade": 5,
+      "upgrade_max": 5
+    }
+  ],
+  "spells": [
+    {
+      "name": "Soul Arrow",
+      "copies": 5,
+      "intelligence_required": 10,
+      "faith_required": 0,
+      "casts_per_copy": 30,
+      "attunement_slots": 1,
+      "school": "Sorcery"
+    },
+    {
+      "name": "Great Soul Arrow",
+      "copies": 4,
+      "intelligence_required": 14,
+      "faith_required": 0,
+      "casts_per_copy": 20,
+      "attunement_slots": 1,
+      "school": "Sorcery"
+    },
+    {
+      "name": "Heavy Soul Arrow",
+      "copies": 5,
+      "intelligence_required": 12,
+      "faith_required": 0,
+      "casts_per_copy": 12,
+      "attunement_slots": 1,
+      "school": "Sorcery"
+    },
+    {
+      "name": "Great Heavy Soul Arrow",
+      "copies": 4,
+      "intelligence_required": 16,
+      "faith_required": 0,
+      "casts_per_copy": 8,
+      "attunement_slots": 1,
+      "school": "Sorcery"
+    },
+    {
+      "name": "Homing Soulmass",
+      "copies": 4,
+      "intelligence_required": 18,
+      "faith_required": 0,
+      "casts_per_copy": 10,
+      "attunement_slots": 1,
+      "school": "Sorcery"
+    },
+    {
+      "name": "Homing Crystal Soulmass",
+      "copies": 2,
+      "intelligence_required": 24,
+      "faith_required": 0,
+      "casts_per_copy": 10,
+      "attunement_slots": 1,
+      "school": "Sorcery"
+    },
+    {
+      "name": "Soul Spear",
+      "copies": 3,
+      "intelligence_required": 36,
+      "faith_required": 0,
+      "casts_per_copy": 4,
+      "attunement_slots": 1,
+      "school": "Sorcery"
+    },
+    {
+      "name": "Crystal Soul Spear",
+      "copies": 2,
+      "intelligence_required": 44,
+      "faith_required": 0,
+      "casts_per_copy": 4,
+      "attunement_slots": 1,
+      "school": "Sorcery"
+    },
+    {
+      "name": "White Dragon Breath",
+      "copies": 1,
+      "intelligence_required": 50,
+      "faith_required": 0,
+      "casts_per_copy": 20,
+      "attunement_slots": 1,
+      "school": "Sorcery"
+    },
+    {
+      "name": "Magic Weapon",
+      "copies": 4,
+      "intelligence_required": 10,
+      "faith_required": 0,
+      "casts_per_copy": 5,
+      "attunement_slots": 1,
+      "school": "Sorcery"
+    },
+    {
+      "name": "Great Magic Weapon",
+      "copies": 1,
+      "intelligence_required": 15,
+      "faith_required": 0,
+      "casts_per_copy": 3,
+      "attunement_slots": 1,
+      "school": "Sorcery"
+    },
+    {
+      "name": "Crystal Magic Weapon",
+      "copies": 2,
+      "intelligence_required": 25,
+      "faith_required": 0,
+      "casts_per_copy": 3,
+      "attunement_slots": 1,
+      "school": "Sorcery"
+    },
+    {
+      "name": "Magic Shield",
+      "copies": 4,
+      "intelligence_required": 10,
+      "faith_required": 0,
+      "casts_per_copy": 5,
+      "attunement_slots": 1,
+      "school": "Sorcery"
+    },
+    {
+      "name": "Aural Decoy",
+      "copies": 2,
+      "intelligence_required": 10,
+      "faith_required": 0,
+      "casts_per_copy": 20,
+      "attunement_slots": 1,
+      "school": "Sorcery"
+    },
+    {
+      "name": "Hush",
+      "copies": 1,
+      "intelligence_required": 15,
+      "faith_required": 0,
+      "casts_per_copy": 6,
+      "attunement_slots": 1,
+      "school": "Sorcery"
+    },
+    {
+      "name": "Fall Control",
+      "copies": 2,
+      "intelligence_required": 15,
+      "faith_required": 0,
+      "casts_per_copy": 10,
+      "attunement_slots": 1,
+      "school": "Sorcery"
+    },
+    {
+      "name": "Hidden Weapon",
+      "copies": 1,
+      "intelligence_required": 14,
+      "faith_required": 0,
+      "casts_per_copy": 3,
+      "attunement_slots": 1,
+      "school": "Sorcery"
+    },
+    {
+      "name": "Hidden Body",
+      "copies": 1,
+      "intelligence_required": 14,
+      "faith_required": 0,
+      "casts_per_copy": 3,
+      "attunement_slots": 1,
+      "school": "Sorcery"
+    },
+    {
+      "name": "Repair",
+      "copies": 1,
+      "intelligence_required": 14,
+      "faith_required": 0,
+      "casts_per_copy": 1,
+      "attunement_slots": 1,
+      "school": "Sorcery"
+    },
+    {
+      "name": "Cast Light",
+      "copies": 1,
+      "intelligence_required": 14,
+      "faith_required": 0,
+      "casts_per_copy": 3,
+      "attunement_slots": 1,
+      "school": "Sorcery"
+    },
+    {
+      "name": "Chameleon",
+      "copies": 1,
+      "intelligence_required": 14,
+      "faith_required": 0,
+      "casts_per_copy": 11,
+      "attunement_slots": 1,
+      "school": "Sorcery"
+    },
+    {
+      "name": "Remedy",
+      "copies": 1,
+      "intelligence_required": 16,
+      "faith_required": 0,
+      "casts_per_copy": 4,
+      "attunement_slots": 1,
+      "school": "Sorcery"
+    },
+    {
+      "name": "Dark Orb",
+      "copies": 1,
+      "intelligence_required": 16,
+      "faith_required": 0,
+      "casts_per_copy": 12,
+      "attunement_slots": 1,
+      "school": "Sorcery"
+    },
+    {
+      "name": "Dark Bead",
+      "copies": 1,
+      "intelligence_required": 16,
+      "faith_required": 0,
+      "casts_per_copy": 6,
+      "attunement_slots": 1,
+      "school": "Sorcery"
+    },
+    {
+      "name": "Dark Fog",
+      "copies": 1,
+      "intelligence_required": 18,
+      "faith_required": 0,
+      "casts_per_copy": 2,
+      "attunement_slots": 1,
+      "school": "Sorcery"
+    },
+    {
+      "name": "Pursuers",
+      "copies": 1,
+      "intelligence_required": 32,
+      "faith_required": 0,
+      "casts_per_copy": 3,
+      "attunement_slots": 2,
+      "school": "Sorcery"
+    },
+    {
+      "name": "Fireball",
+      "copies": 1,
+      "intelligence_required": 0,
+      "faith_required": 0,
+      "casts_per_copy": 8,
+      "attunement_slots": 1,
+      "school": "Pyromancy"
+    },
+    {
+      "name": "Fire Orb",
+      "copies": 1,
+      "intelligence_required": 0,
+      "faith_required": 0,
+      "casts_per_copy": 6,
+      "attunement_slots": 1,
+      "school": "Pyromancy"
+    },
+    {
+      "name": "Great Chaos Fireball",
+      "copies": 1,
+      "intelligence_required": 0,
+      "faith_required": 0,
+      "casts_per_copy": 4,
+      "attunement_slots": 2,
+      "school": "Pyromancy"
+    },
+    {
+      "name": "Chaos Storm",
+      "copies": 1,
+      "intelligence_required": 0,
+      "faith_required": 0,
+      "casts_per_copy": 20,
+      "attunement_slots": 2,
+      "school": "Pyromancy"
+    },
+    {
+      "name": "Combustion",
+      "copies": 1,
+      "intelligence_required": 0,
+      "faith_required": 0,
+      "casts_per_copy": 16,
+      "attunement_slots": 1,
+      "school": "Pyromancy"
+    },
+    {
+      "name": "Fire Surge",
+      "copies": 1,
+      "intelligence_required": 0,
+      "faith_required": 0,
+      "casts_per_copy": 80,
+      "attunement_slots": 1,
+      "school": "Pyromancy"
+    },
+    {
+      "name": "Chaos Fire Whip",
+      "copies": 1,
+      "intelligence_required": 0,
+      "faith_required": 0,
+      "casts_per_copy": 80,
+      "attunement_slots": 2,
+      "school": "Pyromancy"
+    },
+    {
+      "name": "Poison Mist",
+      "copies": 1,
+      "intelligence_required": 0,
+      "faith_required": 0,
+      "casts_per_copy": 3,
+      "attunement_slots": 1,
+      "school": "Pyromancy"
+    },
+    {
+      "name": "Acid Surge",
+      "copies": 1,
+      "intelligence_required": 0,
+      "faith_required": 0,
+      "casts_per_copy": 2,
+      "attunement_slots": 1,
+      "school": "Pyromancy"
+    },
+    {
+      "name": "Flash Sweat",
+      "copies": 1,
+      "intelligence_required": 0,
+      "faith_required": 0,
+      "casts_per_copy": 3,
+      "attunement_slots": 1,
+      "school": "Pyromancy"
+    },
+    {
+      "name": "Iron Flesh",
+      "copies": 1,
+      "intelligence_required": 0,
+      "faith_required": 0,
+      "casts_per_copy": 3,
+      "attunement_slots": 1,
+      "school": "Pyromancy"
+    },
+    {
+      "name": "Power Within",
+      "copies": 1,
+      "intelligence_required": 0,
+      "faith_required": 0,
+      "casts_per_copy": 1,
+      "attunement_slots": 1,
+      "school": "Pyromancy"
+    },
+    {
+      "name": "Heal",
+      "copies": 1,
+      "intelligence_required": 0,
+      "faith_required": 12,
+      "casts_per_copy": 5,
+      "attunement_slots": 1,
+      "school": "Miracle"
+    },
+    {
+      "name": "Great Heal Excerpt",
+      "copies": 1,
+      "intelligence_required": 0,
+      "faith_required": 14,
+      "casts_per_copy": 1,
+      "attunement_slots": 1,
+      "school": "Miracle"
+    },
+    {
+      "name": "Soothing Sunlight",
+      "copies": 2,
+      "intelligence_required": 0,
+      "faith_required": 48,
+      "casts_per_copy": 3,
+      "attunement_slots": 2,
+      "school": "Miracle"
+    },
+    {
+      "name": "Replenishment",
+      "copies": 2,
+      "intelligence_required": 0,
+      "faith_required": 16,
+      "casts_per_copy": 2,
+      "attunement_slots": 1,
+      "school": "Miracle"
+    },
+    {
+      "name": "Bountiful Sunlight",
+      "copies": 2,
+      "intelligence_required": 0,
+      "faith_required": 36,
+      "casts_per_copy": 2,
+      "attunement_slots": 2,
+      "school": "Miracle"
+    },
+    {
+      "name": "Force",
+      "copies": 1,
+      "intelligence_required": 0,
+      "faith_required": 12,
+      "casts_per_copy": 21,
+      "attunement_slots": 1,
+      "school": "Miracle"
+    },
+    {
+      "name": "Great Magic Barrier",
+      "copies": 1,
+      "intelligence_required": 0,
+      "faith_required": 24,
+      "casts_per_copy": 2,
+      "attunement_slots": 1,
+      "school": "Miracle"
+    },
+    {
+      "name": "Homeward",
+      "copies": 1,
+      "intelligence_required": 0,
+      "faith_required": 18,
+      "casts_per_copy": 1,
+      "attunement_slots": 1,
+      "school": "Miracle"
+    },
+    {
+      "name": "Seek Guidance",
+      "copies": 1,
+      "intelligence_required": 0,
+      "faith_required": 12,
+      "casts_per_copy": 5,
+      "attunement_slots": 1,
+      "school": "Miracle"
+    },
+    {
+      "name": "Karmic Justice",
+      "copies": 1,
+      "intelligence_required": 0,
+      "faith_required": 20,
+      "casts_per_copy": 4,
+      "attunement_slots": 1,
+      "school": "Miracle"
+    },
+    {
+      "name": "Sunlight Blade",
+      "copies": 2,
+      "intelligence_required": 0,
+      "faith_required": 30,
+      "casts_per_copy": 1,
+      "attunement_slots": 1,
+      "school": "Miracle"
+    }
+  ],
+  "last_saved_utc": "2026-08-08T21:17:51.980353+00:00",
+  "finalized_utc": "2026-08-08T21:17:32.231908+00:00"
+}
