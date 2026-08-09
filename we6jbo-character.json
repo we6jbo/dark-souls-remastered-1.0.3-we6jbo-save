@@ -7,7 +7,7 @@
   "covenant": "Chaos Servant",
   "covenant_rank": "+2",
   "level": 259,
-  "souls": 590402,
+  "souls": 623420,
   "humanity_counter": 0,
   "attributes": {
     "Vitality": 50,
@@ -2221,7 +2221,7 @@
     "start_policy": "Beginning of NG+",
     "current_area": "Undead Parish",
     "checkpoint_area": "Firelink Shrine",
-    "sim_hp": 1000,
+    "sim_hp": 735,
     "sim_max_hp": 1500,
     "sim_estus": 12,
     "sim_humanity_state": "Hollow",
@@ -2241,12 +2241,12 @@
       "Darkroot Garden",
       "Darkroot Basin"
     ],
-    "encounters_won": 49,
+    "encounters_won": 55,
     "deaths": 0,
-    "souls_earned_in_simulator": 192102,
+    "souls_earned_in_simulator": 225120,
     "notes": [],
-    "last_session_summary": "we6jbo simulation: 127 accomplishments; Updated local map marker in Undead Parish",
-    "last_saved_local": "2026-08-08T20:13:38.194966-07:00",
+    "last_session_summary": "we6jbo simulation: 17 accomplishments; Thoroughly explored Undead Parish",
+    "last_saved_local": "2026-08-08T20:19:22.329336-07:00",
     "progress_flags": {
       "bell_of_awakening_parish": true
     },
@@ -2276,8 +2276,8 @@
         "updated_local": "2026-08-08T20:13:09.825835-07:00"
       }
     },
-    "live_stream_url": "https://asciinema.org/s/827cl689ZYKcHoZC",
-    "live_stream_started_local": "2026-08-08T19:29:22.356531-07:00",
+    "live_stream_url": "https://asciinema.org/s/deIKJ3l3mCjon4Si",
+    "live_stream_started_local": "2026-08-08T20:14:51.921684-07:00",
     "session_history": [
       {
         "saved_local": "2026-08-08T20:04:21.512517-07:00",
@@ -2573,6 +2573,29 @@
           "2026-08-08 20:13:09: Updated local map marker in Undead Parish"
         ],
         "summary": "we6jbo simulation: 127 accomplishments; Updated local map marker in Undead Parish"
+      },
+      {
+        "saved_local": "2026-08-08T20:19:22.329256-07:00",
+        "events": [
+          "2026-08-08 20:15:31: Message to live audience: Welcome to the livestream.",
+          "2026-08-08 20:18:03: Defeated Demon-like guardian in Undead Parish (+5,000 souls)",
+          "2026-08-08 20:18:06: Thoroughly explored Undead Parish",
+          "2026-08-08 20:18:08: Defeated Demon-like guardian in Undead Parish (+5,000 souls)",
+          "2026-08-08 20:18:16: Found 2,230 simulated souls while exploring Undead Parish",
+          "2026-08-08 20:18:17: Defeated Demon-like guardian in Undead Parish (+5,000 souls)",
+          "2026-08-08 20:18:19: Thoroughly explored Undead Parish",
+          "2026-08-08 20:18:30: Defeated Black knight-like challenger in Undead Parish (+3,500 souls)",
+          "2026-08-08 20:18:34: Thoroughly explored Undead Parish",
+          "2026-08-08 20:18:50: Found 1,166 simulated souls while exploring Undead Parish",
+          "2026-08-08 20:18:56: Found 3,038 simulated souls while exploring Undead Parish",
+          "2026-08-08 20:18:58: Defeated Armored hollow in Undead Parish (+1,400 souls)",
+          "2026-08-08 20:19:00: Found 1,220 simulated souls while exploring Undead Parish",
+          "2026-08-08 20:19:03: Found 3,264 simulated souls while exploring Undead Parish",
+          "2026-08-08 20:19:12: Defeated Sorcerous ambush in Undead Parish (+2,200 souls)",
+          "2026-08-08 20:19:16: Thoroughly explored Undead Parish",
+          "2026-08-08 20:19:22: Thoroughly explored Undead Parish"
+        ],
+        "summary": "we6jbo simulation: 17 accomplishments; Thoroughly explored Undead Parish"
       }
     ]
   }
