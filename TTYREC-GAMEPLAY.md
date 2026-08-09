@@ -21,7 +21,7 @@ or third-party map image is automatically committed to this character archive.
 ## Exact archived character build used by the simulator
 
 - Level: **259**
-- Souls at archive load/save: **1,695,664**
+- Souls at archive load/save: **1,811,951**
 - Humanity counter: **0**
 - Covenant: **Chaos Servant +2**
 - Vitality: **50**
@@ -88,8 +88,8 @@ intellectual property remain the property of their respective rights holders.
 
 ## Session status
 
-Last simulator save: **2026-08-08T20:47:58.345989-07:00**
+Last simulator save: **2026-08-08T20:54:08.098656-07:00**
 
 Last session summary:
 
-> we6jbo simulation: 29 accomplishments; Rested and set checkpoint at Firelink Shrine
+> we6jbo simulation: 103 accomplishments; Traveled from Tomb of the Giants to The Catacombs
