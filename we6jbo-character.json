@@ -7,7 +7,7 @@
   "covenant": "Chaos Servant",
   "covenant_rank": "+2",
   "level": 259,
-  "souls": 10220894,
+  "souls": 10231594,
   "humanity_counter": 0,
   "attributes": {
     "Vitality": 50,
@@ -2557,12 +2557,12 @@
       "Firelink Altar",
       "Kiln of the First Flame"
     ],
-    "encounters_won": 2676,
+    "encounters_won": 2679,
     "deaths": 0,
-    "souls_earned_in_simulator": 9822594,
+    "souls_earned_in_simulator": 9833294,
     "notes": [],
-    "last_session_summary": "Saved we6jbo simulator state at The Great Hollow",
-    "last_saved_local": "2026-08-09T13:18:34.784653-07:00",
+    "last_session_summary": "we6jbo simulation: 3 accomplishments; Defeated Sorcerous ambush in The Great Hollow (+2,200 souls)",
+    "last_saved_local": "2026-08-09T13:47:30.711635-07:00",
     "progress_flags": {
       "bell_of_awakening_quelaag": true,
       "bell_of_awakening_parish": true,
@@ -2610,8 +2610,8 @@
         "updated_local": "2026-08-09T05:58:36.185621-07:00"
       }
     },
-    "live_stream_url": "https://asciinema.org/s/jaxrksf07khiHmHz",
-    "live_stream_started_local": "2026-08-09T13:14:33.586537-07:00",
+    "live_stream_url": "https://asciinema.org/s/suep3L6X3LTNVKAj",
+    "live_stream_started_local": "2026-08-09T13:18:48.732739-07:00",
     "session_history": [
       {
         "saved_local": "2026-08-08T20:04:21.512517-07:00",
@@ -4056,7 +4056,7 @@
         "summary": "we6jbo simulation: 215 accomplishments; Defeated Hollow patrol in The Great Hollow (+900 souls)"
       }
     ],
-    "restart_requested_local": "2026-08-09T13:18:34.784548-07:00",
+    "restart_requested_local": "2026-08-09T13:47:30.711578-07:00",
     "ng_plus_cycle_complete": false,
     "completed_cycle": "NG+",
     "completion_local": "2026-08-08T21:15:42.720854-07:00",

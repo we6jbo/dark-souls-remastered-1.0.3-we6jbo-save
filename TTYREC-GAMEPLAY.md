@@ -10,7 +10,7 @@ or third-party map image is automatically committed to this character archive.
 
 ## Current simulator
 
-- Simulator version: **37.0**
+- Simulator version: **39.0**
 - Character: **we6jbo**
 - Source character archive: `we6jbo-character.json`
 - Target cycle: **NG+**
@@ -21,7 +21,7 @@ or third-party map image is automatically committed to this character archive.
 ## Exact archived character build used by the simulator
 
 - Level: **259**
-- Souls at archive load/save: **10,220,894**
+- Souls at archive load/save: **10,231,594**
 - Humanity counter: **0**
 - Covenant: **Chaos Servant +2**
 - Vitality: **50**
@@ -89,8 +89,8 @@ intellectual property remain the property of their respective rights holders.
 
 ## Session status
 
-Last simulator save: **2026-08-09T13:18:34.784653-07:00**
+Last simulator save: **2026-08-09T13:47:30.711635-07:00**
 
 Last session summary:
 
-> Saved we6jbo simulator state at The Great Hollow
+> we6jbo simulation: 3 accomplishments; Defeated Sorcerous ambush in The Great Hollow (+2,200 souls)
