@@ -7,7 +7,7 @@
   "covenant": "Chaos Servant",
   "covenant_rank": "+2",
   "level": 259,
-  "souls": 1928622,
+  "souls": 1998622,
   "humanity_counter": 0,
   "attributes": {
     "Vitality": 50,
@@ -2219,7 +2219,7 @@
     "schema_version": 1,
     "cycle": "NG+",
     "start_policy": "Beginning of NG+",
-    "current_area": "Firelink Shrine",
+    "current_area": "Kiln of the First Flame",
     "checkpoint_area": "Firelink Shrine",
     "sim_hp": 1070,
     "sim_max_hp": 1500,
@@ -2249,14 +2249,16 @@
       "The Abyss",
       "Demon Ruins",
       "Lost Izalith",
-      "Tomb of the Giants"
+      "Tomb of the Giants",
+      "Firelink Altar",
+      "Kiln of the First Flame"
     ],
     "encounters_won": 347,
     "deaths": 0,
-    "souls_earned_in_simulator": 1530322,
+    "souls_earned_in_simulator": 1600322,
     "notes": [],
-    "last_session_summary": "we6jbo simulation: 12 accomplishments; Traveled from Undead Burg to Firelink Shrine",
-    "last_saved_local": "2026-08-08T21:13:21.848164-07:00",
+    "last_session_summary": "we6jbo simulation: 4 accomplishments; Completed the simulated NG+ cycle by defeating Gwyn, Lord of Cinder",
+    "last_saved_local": "2026-08-08T21:15:55.425490-07:00",
     "progress_flags": {
       "bell_of_awakening_parish": true,
       "bell_of_awakening_quelaag": true,
@@ -2264,7 +2266,8 @@
       "lord_soul_seath": true,
       "lord_soul_four_kings": true,
       "lord_soul_bed_of_chaos": true,
-      "lord_soul_nito": true
+      "lord_soul_nito": true,
+      "gwyn_defeated": true
     },
     "bosses_defeated": [
       "Bell Gargoyles",
@@ -2275,7 +2278,8 @@
       "Four Kings",
       "Bed of Chaos",
       "Asylum Demon",
-      "Gravelord Nito"
+      "Gravelord Nito",
+      "Gwyn, Lord of Cinder"
     ],
     "bloodstain_souls": 0,
     "bloodstain_area": null,
@@ -2300,8 +2304,8 @@
         "updated_local": "2026-08-08T20:13:09.825835-07:00"
       }
     },
-    "live_stream_url": "https://asciinema.org/s/uupRT8En1CWwm2HC",
-    "live_stream_started_local": "2026-08-08T21:07:56.044689-07:00",
+    "live_stream_url": "https://asciinema.org/s/2OvnDnNaoqvnNtEp",
+    "live_stream_started_local": "2026-08-08T21:13:28.835232-07:00",
     "session_history": [
       {
         "saved_local": "2026-08-08T20:04:21.512517-07:00",
@@ -3513,8 +3517,21 @@
           "2026-08-08 20:54:06: Traveled from Tomb of the Giants to The Catacombs"
         ],
         "summary": "we6jbo simulation: 103 accomplishments; Traveled from Tomb of the Giants to The Catacombs"
+      },
+      {
+        "saved_local": "2026-08-08T21:15:55.425429-07:00",
+        "events": [
+          "2026-08-08 21:15:19: Reached Firelink Altar for the first time",
+          "2026-08-08 21:15:33: Reached Kiln of the First Flame for the first time",
+          "2026-08-08 21:15:42: Defeated Gwyn, Lord of Cinder in Kiln of the First Flame (+70,000 souls)",
+          "2026-08-08 21:15:42: Completed the simulated NG+ cycle by defeating Gwyn, Lord of Cinder"
+        ],
+        "summary": "we6jbo simulation: 4 accomplishments; Completed the simulated NG+ cycle by defeating Gwyn, Lord of Cinder"
       }
     ],
-    "restart_requested_local": "2026-08-08T21:13:21.848118-07:00"
+    "restart_requested_local": "2026-08-08T21:13:21.848118-07:00",
+    "ng_plus_cycle_complete": true,
+    "completed_cycle": "NG+",
+    "completion_local": "2026-08-08T21:15:42.720854-07:00"
   }
 }

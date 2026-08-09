@@ -1,12 +1,12 @@
 Dark Souls Remastered v1.0.3 — we6jbo character archive
 Character: we6jbo
 Level: 259
-Souls: 1928622
+Souls: 1998622
 Covenant: Chaos Servant +2
 Simulation target: NG+ beginning
-Simulator current area: Firelink Shrine
+Simulator current area: Kiln of the First Flame
 Simulator encounters won: 347
 Simulator deaths: 0
-Simulator last saved: 2026-08-08T21:13:21.848164-07:00
-Last session summary: we6jbo simulation: 12 accomplishments; Traveled from Undead Burg to Firelink Shrine
+Simulator last saved: 2026-08-08T21:15:55.425490-07:00
+Last session summary: we6jbo simulation: 4 accomplishments; Completed the simulated NG+ cycle by defeating Gwyn, Lord of Cinder
 Repository: https://github.com/we6jbo/dark-souls-remastered-1.0.3-we6jbo-save
