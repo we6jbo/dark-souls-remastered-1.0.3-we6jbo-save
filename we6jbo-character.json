@@ -7,7 +7,7 @@
   "covenant": "Chaos Servant",
   "covenant_rank": "+2",
   "level": 259,
-  "souls": 10231594,
+  "souls": 10243965,
   "humanity_counter": 0,
   "attributes": {
     "Vitality": 50,
@@ -2557,12 +2557,12 @@
       "Firelink Altar",
       "Kiln of the First Flame"
     ],
-    "encounters_won": 2679,
+    "encounters_won": 2684,
     "deaths": 0,
-    "souls_earned_in_simulator": 9833294,
+    "souls_earned_in_simulator": 9845665,
     "notes": [],
-    "last_session_summary": "Saved we6jbo simulator state at The Great Hollow",
-    "last_saved_local": "2026-08-09T14:44:33.628095-07:00",
+    "last_session_summary": "we6jbo simulation: 9 accomplishments; Defeated Hollow patrol in The Great Hollow (+900 souls)",
+    "last_saved_local": "2026-08-09T15:14:58.769888-07:00",
     "progress_flags": {
       "bell_of_awakening_quelaag": true,
       "bell_of_awakening_parish": true,
@@ -4066,7 +4066,7 @@
         "summary": "Saved we6jbo simulator state at The Great Hollow"
       }
     ],
-    "restart_requested_local": "2026-08-09T14:32:04.569230-07:00",
+    "restart_requested_local": "2026-08-09T15:14:58.769855-07:00",
     "ng_plus_cycle_complete": false,
     "completed_cycle": "NG+",
     "completion_local": "2026-08-08T21:15:42.720854-07:00",
@@ -5081,7 +5081,7 @@
     "bloodstain": null,
     "cycle_started_local": "2026-08-09T07:19:17.496102-07:00",
     "manual_ttyrec_viewers": 1,
-    "pending_update_problem": "Ollama is not working reliably enough for the simulator's local AI advisory layer. Current Ollama error: timed out. Consecutive failures: 3. Diagnose and repair the Ollama integration while preserving the existing local-first AI behavior and Gemini fallback.",
+    "pending_update_problem": "The simulator's mandatory public-message spelling and grammar gate cannot complete because Ollama failed. Public message destination: TTYREC/asciinema learning-note audience. Ollama error: Ollama generation timed out after 360s using gemma2:2b (already-loaded).. The simulator correctly blocked the unchecked message. Repair the Ollama proofreading path without weakening the rule that no unchecked user-authored public message may be transmitted.",
     "map_zoom": 1.0
   }
 }

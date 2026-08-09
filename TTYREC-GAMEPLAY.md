@@ -21,7 +21,7 @@ or third-party map image is automatically committed to this character archive.
 ## Exact archived character build used by the simulator
 
 - Level: **259**
-- Souls at archive load/save: **10,231,594**
+- Souls at archive load/save: **10,243,965**
 - Humanity counter: **0**
 - Covenant: **Chaos Servant +2**
 - Vitality: **50**
@@ -89,8 +89,8 @@ intellectual property remain the property of their respective rights holders.
 
 ## Session status
 
-Last simulator save: **2026-08-09T14:44:33.628095-07:00**
+Last simulator save: **2026-08-09T15:14:58.769888-07:00**
 
 Last session summary:
 
-> Saved we6jbo simulator state at The Great Hollow
+> we6jbo simulation: 9 accomplishments; Defeated Hollow patrol in The Great Hollow (+900 souls)
