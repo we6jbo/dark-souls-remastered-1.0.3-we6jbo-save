@@ -10,7 +10,7 @@ or third-party map image is automatically committed to this character archive.
 
 ## Current simulator
 
-- Simulator version: **7.0**
+- Simulator version: **10.0**
 - Character: **we6jbo**
 - Source character archive: `we6jbo-character.json`
 - Target cycle: **NG+**
@@ -21,7 +21,7 @@ or third-party map image is automatically committed to this character archive.
 ## Exact archived character build used by the simulator
 
 - Level: **259**
-- Souls at archive load/save: **1,811,951**
+- Souls at archive load/save: **1,919,422**
 - Humanity counter: **0**
 - Covenant: **Chaos Servant +2**
 - Vitality: **50**
@@ -88,8 +88,8 @@ intellectual property remain the property of their respective rights holders.
 
 ## Session status
 
-Last simulator save: **2026-08-08T20:54:08.098656-07:00**
+Last simulator save: **2026-08-08T21:07:49.566516-07:00**
 
 Last session summary:
 
-> we6jbo simulation: 103 accomplishments; Traveled from Tomb of the Giants to The Catacombs
+> we6jbo simulation: 71 accomplishments; Traveled from Ash Lake to The Great Hollow
