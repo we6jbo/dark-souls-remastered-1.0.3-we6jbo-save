@@ -1,12 +1,12 @@
 Dark Souls Remastered v1.0.3 — we6jbo character archive
 Character: we6jbo
 Level: 259
-Souls: 786032
+Souls: 1232593
 Covenant: Chaos Servant +2
 Simulation target: NG+ beginning
-Simulator current area: Duke's Archives
-Simulator encounters won: 69
+Simulator current area: Blighttown
+Simulator encounters won: 156
 Simulator deaths: 0
-Simulator last saved: 2026-08-08T20:27:39.476403-07:00
-Last session summary: we6jbo simulation: 54 accomplishments; Rested and set checkpoint at Duke's Archives
+Simulator last saved: 2026-08-08T20:34:51.011863-07:00
+Last session summary: we6jbo simulation: 206 accomplishments; Defeated Sorcerous ambush in Blighttown (+2,200 souls)
 Repository: https://github.com/we6jbo/dark-souls-remastered-1.0.3-we6jbo-save
