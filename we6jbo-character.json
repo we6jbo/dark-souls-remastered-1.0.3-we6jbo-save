@@ -2561,8 +2561,8 @@
     "deaths": 0,
     "souls_earned_in_simulator": 2854547,
     "notes": [],
-    "last_session_summary": "we6jbo simulation: 742 accomplishments; Thoroughly explored Lower Undead Burg",
-    "last_saved_local": "2026-08-08T22:00:21.158867-07:00",
+    "last_session_summary": "we6jbo simulation: 2 accomplishments; Inventory: AI reviewed inventory conservatively. No safe duplicate items were removed.",
+    "last_saved_local": "2026-08-08T22:03:25.334504-07:00",
     "progress_flags": {
       "bell_of_awakening_parish": true,
       "bell_of_awakening_quelaag": true,
@@ -2608,8 +2608,8 @@
         "updated_local": "2026-08-08T20:13:09.825835-07:00"
       }
     },
-    "live_stream_url": "https://asciinema.org/s/VsZHSXHnzxk1BaC1",
-    "live_stream_started_local": "2026-08-08T21:21:14.764919-07:00",
+    "live_stream_url": "https://asciinema.org/s/XLc9c175apk6JBuH",
+    "live_stream_started_local": "2026-08-08T22:00:30.166397-07:00",
     "session_history": [
       {
         "saved_local": "2026-08-08T20:04:21.512517-07:00",
@@ -4054,7 +4054,7 @@
         "summary": "we6jbo simulation: 215 accomplishments; Defeated Hollow patrol in The Great Hollow (+900 souls)"
       }
     ],
-    "restart_requested_local": "2026-08-08T22:00:21.158806-07:00",
+    "restart_requested_local": "2026-08-08T22:03:25.334390-07:00",
     "ng_plus_cycle_complete": true,
     "completed_cycle": "NG+",
     "completion_local": "2026-08-08T21:15:42.720854-07:00",
@@ -4453,6 +4453,14 @@
       },
       {
         "time": "2026-08-08T21:59:55.636353-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-08T22:01:05.689343-07:00",
+        "event": "Equipped/marked to keep: Watchtower Basement Key."
+      },
+      {
+        "time": "2026-08-08T22:01:19.999631-07:00",
         "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
       }
     ],
