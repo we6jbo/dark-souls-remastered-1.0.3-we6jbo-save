@@ -609,7 +609,7 @@
       "name": "Watchtower Basement Key",
       "quantity": 1,
       "upgrade": 0,
-      "equipped": true,
+      "equipped": false,
       "category": "misc",
       "keep": true
     },
@@ -2562,7 +2562,7 @@
     "souls_earned_in_simulator": 2854547,
     "notes": [],
     "last_session_summary": "we6jbo simulation: 1 accomplishments; Inventory: AI reviewed inventory conservatively. No safe duplicate items were removed.",
-    "last_saved_local": "2026-08-08T22:05:33.435319-07:00",
+    "last_saved_local": "2026-08-08T22:06:41.709132-07:00",
     "progress_flags": {
       "bell_of_awakening_parish": true,
       "bell_of_awakening_quelaag": true,
