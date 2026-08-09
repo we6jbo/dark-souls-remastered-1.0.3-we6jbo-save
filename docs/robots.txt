@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://we6jbo.github.io/dark-souls-remastered-1.0.3-we6jbo-save/sitemap.xml
