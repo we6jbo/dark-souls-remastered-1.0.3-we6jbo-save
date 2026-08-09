@@ -1,12 +1,12 @@
 Dark Souls Remastered v1.0.3 — we6jbo character archive
 Character: we6jbo
 Level: 259
-Souls: 10212666
+Souls: 10220894
 Covenant: Chaos Servant +2
 Simulation target: NG+ beginning
 Simulator current area: The Great Hollow
-Simulator encounters won: 2673
+Simulator encounters won: 2676
 Simulator deaths: 0
-Simulator last saved: 2026-08-09T12:45:19.048297-07:00
-Last session summary: we6jbo simulation: 35 accomplishments; Defeated Hollow patrol in The Great Hollow (+900 souls)
+Simulator last saved: 2026-08-09T12:58:56.470013-07:00
+Last session summary: we6jbo simulation: 5 accomplishments; Inventory: AI reviewed inventory conservatively. No safe duplicate items were removed.
 Repository: https://github.com/we6jbo/dark-souls-remastered-1.0.3-we6jbo-save
