@@ -1,12 +1,12 @@
 Dark Souls Remastered v1.0.3 — we6jbo character archive
 Character: we6jbo
 Level: 259
-Souls: 3301051
+Souls: 4291846
 Covenant: Chaos Servant +2
 Simulation target: NG+ beginning
-Simulator current area: Undead Burg
-Simulator encounters won: 743
+Simulator current area: Ash Lake
+Simulator encounters won: 1045
 Simulator deaths: 0
-Simulator last saved: 2026-08-08T22:10:57.887050-07:00
-Last session summary: we6jbo simulation: 25 accomplishments; Traveled from Undead Parish to Undead Burg
+Simulator last saved: 2026-08-09T07:15:47.669599-07:00
+Last session summary: we6jbo simulation: 797 accomplishments; Defeated Demon-like guardian in Ash Lake (+5,000 souls)
 Repository: https://github.com/we6jbo/dark-souls-remastered-1.0.3-we6jbo-save
