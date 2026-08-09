@@ -7,7 +7,7 @@
   "covenant": "Chaos Servant",
   "covenant_rank": "+2",
   "level": 259,
-  "souls": 7550547,
+  "souls": 7576102,
   "humanity_counter": 0,
   "attributes": {
     "Vitality": 50,
@@ -2523,9 +2523,9 @@
     "schema_version": 1,
     "cycle": "NG++",
     "start_policy": "Beginning of NG+",
-    "current_area": "Lower Undead Burg",
+    "current_area": "Duke's Archives",
     "checkpoint_area": "Blighttown",
-    "sim_hp": 1155,
+    "sim_hp": 990,
     "sim_max_hp": 1500,
     "sim_estus": 4,
     "sim_humanity_state": "Hollow",
@@ -2557,12 +2557,12 @@
       "Firelink Altar",
       "Kiln of the First Flame"
     ],
-    "encounters_won": 1904,
+    "encounters_won": 1911,
     "deaths": 0,
-    "souls_earned_in_simulator": 7152247,
+    "souls_earned_in_simulator": 7177802,
     "notes": [],
-    "last_session_summary": "we6jbo simulation: 160 accomplishments; Found 910 simulated souls while exploring Lower Undead Burg",
-    "last_saved_local": "2026-08-09T10:00:44.696434-07:00",
+    "last_session_summary": "we6jbo simulation: 31 accomplishments; Traveled from Crystal Cave to Duke's Archives",
+    "last_saved_local": "2026-08-09T10:05:03.963972-07:00",
     "progress_flags": {
       "bell_of_awakening_quelaag": true,
       "bell_of_awakening_parish": true,
@@ -2610,8 +2610,8 @@
         "updated_local": "2026-08-09T05:58:36.185621-07:00"
       }
     },
-    "live_stream_url": "https://asciinema.org/s/7Ht0zaPLfNtq1Bvd",
-    "live_stream_started_local": "2026-08-09T09:53:34.048255-07:00",
+    "live_stream_url": "https://asciinema.org/s/k7EHZUgsvvoNPBVn",
+    "live_stream_started_local": "2026-08-09T10:00:53.234797-07:00",
     "session_history": [
       {
         "saved_local": "2026-08-08T20:04:21.512517-07:00",
@@ -4056,39 +4056,11 @@
         "summary": "we6jbo simulation: 215 accomplishments; Defeated Hollow patrol in The Great Hollow (+900 souls)"
       }
     ],
-    "restart_requested_local": "2026-08-09T10:00:44.696369-07:00",
+    "restart_requested_local": "2026-08-09T10:05:03.963934-07:00",
     "ng_plus_cycle_complete": false,
     "completed_cycle": "NG+",
     "completion_local": "2026-08-08T21:15:42.720854-07:00",
     "inventory_log": [
-      {
-        "time": "2026-08-09T07:21:51.305907-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-09T07:22:16.218881-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-09T07:22:46.580230-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-09T07:22:50.276065-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-09T07:22:52.102311-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-09T07:23:07.357613-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-09T07:23:25.632997-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
       {
         "time": "2026-08-09T07:23:29.281408-07:00",
         "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
@@ -5060,6 +5032,34 @@
       {
         "time": "2026-08-09T10:00:40.882600-07:00",
         "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-09T10:04:05.449383-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-09T10:04:11.304633-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-09T10:04:15.260269-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-09T10:04:21.092399-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-09T10:04:30.770936-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-09T10:04:34.576756-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-09T10:04:40.352685-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
       }
     ],
     "inventory_ai_enabled": true,
@@ -5071,6 +5071,7 @@
     "bloodstain": null,
     "cycle_started_local": "2026-08-09T07:19:17.496102-07:00",
     "manual_ttyrec_viewers": 1,
-    "pending_update_problem": "Ollama is not working reliably enough for the simulator's local AI advisory layer. Current Ollama error: timed out. Consecutive failures: 3. Diagnose and repair the Ollama integration while preserving the existing local-first AI behavior and Gemini fallback."
+    "pending_update_problem": "Ollama is not working reliably enough for the simulator's local AI advisory layer. Current Ollama error: timed out. Consecutive failures: 3. Diagnose and repair the Ollama integration while preserving the existing local-first AI behavior and Gemini fallback.",
+    "map_zoom": 1.0
   }
 }
