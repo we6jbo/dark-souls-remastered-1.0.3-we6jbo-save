@@ -21,7 +21,7 @@ or third-party map image is automatically committed to this character archive.
 ## Exact archived character build used by the simulator
 
 - Level: **259**
-- Souls at archive load/save: **1,919,422**
+- Souls at archive load/save: **1,928,622**
 - Humanity counter: **0**
 - Covenant: **Chaos Servant +2**
 - Vitality: **50**
@@ -88,8 +88,8 @@ intellectual property remain the property of their respective rights holders.
 
 ## Session status
 
-Last simulator save: **2026-08-08T21:07:49.566516-07:00**
+Last simulator save: **2026-08-08T21:13:21.848164-07:00**
 
 Last session summary:
 
-> we6jbo simulation: 71 accomplishments; Traveled from Ash Lake to The Great Hollow
+> we6jbo simulation: 12 accomplishments; Traveled from Undead Burg to Firelink Shrine
