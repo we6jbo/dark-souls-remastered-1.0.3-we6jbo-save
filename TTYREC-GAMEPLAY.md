@@ -10,18 +10,18 @@ or third-party map image is automatically committed to this character archive.
 
 ## Current simulator
 
-- Simulator version: **4.0**
+- Simulator version: **6.0**
 - Character: **we6jbo**
 - Source character archive: `we6jbo-character.json`
 - Target cycle: **NG+**
 - Intended starting point: **Northern Undead Asylum**
-- Manual/automatic control: manual play with automatic takeover after **2 minutes** of inactivity
-- Any player keyboard or mouse interaction immediately returns control.
+- Manual/automatic control: **manual play with automatic takeover after 2 minutes of inactivity**
+- Player interaction immediately returns control from the automatic player.
 
 ## Exact archived character build used by the simulator
 
 - Level: **259**
-- Souls: **398,300**
+- Souls at archive load/save: **590,402**
 - Humanity counter: **0**
 - Covenant: **Chaos Servant +2**
 - Vitality: **50**
@@ -46,65 +46,50 @@ or third-party map image is automatically committed to this character archive.
 - Ring 1: **Bellowing Dragoncrest Ring**
 - Ring 2: **Havel's Ring**
 
-The complete inventory, spell collection, equipment collection, quantities, and
-recorded upgrades live in `we6jbo-character.json`.
+The complete owned inventory, spell collection, equipment collection, quantities,
+and recorded upgrade levels remain in `we6jbo-character.json`.
 
-## How to make the simulator
+## How to create a compatible simulator
 
-This describes the simulator, not how the original character was created.
+This section explains how to make the **text/schematic simulator**, not how the
+original game character was created.
 
-Ask ChatGPT:
+You can give ChatGPT a prompt similar to this:
 
 > Create a Python 3 Tkinter Dark Souls-inspired text/schematic simulator that
 > reads an existing `we6jbo-character.json` character archive instead of creating
 > a new character. Use the archived stats, equipment, spells, covenant and
-> inventory as simulator inputs. Model major high-level progression with
+> inventory as simulator inputs. Model major high-level progression using
 > original narration and simplified mechanics rather than copied dialogue,
-> artwork, game code, or exact level geometry. Include a replay-friendly
-> terminal spectator feed suitable for ttyrec. Let a local automatic player
-> take over after 120 seconds of inactivity and immediately stop when the human
-> interacts again. Keep simulator source and third-party map assets outside the
-> Git repository. Update only the character JSON, session manifest, and this
-> documentation file.
+> artwork, game code, or exact level geometry. Provide manual controls, a
+> schematic/local-map view, a replay-friendly terminal spectator feed, and an
+> automatic player that takes over after 120 seconds of inactivity and stops as
+> soon as the human interacts again. Keep the simulator source and all
+> third-party map assets outside the Git repository. Only update the character
+> JSON, a small manifest, and this gameplay documentation file.
 
-For the exact **we6jbo** build, use this repository's `we6jbo-character.json`.
+For an **exact we6jbo build**, use the values listed above and the complete
+`we6jbo-character.json` from this repository as the character input.
 
-## Watching a ttyrec recording
+## Watching ttyrec gameplay
 
-Run the simulator under `ttyrec`. The Tkinter GUI remains the interactive player
-view while the launching terminal becomes the spectator feed. That feed includes
-the countdown, pre-show, area travel, encounters, boss objectives, deaths,
-automatic-player takeovers, human-control returns, saves, and GitHub guide link.
+The Tkinter GUI starts `ttyrec` itself in the background. A hidden spectator child receives a terminal-friendly event stream from the GUI, and ttyrec records that stream with timing information. The resulting `.ttyrec` file can be replayed with ttyplay,
+Jettyplay, pyttyplay, termplay, asciinema-player, or another compatible player.
 
-The `.ttyrec` recording is kept outside this character repository by default, under `/home/we6jbo/Darksouls-game/ttyrecs/`.
-It can be replayed with ttyplay, Jettyplay, pyttyplay, termplay, asciinema-player,
-or another ttyrec-compatible player.
+The recording itself is intentionally kept outside this character repository by
+default. The player can choose where to publish a recording separately.
 
-## Project separation
+## Copyright / project separation
 
-The simulator Python source and third-party map images are intentionally kept
-outside this Git repository. This repository contains the character archive,
-small session metadata, and original explanatory documentation.
+The simulator code and third-party map files are intentionally kept out of this
+repository. This repository stores the user's character archive, session
+metadata, and original documentation. Dark Souls names and other third-party
+intellectual property remain the property of their respective rights holders.
 
+## Session status
 
-## Local runtime layout
+Last simulator save: **2026-08-08T20:13:38.194966-07:00**
 
-The recommended runtime layout is:
+Last session summary:
 
-```text
-/home/we6jbo/Darksouls-game/
-├── dark-souls-we6jbo-simulator.py
-├── record-we6jbo-ttyrec.sh
-├── maps/
-├── cache/
-│   └── maps/
-└── ttyrecs/
-```
-
-The character archive remains separate at:
-
-```text
-/home/we6jbo/.darksouls-character-share-to-github/
-```
-
-The simulator refuses to run from inside that Git repository.
+> we6jbo simulation: 127 accomplishments; Updated local map marker in Undead Parish
