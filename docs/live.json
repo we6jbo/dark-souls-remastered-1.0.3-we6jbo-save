@@ -1,9 +1,9 @@
 {
   "project": "we6jbo Dark Souls Remastered NG+ Text Simulator",
-  "simulator_version": "21.0",
-  "live": true,
-  "live_url": "https://asciinema.org/s/nFjkhvPs4BWiRyQP",
+  "simulator_version": "22.0",
+  "live": false,
+  "live_url": null,
   "project_page": "https://we6jbo.github.io/dark-souls-remastered-1.0.3-we6jbo-save/",
   "area": "Demon Ruins",
-  "updated": "2026-08-09T09:38:05.356322-07:00"
+  "updated": "2026-08-09T09:47:38.200026-07:00"
 }

@@ -7,7 +7,7 @@
   "covenant": "Chaos Servant",
   "covenant_rank": "+2",
   "level": 259,
-  "souls": 7311690,
+  "souls": 7326255,
   "humanity_counter": 0,
   "attributes": {
     "Vitality": 50,
@@ -2525,7 +2525,7 @@
     "start_policy": "Beginning of NG+",
     "current_area": "Demon Ruins",
     "checkpoint_area": "Blighttown",
-    "sim_hp": 710,
+    "sim_hp": 560,
     "sim_max_hp": 1500,
     "sim_estus": 8,
     "sim_humanity_state": "Hollow",
@@ -2557,12 +2557,12 @@
       "Firelink Altar",
       "Kiln of the First Flame"
     ],
-    "encounters_won": 1836,
+    "encounters_won": 1839,
     "deaths": 0,
-    "souls_earned_in_simulator": 6913390,
+    "souls_earned_in_simulator": 6927955,
     "notes": [],
-    "last_session_summary": "we6jbo simulation: 1 accomplishments; Message to live audience: The AI on the sim is not working. I'm going to ask for an update.",
-    "last_saved_local": "2026-08-09T09:38:05.259533-07:00",
+    "last_session_summary": "we6jbo simulation: 5 accomplishments; Found 1,137 simulated souls while exploring Demon Ruins",
+    "last_saved_local": "2026-08-09T09:47:38.003617-07:00",
     "progress_flags": {
       "bell_of_awakening_quelaag": true,
       "bell_of_awakening_parish": true,
@@ -4056,7 +4056,7 @@
         "summary": "we6jbo simulation: 215 accomplishments; Defeated Hollow patrol in The Great Hollow (+900 souls)"
       }
     ],
-    "restart_requested_local": "2026-08-09T09:38:05.259501-07:00",
+    "restart_requested_local": "2026-08-09T09:47:38.003551-07:00",
     "ng_plus_cycle_complete": false,
     "completed_cycle": "NG+",
     "completion_local": "2026-08-08T21:15:42.720854-07:00",
