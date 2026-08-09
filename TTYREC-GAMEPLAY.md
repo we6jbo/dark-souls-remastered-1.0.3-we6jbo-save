@@ -10,7 +10,7 @@ or third-party map image is automatically committed to this character archive.
 
 ## Current simulator
 
-- Simulator version: **40.0**
+- Simulator version: **41.0**
 - Character: **we6jbo**
 - Source character archive: `we6jbo-character.json`
 - Target cycle: **NG+**
@@ -89,7 +89,7 @@ intellectual property remain the property of their respective rights holders.
 
 ## Session status
 
-Last simulator save: **2026-08-09T14:32:04.569296-07:00**
+Last simulator save: **2026-08-09T14:43:06.713091-07:00**
 
 Last session summary:
 

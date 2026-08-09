@@ -2562,7 +2562,7 @@
     "souls_earned_in_simulator": 9833294,
     "notes": [],
     "last_session_summary": "Saved we6jbo simulator state at The Great Hollow",
-    "last_saved_local": "2026-08-09T14:32:04.569296-07:00",
+    "last_saved_local": "2026-08-09T14:43:06.713091-07:00",
     "progress_flags": {
       "bell_of_awakening_quelaag": true,
       "bell_of_awakening_parish": true,
@@ -2610,8 +2610,8 @@
         "updated_local": "2026-08-09T05:58:36.185621-07:00"
       }
     },
-    "live_stream_url": "https://asciinema.org/s/dCqs4wFutynDLTcL",
-    "live_stream_started_local": "2026-08-09T13:52:39.155880-07:00",
+    "live_stream_url": "https://asciinema.org/s/HhGvJ9JDEOYsePTf",
+    "live_stream_started_local": "2026-08-09T14:32:18.300229-07:00",
     "session_history": [
       {
         "saved_local": "2026-08-08T20:04:21.512517-07:00",
@@ -4054,6 +4054,11 @@
           "2026-08-08 21:32:40: Defeated Hollow patrol in The Great Hollow (+900 souls)"
         ],
         "summary": "we6jbo simulation: 215 accomplishments; Defeated Hollow patrol in The Great Hollow (+900 souls)"
+      },
+      {
+        "saved_local": "2026-08-09T14:43:06.713009-07:00",
+        "events": [],
+        "summary": "Saved we6jbo simulator state at The Great Hollow"
       }
     ],
     "restart_requested_local": "2026-08-09T14:32:04.569230-07:00",
