@@ -2561,8 +2561,8 @@
     "deaths": 0,
     "souls_earned_in_simulator": 9822594,
     "notes": [],
-    "last_session_summary": "we6jbo simulation: 5 accomplishments; Inventory: AI reviewed inventory conservatively. No safe duplicate items were removed.",
-    "last_saved_local": "2026-08-09T12:58:56.470013-07:00",
+    "last_session_summary": "Saved we6jbo simulator state at The Great Hollow",
+    "last_saved_local": "2026-08-09T13:03:42.555965-07:00",
     "progress_flags": {
       "bell_of_awakening_quelaag": true,
       "bell_of_awakening_parish": true,
@@ -2610,8 +2610,8 @@
         "updated_local": "2026-08-09T05:58:36.185621-07:00"
       }
     },
-    "live_stream_url": "https://asciinema.org/s/2AvLdhATi7MhEjgB",
-    "live_stream_started_local": "2026-08-09T12:45:31.138079-07:00",
+    "live_stream_url": "https://asciinema.org/s/kswuFnlFXrTZe1XO",
+    "live_stream_started_local": "2026-08-09T12:59:04.596430-07:00",
     "session_history": [
       {
         "saved_local": "2026-08-08T20:04:21.512517-07:00",
@@ -4056,7 +4056,7 @@
         "summary": "we6jbo simulation: 215 accomplishments; Defeated Hollow patrol in The Great Hollow (+900 souls)"
       }
     ],
-    "restart_requested_local": "2026-08-09T12:58:56.469947-07:00",
+    "restart_requested_local": "2026-08-09T13:03:42.555899-07:00",
     "ng_plus_cycle_complete": false,
     "completed_cycle": "NG+",
     "completion_local": "2026-08-08T21:15:42.720854-07:00",
