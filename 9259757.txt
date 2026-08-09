@@ -1,12 +1,12 @@
 Dark Souls Remastered v1.0.3 — we6jbo character archive
 Character: we6jbo
 Level: 259
-Souls: 6262539
+Souls: 7311690
 Covenant: Chaos Servant +2
 Simulation target: NG+ beginning
-Simulator current area: Quelaag's Domain
-Simulator encounters won: 1543
+Simulator current area: Demon Ruins
+Simulator encounters won: 1836
 Simulator deaths: 0
-Simulator last saved: 2026-08-09T08:04:16.883616-07:00
-Last session summary: we6jbo simulation: 945 accomplishments; Defeated Black knight-like challenger in Quelaag's Domain (+3,500 souls)
+Simulator last saved: 2026-08-09T08:35:02.647320-07:00
+Last session summary: we6jbo simulation: 785 accomplishments; Traveled from Lost Izalith to Demon Ruins
 Repository: https://github.com/we6jbo/dark-souls-remastered-1.0.3-we6jbo-save
