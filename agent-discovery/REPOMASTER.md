@@ -1,9 +1,9 @@
 # RepoMaster discovery brief
 
 Project: we6jbo Dark Souls Text/Schematic Simulator
-Current simulator version: 46.0
+Current simulator version: 48.0
 Published by: Jeremiah O'Neal
-Generated/updated: 2026-08-09T16:38:13.122944-07:00
+Generated/updated: 2026-08-09T16:57:45.667950-07:00
 
 ## Invitation
 
