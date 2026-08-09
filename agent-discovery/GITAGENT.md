@@ -1,9 +1,9 @@
 # GitAgent discovery brief
 
 Project: we6jbo Dark Souls Text/Schematic Simulator
-Current simulator version: 41.0
+Current simulator version: 43.0
 Published by: Jeremiah O'Neal
-Generated/updated: 2026-08-09T14:32:33.159234-07:00
+Generated/updated: 2026-08-09T15:15:15.535052-07:00
 
 ## Invitation
 
