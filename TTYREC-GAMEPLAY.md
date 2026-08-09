@@ -10,7 +10,7 @@ or third-party map image is automatically committed to this character archive.
 
 ## Current simulator
 
-- Simulator version: **17.0**
+- Simulator version: **18.0**
 - Character: **we6jbo**
 - Source character archive: `we6jbo-character.json`
 - Target cycle: **NG+**
@@ -21,7 +21,7 @@ or third-party map image is automatically committed to this character archive.
 ## Exact archived character build used by the simulator
 
 - Level: **259**
-- Souls at archive load/save: **4,681,240**
+- Souls at archive load/save: **6,262,539**
 - Humanity counter: **0**
 - Covenant: **Chaos Servant +2**
 - Vitality: **50**
@@ -89,8 +89,8 @@ intellectual property remain the property of their respective rights holders.
 
 ## Session status
 
-Last simulator save: **2026-08-09T07:33:26.643651-07:00**
+Last simulator save: **2026-08-09T08:04:16.883616-07:00**
 
 Last session summary:
 
-> we6jbo simulation: 10 accomplishments; Defeated Demon-like guardian in The Depths (+5,000 souls)
+> we6jbo simulation: 945 accomplishments; Defeated Black knight-like challenger in Quelaag's Domain (+3,500 souls)
