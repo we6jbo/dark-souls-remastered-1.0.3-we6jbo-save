@@ -10,7 +10,7 @@ or third-party map image is automatically committed to this character archive.
 
 ## Current simulator
 
-- Simulator version: **39.0**
+- Simulator version: **40.0**
 - Character: **we6jbo**
 - Source character archive: `we6jbo-character.json`
 - Target cycle: **NG+**
@@ -89,8 +89,8 @@ intellectual property remain the property of their respective rights holders.
 
 ## Session status
 
-Last simulator save: **2026-08-09T13:47:30.711635-07:00**
+Last simulator save: **2026-08-09T14:32:04.569296-07:00**
 
 Last session summary:
 
-> we6jbo simulation: 3 accomplishments; Defeated Sorcerous ambush in The Great Hollow (+2,200 souls)
+> Saved we6jbo simulator state at The Great Hollow
