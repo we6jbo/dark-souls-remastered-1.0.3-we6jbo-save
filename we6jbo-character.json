@@ -7,7 +7,7 @@
   "covenant": "Chaos Servant",
   "covenant_rank": "+2",
   "level": 259,
-  "souls": 10142543,
+  "souls": 10212666,
   "humanity_counter": 0,
   "attributes": {
     "Vitality": 50,
@@ -2525,7 +2525,7 @@
     "start_policy": "Beginning of NG+",
     "current_area": "The Great Hollow",
     "checkpoint_area": "Undead Parish",
-    "sim_hp": 26,
+    "sim_hp": 1,
     "sim_max_hp": 1500,
     "sim_estus": 0,
     "sim_humanity_state": "Hollow",
@@ -2557,12 +2557,12 @@
       "Firelink Altar",
       "Kiln of the First Flame"
     ],
-    "encounters_won": 2652,
+    "encounters_won": 2673,
     "deaths": 0,
-    "souls_earned_in_simulator": 9744243,
+    "souls_earned_in_simulator": 9814366,
     "notes": [],
-    "last_session_summary": "we6jbo simulation: 1592 accomplishments; Defeated Demon-like guardian in The Great Hollow (+5,000 souls)",
-    "last_saved_local": "2026-08-09T11:48:19.599847-07:00",
+    "last_session_summary": "we6jbo simulation: 35 accomplishments; Defeated Hollow patrol in The Great Hollow (+900 souls)",
+    "last_saved_local": "2026-08-09T12:45:19.048297-07:00",
     "progress_flags": {
       "bell_of_awakening_quelaag": true,
       "bell_of_awakening_parish": true,
@@ -2610,8 +2610,8 @@
         "updated_local": "2026-08-09T05:58:36.185621-07:00"
       }
     },
-    "live_stream_url": "https://asciinema.org/s/IB7O6mJgdvnuWr34",
-    "live_stream_started_local": "2026-08-09T10:25:37.191847-07:00",
+    "live_stream_url": "https://asciinema.org/s/uT1SJHa7RLlD0uyS",
+    "live_stream_started_local": "2026-08-09T11:48:30.104821-07:00",
     "session_history": [
       {
         "saved_local": "2026-08-08T20:04:21.512517-07:00",
@@ -4056,7 +4056,7 @@
         "summary": "we6jbo simulation: 215 accomplishments; Defeated Hollow patrol in The Great Hollow (+900 souls)"
       }
     ],
-    "restart_requested_local": "2026-08-09T11:48:19.599787-07:00",
+    "restart_requested_local": "2026-08-09T12:45:19.048238-07:00",
     "ng_plus_cycle_complete": false,
     "completed_cycle": "NG+",
     "completion_local": "2026-08-08T21:15:42.720854-07:00",
