@@ -10,7 +10,7 @@ or third-party map image is automatically committed to this character archive.
 
 ## Current simulator
 
-- Simulator version: **19.0**
+- Simulator version: **20.0**
 - Character: **we6jbo**
 - Source character archive: `we6jbo-character.json`
 - Target cycle: **NG+**
@@ -89,8 +89,8 @@ intellectual property remain the property of their respective rights holders.
 
 ## Session status
 
-Last simulator save: **2026-08-09T08:35:02.647320-07:00**
+Last simulator save: **2026-08-09T09:12:38.707609-07:00**
 
 Last session summary:
 
-> we6jbo simulation: 785 accomplishments; Traveled from Lost Izalith to Demon Ruins
+> Saved we6jbo simulator state at Demon Ruins
