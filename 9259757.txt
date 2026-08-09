@@ -1,12 +1,12 @@
 Dark Souls Remastered v1.0.3 — we6jbo character archive
 Character: we6jbo
 Level: 259
-Souls: 1611843
+Souls: 1695664
 Covenant: Chaos Servant +2
 Simulation target: NG+ beginning
-Simulator current area: The Great Hollow
-Simulator encounters won: 272
+Simulator current area: Firelink Shrine
+Simulator encounters won: 277
 Simulator deaths: 0
-Simulator last saved: 2026-08-08T20:43:31.655952-07:00
-Last session summary: we6jbo simulation: 223 accomplishments; Traveled from Ash Lake to The Great Hollow
+Simulator last saved: 2026-08-08T20:47:58.345989-07:00
+Last session summary: we6jbo simulation: 29 accomplishments; Rested and set checkpoint at Firelink Shrine
 Repository: https://github.com/we6jbo/dark-souls-remastered-1.0.3-we6jbo-save
