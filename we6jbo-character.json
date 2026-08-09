@@ -7,7 +7,7 @@
   "covenant": "Chaos Servant",
   "covenant_rank": "+2",
   "level": 259,
-  "souls": 4291846,
+  "souls": 4665675,
   "humanity_counter": 0,
   "attributes": {
     "Vitality": 50,
@@ -2521,13 +2521,13 @@
   "finalized_utc": "2026-08-08T21:17:32.231908+00:00",
   "simulation": {
     "schema_version": 1,
-    "cycle": "NG+",
+    "cycle": "NG++",
     "start_policy": "Beginning of NG+",
-    "current_area": "Ash Lake",
-    "checkpoint_area": "Undead Burg",
-    "sim_hp": 355,
+    "current_area": "The Depths",
+    "checkpoint_area": "Northern Undead Asylum",
+    "sim_hp": 1110,
     "sim_max_hp": 1500,
-    "sim_estus": 0,
+    "sim_estus": 9,
     "sim_humanity_state": "Hollow",
     "areas_visited": [
       "Northern Undead Asylum",
@@ -2557,37 +2557,21 @@
       "Firelink Altar",
       "Kiln of the First Flame"
     ],
-    "encounters_won": 1045,
+    "encounters_won": 1152,
     "deaths": 0,
-    "souls_earned_in_simulator": 3893546,
+    "souls_earned_in_simulator": 4267375,
     "notes": [],
-    "last_session_summary": "we6jbo simulation: 797 accomplishments; Defeated Demon-like guardian in Ash Lake (+5,000 souls)",
-    "last_saved_local": "2026-08-09T07:15:47.669599-07:00",
+    "last_session_summary": "we6jbo simulation: 272 accomplishments; Defeated Hostile knight in The Depths (+2,800 souls)",
+    "last_saved_local": "2026-08-09T07:28:57.888250-07:00",
     "progress_flags": {
-      "bell_of_awakening_parish": true,
-      "bell_of_awakening_quelaag": true,
-      "lordvessel_obtained": true,
-      "lord_soul_seath": true,
-      "lord_soul_four_kings": true,
-      "lord_soul_bed_of_chaos": true,
-      "lord_soul_nito": true,
-      "gwyn_defeated": true
+      "bell_of_awakening_quelaag": true
     },
     "bosses_defeated": [
-      "Bell Gargoyles",
-      "Chaos Witch Quelaag",
-      "Iron Golem",
-      "Ornstein and Smough",
-      "Seath the Scaleless",
-      "Four Kings",
-      "Bed of Chaos",
-      "Asylum Demon",
-      "Gravelord Nito",
-      "Gwyn, Lord of Cinder"
+      "Chaos Witch Quelaag"
     ],
     "bloodstain_souls": 0,
     "bloodstain_area": null,
-    "final_boss_unlocked": true,
+    "final_boss_unlocked": false,
     "map_marker": {
       "Northern Undead Asylum": {
         "x": 0.16,
@@ -2614,8 +2598,8 @@
         "updated_local": "2026-08-09T05:58:36.185621-07:00"
       }
     },
-    "live_stream_url": "https://asciinema.org/s/IPoQH0Rnh9oZ7ZkQ",
-    "live_stream_started_local": "2026-08-09T05:57:43.433011-07:00",
+    "live_stream_url": "https://asciinema.org/s/VJB8TbRJFRvfonBE",
+    "live_stream_started_local": "2026-08-09T07:19:17.217354-07:00",
     "session_history": [
       {
         "saved_local": "2026-08-08T20:04:21.512517-07:00",
@@ -4060,8 +4044,8 @@
         "summary": "we6jbo simulation: 215 accomplishments; Defeated Hollow patrol in The Great Hollow (+900 souls)"
       }
     ],
-    "restart_requested_local": "2026-08-09T07:15:47.669574-07:00",
-    "ng_plus_cycle_complete": true,
+    "restart_requested_local": "2026-08-09T07:28:57.888216-07:00",
+    "ng_plus_cycle_complete": false,
     "completed_cycle": "NG+",
     "completion_local": "2026-08-08T21:15:42.720854-07:00",
     "inventory_log": [
@@ -4864,11 +4848,156 @@
       {
         "time": "2026-08-09T06:25:14.600935-07:00",
         "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-09T07:19:17.496171-07:00",
+        "event": "Automatic cycle transition: NG+ → NG++. Story/boss progression reset; character build and normal inventory carried forward."
+      },
+      {
+        "time": "2026-08-09T07:21:26.762720-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-09T07:21:30.488772-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-09T07:21:51.305907-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-09T07:22:16.218881-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-09T07:22:46.580230-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-09T07:22:50.276065-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-09T07:22:52.102311-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-09T07:23:07.357613-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-09T07:23:25.632997-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-09T07:23:29.281408-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-09T07:23:42.034706-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-09T07:23:43.857046-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-09T07:23:58.417878-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-09T07:24:14.830667-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-09T07:24:22.126290-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-09T07:24:25.817464-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-09T07:24:47.652115-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-09T07:25:24.254868-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-09T07:25:50.724242-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-09T07:25:54.373984-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-09T07:25:59.837824-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-09T07:26:05.305420-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-09T07:26:16.256949-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-09T07:26:23.587638-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-09T07:26:25.415524-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-09T07:26:45.702623-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-09T07:26:47.560767-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-09T07:27:31.768928-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-09T07:27:35.411059-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-09T07:27:44.506574-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-09T07:27:48.151358-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-09T07:28:02.718975-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-09T07:28:06.413261-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-09T07:28:37.394197-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
       }
     ],
     "inventory_ai_enabled": true,
-    "ng_cycle_number": 2,
-    "cycle_rollover_done": false,
-    "equipped_loadout": {}
+    "ng_cycle_number": 3,
+    "cycle_rollover_done": true,
+    "equipped_loadout": {},
+    "checkpoint": "Northern Undead Asylum",
+    "accomplishments": [],
+    "bloodstain": null,
+    "cycle_started_local": "2026-08-09T07:19:17.496102-07:00",
+    "manual_ttyrec_viewers": 1
   }
 }
