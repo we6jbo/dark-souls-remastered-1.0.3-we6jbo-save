@@ -7,7 +7,7 @@
   "covenant": "Chaos Servant",
   "covenant_rank": "+2",
   "level": 259,
-  "souls": 1802979,
+  "souls": 12710296,
   "humanity_counter": 0,
   "attributes": {
     "Vitality": 50,
@@ -2523,11 +2523,11 @@
     "schema_version": 1,
     "cycle": "NG++",
     "start_policy": "Beginning of NG+",
-    "current_area": "Undead Parish",
+    "current_area": "Valley of Drakes",
     "checkpoint_area": "Duke's Archives",
-    "sim_hp": 1130,
+    "sim_hp": 341,
     "sim_max_hp": 1500,
-    "sim_estus": 4,
+    "sim_estus": 0,
     "sim_humanity_state": "Hollow",
     "areas_visited": [
       "Northern Undead Asylum",
@@ -2557,12 +2557,12 @@
       "Firelink Altar",
       "Kiln of the First Flame"
     ],
-    "encounters_won": 3329,
+    "encounters_won": 3356,
     "deaths": 1,
-    "souls_earned_in_simulator": 12147158,
+    "souls_earned_in_simulator": 12311996,
     "notes": [],
-    "last_session_summary": "we6jbo simulation: 587 accomplishments; Found 1,114 simulated souls while exploring Undead Parish",
-    "last_saved_local": "2026-08-09T16:36:54.247272-07:00",
+    "last_session_summary": "we6jbo simulation: 75 accomplishments; Found 706 simulated souls while exploring Valley of Drakes",
+    "last_saved_local": "2026-08-09T16:57:27.250694-07:00",
     "progress_flags": {
       "bell_of_awakening_quelaag": true,
       "bell_of_awakening_parish": true,
@@ -2570,7 +2570,8 @@
       "lord_soul_seath": true,
       "lord_soul_nito": true,
       "lord_soul_bed_of_chaos": true,
-      "lord_soul_four_kings": true
+      "lord_soul_four_kings": true,
+      "gwyn_defeated": true
     },
     "bosses_defeated": [
       "Chaos Witch Quelaag",
@@ -2581,10 +2582,11 @@
       "Gravelord Nito",
       "Asylum Demon",
       "Bed of Chaos",
-      "Four Kings"
+      "Four Kings",
+      "Gwyn, Lord of Cinder"
     ],
-    "bloodstain_souls": 10742479,
-    "bloodstain_area": "Kiln of the First Flame",
+    "bloodstain_souls": 0,
+    "bloodstain_area": null,
     "final_boss_unlocked": true,
     "map_marker": {
       "Northern Undead Asylum": {
@@ -2612,8 +2614,8 @@
         "updated_local": "2026-08-09T05:58:36.185621-07:00"
       }
     },
-    "live_stream_url": "https://asciinema.org/s/UKZngAY8JABqHFPi",
-    "live_stream_started_local": "2026-08-09T16:15:41.185733-07:00",
+    "live_stream_url": "https://asciinema.org/s/XEUAP5lRjSt41FDF",
+    "live_stream_started_local": "2026-08-09T16:37:03.127301-07:00",
     "session_history": [
       {
         "saved_local": "2026-08-08T20:04:21.512517-07:00",
@@ -4068,31 +4070,11 @@
         "summary": "Saved we6jbo simulator state at The Great Hollow"
       }
     ],
-    "restart_requested_local": "2026-08-09T16:36:54.247242-07:00",
-    "ng_plus_cycle_complete": false,
-    "completed_cycle": "NG+",
-    "completion_local": "2026-08-08T21:15:42.720854-07:00",
+    "restart_requested_local": "2026-08-09T16:57:27.250635-07:00",
+    "ng_plus_cycle_complete": true,
+    "completed_cycle": "NG++",
+    "completion_local": "2026-08-09T16:47:06.231366-07:00",
     "inventory_log": [
-      {
-        "time": "2026-08-09T11:08:16.403674-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-09T11:08:33.956298-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-09T11:09:13.201875-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-09T11:09:18.828616-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-09T11:09:22.552636-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
       {
         "time": "2026-08-09T11:10:03.660379-07:00",
         "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
@@ -5071,6 +5053,26 @@
       },
       {
         "time": "2026-08-09T16:36:46.298439-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-09T16:44:16.561084-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-09T16:46:49.467053-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-09T16:46:56.954956-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-09T16:47:23.362848-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-09T16:53:19.363620-07:00",
         "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
       }
     ],
