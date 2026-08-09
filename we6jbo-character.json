@@ -2562,7 +2562,7 @@
     "souls_earned_in_simulator": 9833294,
     "notes": [],
     "last_session_summary": "Saved we6jbo simulator state at The Great Hollow",
-    "last_saved_local": "2026-08-09T14:43:06.713091-07:00",
+    "last_saved_local": "2026-08-09T14:44:33.628095-07:00",
     "progress_flags": {
       "bell_of_awakening_quelaag": true,
       "bell_of_awakening_parish": true,
@@ -4057,6 +4057,11 @@
       },
       {
         "saved_local": "2026-08-09T14:43:06.713009-07:00",
+        "events": [],
+        "summary": "Saved we6jbo simulator state at The Great Hollow"
+      },
+      {
+        "saved_local": "2026-08-09T14:44:33.628028-07:00",
         "events": [],
         "summary": "Saved we6jbo simulator state at The Great Hollow"
       }
