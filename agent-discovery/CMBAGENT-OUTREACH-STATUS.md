@@ -1,8 +1,8 @@
 # CMB Agent outreach status
 
 Project: we6jbo Dark Souls Text/Schematic Simulator
-Simulator version when refreshed: 53.0
-Updated: 2026-08-10T06:43:53.391466-07:00
+Simulator version when refreshed: 54.0
+Updated: 2026-08-10T06:56:36.686800-07:00
 
 ## Persistent CMB-facing material
 
