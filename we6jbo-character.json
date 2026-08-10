@@ -7,7 +7,7 @@
   "covenant": "Chaos Servant",
   "covenant_rank": "+2",
   "level": 259,
-  "souls": 14292365,
+  "souls": 14349066,
   "humanity_counter": 0,
   "attributes": {
     "Vitality": 50,
@@ -2525,9 +2525,9 @@
     "start_policy": "Beginning of NG+",
     "current_area": "The Great Hollow",
     "checkpoint_area": "Blighttown",
-    "sim_hp": 890,
+    "sim_hp": 900,
     "sim_max_hp": 1500,
-    "sim_estus": 9,
+    "sim_estus": 8,
     "sim_humanity_state": "Hollow",
     "areas_visited": [
       "Northern Undead Asylum",
@@ -2557,12 +2557,12 @@
       "Firelink Altar",
       "Kiln of the First Flame"
     ],
-    "encounters_won": 3847,
+    "encounters_won": 3865,
     "deaths": 1,
-    "souls_earned_in_simulator": 13894065,
+    "souls_earned_in_simulator": 13950766,
     "notes": [],
-    "last_session_summary": "we6jbo simulation: 108 accomplishments; Traveled from The Great Hollow to Blighttown",
-    "last_saved_local": "2026-08-10T06:56:38.599042-07:00",
+    "last_session_summary": "we6jbo simulation: 63 accomplishments; Defeated Hostile knight in The Great Hollow (+2,800 souls)",
+    "last_saved_local": "2026-08-10T06:58:26.733514-07:00",
     "progress_flags": {
       "bell_of_awakening_quelaag": true,
       "bell_of_awakening_parish": true,
@@ -4070,19 +4070,11 @@
         "summary": "Saved we6jbo simulator state at The Great Hollow"
       }
     ],
-    "restart_requested_local": "2026-08-10T06:46:36.837658-07:00",
+    "restart_requested_local": "2026-08-10T06:58:26.733459-07:00",
     "ng_plus_cycle_complete": true,
     "completed_cycle": "NG++",
     "completion_local": "2026-08-09T16:47:06.231366-07:00",
     "inventory_log": [
-      {
-        "time": "2026-08-09T16:12:42.248460-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-09T16:13:15.863043-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
       {
         "time": "2026-08-09T16:13:53.081919-07:00",
         "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
@@ -5073,6 +5065,14 @@
       },
       {
         "time": "2026-08-10T06:56:16.848631-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-10T06:56:58.362453-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-10T06:57:00.203151-07:00",
         "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
       }
     ],
