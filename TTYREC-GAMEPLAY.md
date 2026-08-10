@@ -10,7 +10,7 @@ or third-party map image is automatically committed to this character archive.
 
 ## Current simulator
 
-- Simulator version: **50.0**
+- Simulator version: **52.0**
 - Character: **we6jbo**
 - Source character archive: `we6jbo-character.json`
 - Target cycle: **NG+**
@@ -21,7 +21,7 @@ or third-party map image is automatically committed to this character archive.
 ## Exact archived character build used by the simulator
 
 - Level: **259**
-- Souls at archive load/save: **13,730,746**
+- Souls at archive load/save: **14,139,842**
 - Humanity counter: **0**
 - Covenant: **Chaos Servant +2**
 - Vitality: **50**
@@ -89,8 +89,8 @@ intellectual property remain the property of their respective rights holders.
 
 ## Session status
 
-Last simulator save: **2026-08-09T22:07:31.666663-07:00**
+Last simulator save: **2026-08-10T06:30:00.860043-07:00**
 
 Last session summary:
 
-> we6jbo simulation: 142 accomplishments; Defeated Hostile knight in Anor Londo (+2,800 souls)
+> we6jbo simulation: 352 accomplishments; Inventory: AI reviewed inventory conservatively. No safe duplicate items were removed.
