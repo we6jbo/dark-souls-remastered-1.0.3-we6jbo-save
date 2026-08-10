@@ -7,7 +7,7 @@
   "covenant": "Chaos Servant",
   "covenant_rank": "+2",
   "level": 259,
-  "souls": 12720396,
+  "souls": 12728296,
   "humanity_counter": 0,
   "attributes": {
     "Vitality": 50,
@@ -2525,7 +2525,7 @@
     "start_policy": "Beginning of NG+",
     "current_area": "Valley of Drakes",
     "checkpoint_area": "Duke's Archives",
-    "sim_hp": 276,
+    "sim_hp": 226,
     "sim_max_hp": 1500,
     "sim_estus": 0,
     "sim_humanity_state": "Hollow",
@@ -2557,12 +2557,12 @@
       "Firelink Altar",
       "Kiln of the First Flame"
     ],
-    "encounters_won": 3361,
+    "encounters_won": 3365,
     "deaths": 1,
-    "souls_earned_in_simulator": 12322096,
+    "souls_earned_in_simulator": 12329996,
     "notes": [],
-    "last_session_summary": "we6jbo simulation: 75 accomplishments; Found 706 simulated souls while exploring Valley of Drakes",
-    "last_saved_local": "2026-08-09T21:24:54.859206-07:00",
+    "last_session_summary": "we6jbo simulation: 5 accomplishments; Defeated Hostile knight in Valley of Drakes (+2,800 souls)",
+    "last_saved_local": "2026-08-09T21:32:50.388800-07:00",
     "progress_flags": {
       "bell_of_awakening_quelaag": true,
       "bell_of_awakening_parish": true,
@@ -4070,7 +4070,7 @@
         "summary": "Saved we6jbo simulator state at The Great Hollow"
       }
     ],
-    "restart_requested_local": "2026-08-09T16:57:27.250635-07:00",
+    "restart_requested_local": "2026-08-09T21:32:50.388717-07:00",
     "ng_plus_cycle_complete": true,
     "completed_cycle": "NG++",
     "completion_local": "2026-08-09T16:47:06.231366-07:00",
