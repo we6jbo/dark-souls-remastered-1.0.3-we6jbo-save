@@ -1,12 +1,12 @@
 Dark Souls Remastered v1.0.3 — we6jbo character archive
 Character: we6jbo
 Level: 259
-Souls: 12728296
+Souls: 12946787
 Covenant: Chaos Servant +2
 Simulation target: NG+ beginning
-Simulator current area: Valley of Drakes
-Simulator encounters won: 3365
+Simulator current area: The Catacombs
+Simulator encounters won: 3441
 Simulator deaths: 1
-Simulator last saved: 2026-08-09T21:32:50.388800-07:00
+Simulator last saved: 2026-08-09T21:42:04.044197-07:00
 Last session summary: we6jbo simulation: 5 accomplishments; Defeated Hostile knight in Valley of Drakes (+2,800 souls)
 Repository: https://github.com/we6jbo/dark-souls-remastered-1.0.3-we6jbo-save
