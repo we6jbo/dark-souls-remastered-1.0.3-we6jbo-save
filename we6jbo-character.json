@@ -7,7 +7,7 @@
   "covenant": "Chaos Servant",
   "covenant_rank": "+2",
   "level": 259,
-  "souls": 12710296,
+  "souls": 12719496,
   "humanity_counter": 0,
   "attributes": {
     "Vitality": 50,
@@ -2525,7 +2525,7 @@
     "start_policy": "Beginning of NG+",
     "current_area": "Valley of Drakes",
     "checkpoint_area": "Duke's Archives",
-    "sim_hp": 341,
+    "sim_hp": 276,
     "sim_max_hp": 1500,
     "sim_estus": 0,
     "sim_humanity_state": "Hollow",
@@ -2557,12 +2557,12 @@
       "Firelink Altar",
       "Kiln of the First Flame"
     ],
-    "encounters_won": 3356,
+    "encounters_won": 3360,
     "deaths": 1,
-    "souls_earned_in_simulator": 12311996,
+    "souls_earned_in_simulator": 12321196,
     "notes": [],
     "last_session_summary": "we6jbo simulation: 75 accomplishments; Found 706 simulated souls while exploring Valley of Drakes",
-    "last_saved_local": "2026-08-09T17:07:28.132572-07:00",
+    "last_saved_local": "2026-08-09T17:13:11.941754-07:00",
     "progress_flags": {
       "bell_of_awakening_quelaag": true,
       "bell_of_awakening_parish": true,
