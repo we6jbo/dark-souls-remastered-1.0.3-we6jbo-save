@@ -2562,7 +2562,7 @@
     "souls_earned_in_simulator": 13741542,
     "notes": [],
     "last_session_summary": "we6jbo simulation: 352 accomplishments; Inventory: AI reviewed inventory conservatively. No safe duplicate items were removed.",
-    "last_saved_local": "2026-08-10T06:30:00.860043-07:00",
+    "last_saved_local": "2026-08-10T06:34:45.357478-07:00",
     "progress_flags": {
       "bell_of_awakening_quelaag": true,
       "bell_of_awakening_parish": true,
@@ -4070,7 +4070,7 @@
         "summary": "Saved we6jbo simulator state at The Great Hollow"
       }
     ],
-    "restart_requested_local": "2026-08-09T22:07:31.666615-07:00",
+    "restart_requested_local": "2026-08-10T06:34:45.357436-07:00",
     "ng_plus_cycle_complete": true,
     "completed_cycle": "NG++",
     "completion_local": "2026-08-09T16:47:06.231366-07:00",
