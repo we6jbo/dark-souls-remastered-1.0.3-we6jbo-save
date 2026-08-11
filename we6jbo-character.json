@@ -7,7 +7,7 @@
   "covenant": "Chaos Servant",
   "covenant_rank": "+2",
   "level": 259,
-  "souls": 15280991,
+  "souls": 15293791,
   "humanity_counter": 0,
   "attributes": {
     "Vitality": 50,
@@ -2523,9 +2523,9 @@
     "schema_version": 1,
     "cycle": "NG++",
     "start_policy": "Beginning of NG+",
-    "current_area": "Ash Lake",
+    "current_area": "Demon Ruins",
     "checkpoint_area": "Blighttown",
-    "sim_hp": 980,
+    "sim_hp": 870,
     "sim_max_hp": 1500,
     "sim_estus": 12,
     "sim_humanity_state": "Hollow",
@@ -2557,12 +2557,12 @@
       "Firelink Altar",
       "Kiln of the First Flame"
     ],
-    "encounters_won": 4147,
+    "encounters_won": 4152,
     "deaths": 1,
-    "souls_earned_in_simulator": 14882691,
+    "souls_earned_in_simulator": 14895491,
     "notes": [],
     "last_session_summary": "we6jbo simulation: 63 accomplishments; Traveled from The Great Hollow to Ash Lake",
-    "last_saved_local": "2026-08-10T22:14:37.826216-07:00",
+    "last_saved_local": "2026-08-10T22:22:36.986747-07:00",
     "progress_flags": {
       "bell_of_awakening_quelaag": true,
       "bell_of_awakening_parish": true,
@@ -2614,8 +2614,8 @@
         "updated_local": "2026-08-09T05:58:36.185621-07:00"
       }
     },
-    "live_stream_url": "https://asciinema.org/s/Id86I5xpoV0f4kkr",
-    "live_stream_started_local": "2026-08-10T22:05:31.734376-07:00",
+    "live_stream_url": "https://asciinema.org/s/hyUFioUbv47ZpKSx",
+    "live_stream_started_local": "2026-08-10T22:17:35.226077-07:00",
     "session_history": [
       {
         "saved_local": "2026-08-08T20:04:21.512517-07:00",
@@ -4192,18 +4192,6 @@
     "completion_local": "2026-08-09T16:47:06.231366-07:00",
     "inventory_log": [
       {
-        "time": "2026-08-09T21:40:23.991468-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-09T21:40:46.590331-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-09T21:41:22.359634-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
         "time": "2026-08-09T21:41:26.192281-07:00",
         "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
       },
@@ -5189,6 +5177,18 @@
       },
       {
         "time": "2026-08-10T22:14:35.837114-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-10T22:20:02.647843-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-10T22:20:23.984705-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-10T22:20:45.514415-07:00",
         "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
       }
     ],
