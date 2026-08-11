@@ -7,7 +7,7 @@
   "covenant": "Chaos Servant",
   "covenant_rank": "+2",
   "level": 259,
-  "souls": 16395969,
+  "souls": 17115991,
   "humanity_counter": 0,
   "attributes": {
     "Vitality": 50,
@@ -2523,11 +2523,11 @@
     "schema_version": 1,
     "cycle": "NG++",
     "start_policy": "Beginning of NG+",
-    "current_area": "The Depths",
+    "current_area": "Undead Burg",
     "checkpoint_area": "Demon Ruins",
-    "sim_hp": 915,
+    "sim_hp": 1210,
     "sim_max_hp": 1500,
-    "sim_estus": 13,
+    "sim_estus": 4,
     "sim_humanity_state": "Hollow",
     "areas_visited": [
       "Northern Undead Asylum",
@@ -2557,12 +2557,12 @@
       "Firelink Altar",
       "Kiln of the First Flame"
     ],
-    "encounters_won": 4469,
+    "encounters_won": 4669,
     "deaths": 1,
-    "souls_earned_in_simulator": 15997669,
+    "souls_earned_in_simulator": 16717691,
     "notes": [],
-    "last_session_summary": "we6jbo simulation: 283 accomplishments; Traveled from Blighttown to The Depths",
-    "last_saved_local": "2026-08-11T05:17:10.905831-07:00",
+    "last_session_summary": "we6jbo simulation: 646 accomplishments; Defeated Demon-like guardian in Undead Burg (+5,000 souls)",
+    "last_saved_local": "2026-08-11T05:39:40.205822-07:00",
     "progress_flags": {
       "bell_of_awakening_quelaag": true,
       "bell_of_awakening_parish": true,
@@ -4295,6 +4295,658 @@
           "2026-08-10 22:48:53: Thoroughly explored New Londo Ruins"
         ],
         "summary": "we6jbo simulation: 105 accomplishments; Thoroughly explored New Londo Ruins"
+      },
+      {
+        "saved_local": "2026-08-11T05:39:40.205745-07:00",
+        "events": [
+          "2026-08-11 05:14:07: Defeated Demon-like guardian in The Depths (+5,000 souls)",
+          "2026-08-11 05:14:09: Defeated Armored hollow in The Depths (+1,400 souls)",
+          "2026-08-11 05:14:12: Defeated Black knight-like challenger in The Depths (+3,500 souls)",
+          "2026-08-11 05:14:14: Traveled from The Depths to Blighttown",
+          "2026-08-11 05:14:16: Traveled from Blighttown to Quelaag's Domain",
+          "2026-08-11 05:14:17: Defeated Black knight-like challenger in Quelaag's Domain (+3,500 souls)",
+          "2026-08-11 05:14:19: Traveled from Quelaag's Domain to Blighttown",
+          "2026-08-11 05:14:21: Defeated Sorcerous ambush in Blighttown (+2,200 souls)",
+          "2026-08-11 05:14:23: Traveled from Blighttown to The Great Hollow",
+          "2026-08-11 05:14:25: Found 1,745 simulated souls while exploring The Great Hollow",
+          "2026-08-11 05:14:34: Defeated Hostile knight in The Great Hollow (+2,800 souls)",
+          "2026-08-11 05:14:36: Thoroughly explored The Great Hollow",
+          "2026-08-11 05:14:38: Thoroughly explored The Great Hollow",
+          "2026-08-11 05:14:40: Defeated Demon-like guardian in The Great Hollow (+5,000 souls)",
+          "2026-08-11 05:14:42: Defeated Hollow patrol in The Great Hollow (+900 souls)",
+          "2026-08-11 05:14:43: Defeated Hollow patrol in The Great Hollow (+900 souls)",
+          "2026-08-11 05:14:45: Traveled from The Great Hollow to Blighttown",
+          "2026-08-11 05:14:47: Thoroughly explored Blighttown",
+          "2026-08-11 05:14:49: Defeated Hostile knight in Blighttown (+2,800 souls)",
+          "2026-08-11 05:14:51: Defeated Hostile knight in Blighttown (+2,800 souls)",
+          "2026-08-11 05:14:53: Traveled from Blighttown to Quelaag's Domain",
+          "2026-08-11 05:14:55: Thoroughly explored Quelaag's Domain",
+          "2026-08-11 05:14:57: Defeated Hollow patrol in Quelaag's Domain (+900 souls)",
+          "2026-08-11 05:14:59: Defeated Hollow patrol in Quelaag's Domain (+900 souls)",
+          "2026-08-11 05:15:01: Defeated Demon-like guardian in Quelaag's Domain (+5,000 souls)",
+          "2026-08-11 05:15:03: Found 678 simulated souls while exploring Quelaag's Domain",
+          "2026-08-11 05:15:09: Thoroughly explored Quelaag's Domain",
+          "2026-08-11 05:15:11: Found 2,863 simulated souls while exploring Quelaag's Domain",
+          "2026-08-11 05:15:13: Inventory: AI reviewed inventory conservatively. No safe duplicate items were removed.",
+          "2026-08-11 05:15:15: Defeated Demon-like guardian in Quelaag's Domain (+5,000 souls)",
+          "2026-08-11 05:15:17: Inventory: AI reviewed inventory conservatively. No safe duplicate items were removed.",
+          "2026-08-11 05:15:18: Traveled from Quelaag's Domain to Blighttown",
+          "2026-08-11 05:15:20: Found 1,873 simulated souls while exploring Blighttown",
+          "2026-08-11 05:15:22: Traveled from Blighttown to Quelaag's Domain",
+          "2026-08-11 05:15:24: Thoroughly explored Quelaag's Domain",
+          "2026-08-11 05:15:26: Traveled from Quelaag's Domain to Demon Ruins",
+          "2026-08-11 05:15:28: Defeated Hostile knight in Demon Ruins (+2,800 souls)",
+          "2026-08-11 05:15:30: Traveled from Demon Ruins to Lost Izalith",
+          "2026-08-11 05:15:32: Defeated Sorcerous ambush in Lost Izalith (+2,200 souls)",
+          "2026-08-11 05:15:34: Thoroughly explored Lost Izalith",
+          "2026-08-11 05:15:36: Defeated Hollow patrol in Lost Izalith (+900 souls)",
+          "2026-08-11 05:15:37: Traveled from Lost Izalith to Demon Ruins",
+          "2026-08-11 05:15:45: Defeated Demon-like guardian in Demon Ruins (+5,000 souls)",
+          "2026-08-11 05:15:47: Defeated Black knight-like challenger in Demon Ruins (+3,500 souls)",
+          "2026-08-11 05:15:49: Rested and set checkpoint at Demon Ruins",
+          "2026-08-11 05:15:51: Defeated Hostile knight in Demon Ruins (+2,800 souls)",
+          "2026-08-11 05:15:53: Defeated Sorcerous ambush in Demon Ruins (+2,200 souls)",
+          "2026-08-11 05:15:54: Defeated Hollow patrol in Demon Ruins (+900 souls)",
+          "2026-08-11 05:15:56: Defeated Armored hollow in Demon Ruins (+1,400 souls)",
+          "2026-08-11 05:15:58: Inventory: AI reviewed inventory conservatively. No safe duplicate items were removed.",
+          "2026-08-11 05:16:00: Defeated Sorcerous ambush in Demon Ruins (+2,200 souls)",
+          "2026-08-11 05:16:02: Inventory: AI reviewed inventory conservatively. No safe duplicate items were removed.",
+          "2026-08-11 05:16:04: Defeated Hollow patrol in Demon Ruins (+900 souls)",
+          "2026-08-11 05:16:06: Defeated Sorcerous ambush in Demon Ruins (+2,200 souls)",
+          "2026-08-11 05:16:07: Defeated Hollow patrol in Demon Ruins (+900 souls)",
+          "2026-08-11 05:16:09: Traveled from Demon Ruins to Lost Izalith",
+          "2026-08-11 05:16:11: Traveled from Lost Izalith to Demon Ruins",
+          "2026-08-11 05:16:13: Traveled from Demon Ruins to Quelaag's Domain",
+          "2026-08-11 05:16:15: Defeated Armored hollow in Quelaag's Domain (+1,400 souls)",
+          "2026-08-11 05:16:24: Found 3,002 simulated souls while exploring Quelaag's Domain",
+          "2026-08-11 05:16:26: Defeated Black knight-like challenger in Quelaag's Domain (+3,500 souls)",
+          "2026-08-11 05:16:28: Defeated Demon-like guardian in Quelaag's Domain (+5,000 souls)",
+          "2026-08-11 05:16:29: Defeated Black knight-like challenger in Quelaag's Domain (+3,500 souls)",
+          "2026-08-11 05:16:31: Defeated Demon-like guardian in Quelaag's Domain (+5,000 souls)",
+          "2026-08-11 05:16:33: Found 665 simulated souls while exploring Quelaag's Domain",
+          "2026-08-11 05:16:35: Inventory: AI reviewed inventory conservatively. No safe duplicate items were removed.",
+          "2026-08-11 05:16:37: Defeated Hostile knight in Quelaag's Domain (+2,800 souls)",
+          "2026-08-11 05:16:39: Inventory: AI reviewed inventory conservatively. No safe duplicate items were removed.",
+          "2026-08-11 05:16:41: Defeated Hollow patrol in Quelaag's Domain (+900 souls)",
+          "2026-08-11 05:16:42: Found 447 simulated souls while exploring Quelaag's Domain",
+          "2026-08-11 05:16:44: Defeated Demon-like guardian in Quelaag's Domain (+5,000 souls)",
+          "2026-08-11 05:16:46: Traveled from Quelaag's Domain to Blighttown",
+          "2026-08-11 05:16:48: Defeated Demon-like guardian in Blighttown (+5,000 souls)",
+          "2026-08-11 05:16:50: Inventory: AI reviewed inventory conservatively. No safe duplicate items were removed.",
+          "2026-08-11 05:16:52: Defeated Black knight-like challenger in Blighttown (+3,500 souls)",
+          "2026-08-11 05:17:00: Thoroughly explored Blighttown",
+          "2026-08-11 05:17:02: Defeated Hostile knight in Blighttown (+2,800 souls)",
+          "2026-08-11 05:17:04: Found 874 simulated souls while exploring Blighttown",
+          "2026-08-11 05:17:06: Defeated Hostile knight in Blighttown (+2,800 souls)",
+          "2026-08-11 05:17:08: Traveled from Blighttown to The Depths",
+          "2026-08-11 05:17:10: Defeated Black knight-like challenger in The Depths (+3,500 souls)",
+          "2026-08-11 05:17:12: Traveled from The Depths to Lower Undead Burg",
+          "2026-08-11 05:17:14: Thoroughly explored Lower Undead Burg",
+          "2026-08-11 05:17:17: Found 615 simulated souls while exploring Lower Undead Burg",
+          "2026-08-11 05:17:18: Defeated Demon-like guardian in Lower Undead Burg (+5,000 souls)",
+          "2026-08-11 05:17:20: Found 2,797 simulated souls while exploring Lower Undead Burg",
+          "2026-08-11 05:17:22: Defeated Hostile knight in Lower Undead Burg (+2,800 souls)",
+          "2026-08-11 05:17:24: Inventory: AI reviewed inventory conservatively. No safe duplicate items were removed.",
+          "2026-08-11 05:17:26: Defeated Sorcerous ambush in Lower Undead Burg (+2,200 souls)",
+          "2026-08-11 05:17:28: Defeated Armored hollow in Lower Undead Burg (+1,400 souls)",
+          "2026-08-11 05:17:30: Traveled from Lower Undead Burg to The Depths",
+          "2026-08-11 05:17:36: Traveled from The Depths to Lower Undead Burg",
+          "2026-08-11 05:17:38: Defeated Demon-like guardian in Lower Undead Burg (+5,000 souls)",
+          "2026-08-11 05:17:40: Traveled from Lower Undead Burg to The Depths",
+          "2026-08-11 05:17:42: Defeated Black knight-like challenger in The Depths (+3,500 souls)",
+          "2026-08-11 05:17:44: Inventory: AI reviewed inventory conservatively. No safe duplicate items were removed.",
+          "2026-08-11 05:17:46: Defeated Sorcerous ambush in The Depths (+2,200 souls)",
+          "2026-08-11 05:17:48: Inventory: AI reviewed inventory conservatively. No safe duplicate items were removed.",
+          "2026-08-11 05:17:50: Traveled from The Depths to Lower Undead Burg",
+          "2026-08-11 05:17:52: Found 2,379 simulated souls while exploring Lower Undead Burg",
+          "2026-08-11 05:17:54: Traveled from Lower Undead Burg to The Depths",
+          "2026-08-11 05:17:56: Defeated Sorcerous ambush in The Depths (+2,200 souls)",
+          "2026-08-11 05:18:00: Found 3,173 simulated souls while exploring The Depths",
+          "2026-08-11 05:18:02: Found 3,096 simulated souls while exploring The Depths",
+          "2026-08-11 05:18:04: Traveled from The Depths to Lower Undead Burg",
+          "2026-08-11 05:18:12: Defeated Sorcerous ambush in Lower Undead Burg (+2,200 souls)",
+          "2026-08-11 05:18:14: Found 1,380 simulated souls while exploring Lower Undead Burg",
+          "2026-08-11 05:18:15: Inventory: AI reviewed inventory conservatively. No safe duplicate items were removed.",
+          "2026-08-11 05:18:17: Traveled from Lower Undead Burg to Undead Burg",
+          "2026-08-11 05:18:19: Thoroughly explored Undead Burg",
+          "2026-08-11 05:18:21: Traveled from Undead Burg to Lower Undead Burg",
+          "2026-08-11 05:18:23: Inventory: AI reviewed inventory conservatively. No safe duplicate items were removed.",
+          "2026-08-11 05:18:25: Traveled from Lower Undead Burg to Undead Burg",
+          "2026-08-11 05:18:27: Defeated Hollow patrol in Undead Burg (+900 souls)",
+          "2026-08-11 05:18:29: Found 3,044 simulated souls while exploring Undead Burg",
+          "2026-08-11 05:18:32: Defeated Hollow patrol in Undead Burg (+900 souls)",
+          "2026-08-11 05:18:34: Defeated Demon-like guardian in Undead Burg (+5,000 souls)",
+          "2026-08-11 05:18:36: Inventory: AI reviewed inventory conservatively. No safe duplicate items were removed.",
+          "2026-08-11 05:18:38: Inventory: AI reviewed inventory conservatively. No safe duplicate items were removed.",
+          "2026-08-11 05:18:39: Inventory: AI reviewed inventory conservatively. No safe duplicate items were removed.",
+          "2026-08-11 05:18:41: Defeated Sorcerous ambush in Undead Burg (+2,200 souls)",
+          "2026-08-11 05:18:50: Traveled from Undead Burg to Lower Undead Burg",
+          "2026-08-11 05:18:52: Traveled from Lower Undead Burg to The Depths",
+          "2026-08-11 05:18:54: Traveled from The Depths to Blighttown",
+          "2026-08-11 05:18:56: Defeated Hollow patrol in Blighttown (+900 souls)",
+          "2026-08-11 05:18:58: Defeated Hostile knight in Blighttown (+2,800 souls)",
+          "2026-08-11 05:19:00: Inventory: AI reviewed inventory conservatively. No safe duplicate items were removed.",
+          "2026-08-11 05:19:02: Defeated Armored hollow in Blighttown (+1,400 souls)",
+          "2026-08-11 05:19:04: Defeated Black knight-like challenger in Blighttown (+3,500 souls)",
+          "2026-08-11 05:19:06: Traveled from Blighttown to The Great Hollow",
+          "2026-08-11 05:19:08: Traveled from The Great Hollow to Ash Lake",
+          "2026-08-11 05:19:10: Defeated Demon-like guardian in Ash Lake (+5,000 souls)",
+          "2026-08-11 05:19:12: Found 881 simulated souls while exploring Ash Lake",
+          "2026-08-11 05:19:13: Traveled from Ash Lake to The Great Hollow",
+          "2026-08-11 05:19:15: Defeated Demon-like guardian in The Great Hollow (+5,000 souls)",
+          "2026-08-11 05:19:17: Traveled from The Great Hollow to Blighttown",
+          "2026-08-11 05:19:19: Traveled from Blighttown to Quelaag's Domain",
+          "2026-08-11 05:19:25: Defeated Armored hollow in Quelaag's Domain (+1,400 souls)",
+          "2026-08-11 05:19:27: Defeated Hollow patrol in Quelaag's Domain (+900 souls)",
+          "2026-08-11 05:19:29: Found 2,931 simulated souls while exploring Quelaag's Domain",
+          "2026-08-11 05:19:31: Defeated Hostile knight in Quelaag's Domain (+2,800 souls)",
+          "2026-08-11 05:19:33: Defeated Demon-like guardian in Quelaag's Domain (+5,000 souls)",
+          "2026-08-11 05:19:35: Found 2,363 simulated souls while exploring Quelaag's Domain",
+          "2026-08-11 05:19:36: Defeated Hostile knight in Quelaag's Domain (+2,800 souls)",
+          "2026-08-11 05:19:38: Traveled from Quelaag's Domain to Blighttown",
+          "2026-08-11 05:19:40: Traveled from Blighttown to Quelaag's Domain",
+          "2026-08-11 05:19:42: Defeated Armored hollow in Quelaag's Domain (+1,400 souls)",
+          "2026-08-11 05:19:44: Traveled from Quelaag's Domain to Demon Ruins",
+          "2026-08-11 05:19:46: Found 2,642 simulated souls while exploring Demon Ruins",
+          "2026-08-11 05:19:48: Inventory: AI reviewed inventory conservatively. No safe duplicate items were removed.",
+          "2026-08-11 05:19:50: Inventory: AI reviewed inventory conservatively. No safe duplicate items were removed.",
+          "2026-08-11 05:19:51: Traveled from Demon Ruins to Lost Izalith",
+          "2026-08-11 05:19:53: Defeated Hollow patrol in Lost Izalith (+900 souls)",
+          "2026-08-11 05:19:55: Defeated Hostile knight in Lost Izalith (+2,800 souls)",
+          "2026-08-11 05:20:01: Inventory: AI reviewed inventory conservatively. No safe duplicate items were removed.",
+          "2026-08-11 05:20:03: Defeated Black knight-like challenger in Lost Izalith (+3,500 souls)",
+          "2026-08-11 05:20:05: Defeated Armored hollow in Lost Izalith (+1,400 souls)",
+          "2026-08-11 05:20:07: Thoroughly explored Lost Izalith",
+          "2026-08-11 05:20:09: Found 2,202 simulated souls while exploring Lost Izalith",
+          "2026-08-11 05:20:11: Defeated Hostile knight in Lost Izalith (+2,800 souls)",
+          "2026-08-11 05:20:13: Defeated Armored hollow in Lost Izalith (+1,400 souls)",
+          "2026-08-11 05:20:14: Inventory: AI reviewed inventory conservatively. No safe duplicate items were removed.",
+          "2026-08-11 05:20:16: Thoroughly explored Lost Izalith",
+          "2026-08-11 05:20:18: Found 1,096 simulated souls while exploring Lost Izalith",
+          "2026-08-11 05:20:20: Traveled from Lost Izalith to Demon Ruins",
+          "2026-08-11 05:20:22: Found 3,295 simulated souls while exploring Demon Ruins",
+          "2026-08-11 05:20:24: Traveled from Demon Ruins to Lost Izalith",
+          "2026-08-11 05:20:26: Defeated Demon-like guardian in Lost Izalith (+5,000 souls)",
+          "2026-08-11 05:20:27: Defeated Armored hollow in Lost Izalith (+1,400 souls)",
+          "2026-08-11 05:20:29: Found 1,408 simulated souls while exploring Lost Izalith",
+          "2026-08-11 05:20:31: Traveled from Lost Izalith to Demon Ruins",
+          "2026-08-11 05:20:37: Defeated Armored hollow in Demon Ruins (+1,400 souls)",
+          "2026-08-11 05:20:39: Defeated Armored hollow in Demon Ruins (+1,400 souls)",
+          "2026-08-11 05:20:41: Defeated Sorcerous ambush in Demon Ruins (+2,200 souls)",
+          "2026-08-11 05:20:45: Defeated Hostile knight in Demon Ruins (+2,800 souls)",
+          "2026-08-11 05:20:47: Found 2,725 simulated souls while exploring Demon Ruins",
+          "2026-08-11 05:20:49: Defeated Armored hollow in Demon Ruins (+1,400 souls)",
+          "2026-08-11 05:20:51: Defeated Armored hollow in Demon Ruins (+1,400 souls)",
+          "2026-08-11 05:20:53: Traveled from Demon Ruins to Lost Izalith",
+          "2026-08-11 05:20:54: Inventory: AI reviewed inventory conservatively. No safe duplicate items were removed.",
+          "2026-08-11 05:20:56: Traveled from Lost Izalith to Demon Ruins",
+          "2026-08-11 05:20:58: Defeated Sorcerous ambush in Demon Ruins (+2,200 souls)",
+          "2026-08-11 05:21:00: Defeated Demon-like guardian in Demon Ruins (+5,000 souls)",
+          "2026-08-11 05:21:02: Inventory: AI reviewed inventory conservatively. No safe duplicate items were removed.",
+          "2026-08-11 05:21:04: Traveled from Demon Ruins to Lost Izalith",
+          "2026-08-11 05:21:06: Found 831 simulated souls while exploring Lost Izalith",
+          "2026-08-11 05:21:13: Thoroughly explored Lost Izalith",
+          "2026-08-11 05:21:14: Defeated Sorcerous ambush in Lost Izalith (+2,200 souls)",
+          "2026-08-11 05:21:16: Defeated Hollow patrol in Lost Izalith (+900 souls)",
+          "2026-08-11 05:21:18: Traveled from Lost Izalith to Demon Ruins",
+          "2026-08-11 05:21:20: Traveled from Demon Ruins to Lost Izalith",
+          "2026-08-11 05:21:22: Inventory: AI reviewed inventory conservatively. No safe duplicate items were removed.",
+          "2026-08-11 05:21:24: Defeated Demon-like guardian in Lost Izalith (+5,000 souls)",
+          "2026-08-11 05:21:26: Thoroughly explored Lost Izalith",
+          "2026-08-11 05:21:27: Thoroughly explored Lost Izalith",
+          "2026-08-11 05:21:29: Defeated Sorcerous ambush in Lost Izalith (+2,200 souls)",
+          "2026-08-11 05:21:31: Traveled from Lost Izalith to Demon Ruins",
+          "2026-08-11 05:21:33: Defeated Armored hollow in Demon Ruins (+1,400 souls)",
+          "2026-08-11 05:21:35: Defeated Armored hollow in Demon Ruins (+1,400 souls)",
+          "2026-08-11 05:21:37: Defeated Black knight-like challenger in Demon Ruins (+3,500 souls)",
+          "2026-08-11 05:21:39: Inventory: AI reviewed inventory conservatively. No safe duplicate items were removed.",
+          "2026-08-11 05:21:41: Defeated Armored hollow in Demon Ruins (+1,400 souls)",
+          "2026-08-11 05:21:54: Inventory: AI reviewed inventory conservatively. No safe duplicate items were removed.",
+          "2026-08-11 05:21:55: Found 728 simulated souls while exploring Demon Ruins",
+          "2026-08-11 05:21:57: Defeated Hollow patrol in Demon Ruins (+900 souls)",
+          "2026-08-11 05:21:59: Traveled from Demon Ruins to Lost Izalith",
+          "2026-08-11 05:22:01: Defeated Hollow patrol in Lost Izalith (+900 souls)",
+          "2026-08-11 05:22:03: Traveled from Lost Izalith to Demon Ruins",
+          "2026-08-11 05:22:05: Inventory: AI reviewed inventory conservatively. No safe duplicate items were removed.",
+          "2026-08-11 05:22:07: Thoroughly explored Demon Ruins",
+          "2026-08-11 05:22:08: Defeated Hollow patrol in Demon Ruins (+900 souls)",
+          "2026-08-11 05:22:10: Inventory: AI reviewed inventory conservatively. No safe duplicate items were removed.",
+          "2026-08-11 05:22:12: Traveled from Demon Ruins to Quelaag's Domain",
+          "2026-08-11 05:22:14: Found 831 simulated souls while exploring Quelaag's Domain",
+          "2026-08-11 05:22:16: Defeated Sorcerous ambush in Quelaag's Domain (+2,200 souls)",
+          "2026-08-11 05:22:18: Inventory: AI reviewed inventory conservatively. No safe duplicate items were removed.",
+          "2026-08-11 05:22:20: Traveled from Quelaag's Domain to Demon Ruins",
+          "2026-08-11 05:22:22: Traveled from Demon Ruins to Quelaag's Domain",
+          "2026-08-11 05:22:30: Inventory: AI reviewed inventory conservatively. No safe duplicate items were removed.",
+          "2026-08-11 05:22:32: Inventory: AI reviewed inventory conservatively. No safe duplicate items were removed.",
+          "2026-08-11 05:22:34: Thoroughly explored Quelaag's Domain",
+          "2026-08-11 05:22:36: Thoroughly explored Quelaag's Domain",
+          "2026-08-11 05:22:38: Defeated Black knight-like challenger in Quelaag's Domain (+3,500 souls)",
+          "2026-08-11 05:22:39: Defeated Hollow patrol in Quelaag's Domain (+900 souls)",
+          "2026-08-11 05:22:41: Defeated Sorcerous ambush in Quelaag's Domain (+2,200 souls)",
+          "2026-08-11 05:22:43: Traveled from Quelaag's Domain to Demon Ruins",
+          "2026-08-11 05:22:45: Traveled from Demon Ruins to Quelaag's Domain",
+          "2026-08-11 05:22:47: Thoroughly explored Quelaag's Domain",
+          "2026-08-11 05:22:49: Defeated Black knight-like challenger in Quelaag's Domain (+3,500 souls)",
+          "2026-08-11 05:22:51: Traveled from Quelaag's Domain to Blighttown",
+          "2026-08-11 05:22:53: Found 3,035 simulated souls while exploring Blighttown",
+          "2026-08-11 05:22:55: Defeated Sorcerous ambush in Blighttown (+2,200 souls)",
+          "2026-08-11 05:22:56: Defeated Sorcerous ambush in Blighttown (+2,200 souls)",
+          "2026-08-11 05:22:59: Traveled from Blighttown to The Depths",
+          "2026-08-11 05:23:05: Defeated Hostile knight in The Depths (+2,800 souls)",
+          "2026-08-11 05:23:07: Defeated Hostile knight in The Depths (+2,800 souls)",
+          "2026-08-11 05:23:10: Defeated Black knight-like challenger in The Depths (+3,500 souls)",
+          "2026-08-11 05:23:12: Defeated Hollow patrol in The Depths (+900 souls)",
+          "2026-08-11 05:23:14: Inventory: AI reviewed inventory conservatively. No safe duplicate items were removed.",
+          "2026-08-11 05:23:16: Defeated Demon-like guardian in The Depths (+5,000 souls)",
+          "2026-08-11 05:23:18: Traveled from The Depths to Blighttown",
+          "2026-08-11 05:23:20: Defeated Sorcerous ambush in Blighttown (+2,200 souls)",
+          "2026-08-11 05:23:22: Traveled from Blighttown to Quelaag's Domain",
+          "2026-08-11 05:23:23: Defeated Demon-like guardian in Quelaag's Domain (+5,000 souls)",
+          "2026-08-11 05:23:27: Traveled from Quelaag's Domain to Blighttown",
+          "2026-08-11 05:23:29: Found 1,693 simulated souls while exploring Blighttown",
+          "2026-08-11 05:23:31: Inventory: AI reviewed inventory conservatively. No safe duplicate items were removed.",
+          "2026-08-11 05:23:33: Defeated Black knight-like challenger in Blighttown (+3,500 souls)",
+          "2026-08-11 05:23:35: Thoroughly explored Blighttown",
+          "2026-08-11 05:23:42: Defeated Hollow patrol in Blighttown (+900 souls)",
+          "2026-08-11 05:23:44: Defeated Hollow patrol in Blighttown (+900 souls)",
+          "2026-08-11 05:23:45: Traveled from Blighttown to The Depths",
+          "2026-08-11 05:23:47: Found 2,610 simulated souls while exploring The Depths",
+          "2026-08-11 05:23:50: Defeated Hollow patrol in The Depths (+900 souls)",
+          "2026-08-11 05:23:52: Thoroughly explored The Depths",
+          "2026-08-11 05:23:54: Traveled from The Depths to Lower Undead Burg",
+          "2026-08-11 05:23:55: Traveled from Lower Undead Burg to The Depths",
+          "2026-08-11 05:23:58: Inventory: AI reviewed inventory conservatively. No safe duplicate items were removed.",
+          "2026-08-11 05:24:00: Defeated Armored hollow in The Depths (+1,400 souls)",
+          "2026-08-11 05:24:02: Found 3,113 simulated souls while exploring The Depths",
+          "2026-08-11 05:24:04: Traveled from The Depths to Lower Undead Burg",
+          "2026-08-11 05:24:06: Found 2,080 simulated souls while exploring Lower Undead Burg",
+          "2026-08-11 05:24:08: Defeated Sorcerous ambush in Lower Undead Burg (+2,200 souls)",
+          "2026-08-11 05:24:09: Found 1,671 simulated souls while exploring Lower Undead Burg",
+          "2026-08-11 05:24:11: Found 1,894 simulated souls while exploring Lower Undead Burg",
+          "2026-08-11 05:24:18: Traveled from Lower Undead Burg to Undead Burg",
+          "2026-08-11 05:24:20: Defeated Armored hollow in Undead Burg (+1,400 souls)",
+          "2026-08-11 05:24:22: Found 1,079 simulated souls while exploring Undead Burg",
+          "2026-08-11 05:24:24: Defeated Black knight-like challenger in Undead Burg (+3,500 souls)",
+          "2026-08-11 05:24:27: Defeated Sorcerous ambush in Undead Burg (+2,200 souls)",
+          "2026-08-11 05:24:29: Traveled from Undead Burg to Lower Undead Burg",
+          "2026-08-11 05:24:31: Inventory: AI reviewed inventory conservatively. No safe duplicate items were removed.",
+          "2026-08-11 05:24:33: Traveled from Lower Undead Burg to The Depths",
+          "2026-08-11 05:24:35: Traveled from The Depths to Lower Undead Burg",
+          "2026-08-11 05:24:37: Inventory: AI reviewed inventory conservatively. No safe duplicate items were removed.",
+          "2026-08-11 05:24:39: Traveled from Lower Undead Burg to The Depths",
+          "2026-08-11 05:24:41: Found 558 simulated souls while exploring The Depths",
+          "2026-08-11 05:24:43: Found 1,437 simulated souls while exploring The Depths",
+          "2026-08-11 05:24:45: Found 1,822 simulated souls while exploring The Depths",
+          "2026-08-11 05:24:47: Found 3,162 simulated souls while exploring The Depths",
+          "2026-08-11 05:24:54: Thoroughly explored The Depths",
+          "2026-08-11 05:24:56: Defeated Hollow patrol in The Depths (+900 souls)",
+          "2026-08-11 05:24:58: Found 3,060 simulated souls while exploring The Depths",
+          "2026-08-11 05:25:00: Found 1,178 simulated souls while exploring The Depths",
+          "2026-08-11 05:25:02: Traveled from The Depths to Blighttown",
+          "2026-08-11 05:25:04: Defeated Hostile knight in Blighttown (+2,800 souls)",
+          "2026-08-11 05:25:06: Thoroughly explored Blighttown",
+          "2026-08-11 05:25:07: Defeated Demon-like guardian in Blighttown (+5,000 souls)",
+          "2026-08-11 05:25:09: Thoroughly explored Blighttown",
+          "2026-08-11 05:25:11: Defeated Sorcerous ambush in Blighttown (+2,200 souls)",
+          "2026-08-11 05:25:13: Defeated Hostile knight in Blighttown (+2,800 souls)",
+          "2026-08-11 05:25:15: Inventory: AI reviewed inventory conservatively. No safe duplicate items were removed.",
+          "2026-08-11 05:25:17: Found 1,771 simulated souls while exploring Blighttown",
+          "2026-08-11 05:25:19: Traveled from Blighttown to Quelaag's Domain",
+          "2026-08-11 05:25:21: Found 1,119 simulated souls while exploring Quelaag's Domain",
+          "2026-08-11 05:25:23: Thoroughly explored Quelaag's Domain",
+          "2026-08-11 05:25:31: Inventory: AI reviewed inventory conservatively. No safe duplicate items were removed.",
+          "2026-08-11 05:25:33: Found 1,933 simulated souls while exploring Quelaag's Domain",
+          "2026-08-11 05:25:34: Traveled from Quelaag's Domain to Blighttown",
+          "2026-08-11 05:25:36: Traveled from Blighttown to The Depths",
+          "2026-08-11 05:25:38: Defeated Hostile knight in The Depths (+2,800 souls)",
+          "2026-08-11 05:25:40: Inventory: AI reviewed inventory conservatively. No safe duplicate items were removed.",
+          "2026-08-11 05:25:42: Defeated Demon-like guardian in The Depths (+5,000 souls)",
+          "2026-08-11 05:25:44: Traveled from The Depths to Lower Undead Burg",
+          "2026-08-11 05:25:46: Traveled from Lower Undead Burg to Undead Burg",
+          "2026-08-11 05:25:49: Found 2,051 simulated souls while exploring Undead Burg",
+          "2026-08-11 05:25:51: Defeated Hostile knight in Undead Burg (+2,800 souls)",
+          "2026-08-11 05:25:53: Traveled from Undead Burg to Lower Undead Burg",
+          "2026-08-11 05:25:55: Defeated Armored hollow in Lower Undead Burg (+1,400 souls)",
+          "2026-08-11 05:25:56: Traveled from Lower Undead Burg to The Depths",
+          "2026-08-11 05:25:59: Inventory: AI reviewed inventory conservatively. No safe duplicate items were removed.",
+          "2026-08-11 05:26:00: Found 2,031 simulated souls while exploring The Depths",
+          "2026-08-11 05:26:05: Found 1,208 simulated souls while exploring The Depths",
+          "2026-08-11 05:26:07: Traveled from The Depths to Blighttown",
+          "2026-08-11 05:26:09: Traveled from Blighttown to The Great Hollow",
+          "2026-08-11 05:26:11: Inventory: AI reviewed inventory conservatively. No safe duplicate items were removed.",
+          "2026-08-11 05:26:13: Traveled from The Great Hollow to Ash Lake",
+          "2026-08-11 05:26:15: Thoroughly explored Ash Lake",
+          "2026-08-11 05:26:17: Defeated Hostile knight in Ash Lake (+2,800 souls)",
+          "2026-08-11 05:26:19: Traveled from Ash Lake to The Great Hollow",
+          "2026-08-11 05:26:21: Inventory: AI reviewed inventory conservatively. No safe duplicate items were removed.",
+          "2026-08-11 05:26:23: Inventory: AI reviewed inventory conservatively. No safe duplicate items were removed.",
+          "2026-08-11 05:26:25: Defeated Demon-like guardian in The Great Hollow (+5,000 souls)",
+          "2026-08-11 05:26:27: Defeated Demon-like guardian in The Great Hollow (+5,000 souls)",
+          "2026-08-11 05:26:28: Inventory: AI reviewed inventory conservatively. No safe duplicate items were removed.",
+          "2026-08-11 05:26:30: Defeated Armored hollow in The Great Hollow (+1,400 souls)",
+          "2026-08-11 05:26:32: Defeated Hostile knight in The Great Hollow (+2,800 souls)",
+          "2026-08-11 05:26:34: Found 1,861 simulated souls while exploring The Great Hollow",
+          "2026-08-11 05:26:44: Defeated Black knight-like challenger in The Great Hollow (+3,500 souls)",
+          "2026-08-11 05:26:47: Defeated Sorcerous ambush in The Great Hollow (+2,200 souls)",
+          "2026-08-11 05:26:49: Inventory: AI reviewed inventory conservatively. No safe duplicate items were removed.",
+          "2026-08-11 05:26:51: Inventory: AI reviewed inventory conservatively. No safe duplicate items were removed.",
+          "2026-08-11 05:26:53: Inventory: AI reviewed inventory conservatively. No safe duplicate items were removed.",
+          "2026-08-11 05:26:55: Inventory: AI reviewed inventory conservatively. No safe duplicate items were removed.",
+          "2026-08-11 05:26:56: Found 2,059 simulated souls while exploring The Great Hollow",
+          "2026-08-11 05:26:58: Traveled from The Great Hollow to Blighttown",
+          "2026-08-11 05:27:00: Traveled from Blighttown to The Depths",
+          "2026-08-11 05:27:02: Traveled from The Depths to Blighttown",
+          "2026-08-11 05:27:04: Found 799 simulated souls while exploring Blighttown",
+          "2026-08-11 05:27:06: Found 3,303 simulated souls while exploring Blighttown",
+          "2026-08-11 05:27:08: Inventory: AI reviewed inventory conservatively. No safe duplicate items were removed.",
+          "2026-08-11 05:27:10: Traveled from Blighttown to The Depths",
+          "2026-08-11 05:27:12: Traveled from The Depths to Lower Undead Burg",
+          "2026-08-11 05:27:22: Defeated Hollow patrol in Lower Undead Burg (+900 souls)",
+          "2026-08-11 05:27:23: Defeated Black knight-like challenger in Lower Undead Burg (+3,500 souls)",
+          "2026-08-11 05:27:25: Inventory: AI reviewed inventory conservatively. No safe duplicate items were removed.",
+          "2026-08-11 05:27:27: Found 3,096 simulated souls while exploring Lower Undead Burg",
+          "2026-08-11 05:27:29: Traveled from Lower Undead Burg to The Depths",
+          "2026-08-11 05:27:31: Found 1,480 simulated souls while exploring The Depths",
+          "2026-08-11 05:27:33: Found 2,335 simulated souls while exploring The Depths",
+          "2026-08-11 05:27:35: Inventory: AI reviewed inventory conservatively. No safe duplicate items were removed.",
+          "2026-08-11 05:27:37: Inventory: AI reviewed inventory conservatively. No safe duplicate items were removed.",
+          "2026-08-11 05:27:39: Defeated Sorcerous ambush in The Depths (+2,200 souls)",
+          "2026-08-11 05:27:41: Traveled from The Depths to Lower Undead Burg",
+          "2026-08-11 05:27:43: Traveled from Lower Undead Burg to The Depths",
+          "2026-08-11 05:27:45: Found 1,383 simulated souls while exploring The Depths",
+          "2026-08-11 05:27:47: Defeated Demon-like guardian in The Depths (+5,000 souls)",
+          "2026-08-11 05:27:49: Inventory: AI reviewed inventory conservatively. No safe duplicate items were removed.",
+          "2026-08-11 05:27:56: Found 3,230 simulated souls while exploring The Depths",
+          "2026-08-11 05:27:58: Traveled from The Depths to Blighttown",
+          "2026-08-11 05:28:00: Thoroughly explored Blighttown",
+          "2026-08-11 05:28:02: Found 3,016 simulated souls while exploring Blighttown",
+          "2026-08-11 05:28:04: Found 3,113 simulated souls while exploring Blighttown",
+          "2026-08-11 05:28:06: Defeated Hostile knight in Blighttown (+2,800 souls)",
+          "2026-08-11 05:28:07: Traveled from Blighttown to The Depths",
+          "2026-08-11 05:28:09: Found 2,866 simulated souls while exploring The Depths",
+          "2026-08-11 05:28:11: Inventory: AI reviewed inventory conservatively. No safe duplicate items were removed.",
+          "2026-08-11 05:28:13: Inventory: AI reviewed inventory conservatively. No safe duplicate items were removed.",
+          "2026-08-11 05:28:15: Traveled from The Depths to Blighttown",
+          "2026-08-11 05:28:17: Thoroughly explored Blighttown",
+          "2026-08-11 05:28:19: Defeated Demon-like guardian in Blighttown (+5,000 souls)",
+          "2026-08-11 05:28:21: Defeated Black knight-like challenger in Blighttown (+3,500 souls)",
+          "2026-08-11 05:28:23: Defeated Black knight-like challenger in Blighttown (+3,500 souls)",
+          "2026-08-11 05:28:25: Traveled from Blighttown to The Depths",
+          "2026-08-11 05:28:33: Traveled from The Depths to Lower Undead Burg",
+          "2026-08-11 05:28:35: Found 703 simulated souls while exploring Lower Undead Burg",
+          "2026-08-11 05:28:37: Defeated Sorcerous ambush in Lower Undead Burg (+2,200 souls)",
+          "2026-08-11 05:28:38: Found 679 simulated souls while exploring Lower Undead Burg",
+          "2026-08-11 05:28:40: Thoroughly explored Lower Undead Burg",
+          "2026-08-11 05:28:42: Defeated Black knight-like challenger in Lower Undead Burg (+3,500 souls)",
+          "2026-08-11 05:28:44: Defeated Demon-like guardian in Lower Undead Burg (+5,000 souls)",
+          "2026-08-11 05:28:46: Defeated Black knight-like challenger in Lower Undead Burg (+3,500 souls)",
+          "2026-08-11 05:28:48: Thoroughly explored Lower Undead Burg",
+          "2026-08-11 05:28:50: Defeated Hollow patrol in Lower Undead Burg (+900 souls)",
+          "2026-08-11 05:28:52: Defeated Demon-like guardian in Lower Undead Burg (+5,000 souls)",
+          "2026-08-11 05:28:53: Defeated Hollow patrol in Lower Undead Burg (+900 souls)",
+          "2026-08-11 05:28:55: Traveled from Lower Undead Burg to The Depths",
+          "2026-08-11 05:28:57: Inventory: AI reviewed inventory conservatively. No safe duplicate items were removed.",
+          "2026-08-11 05:28:59: Traveled from The Depths to Lower Undead Burg",
+          "2026-08-11 05:29:01: Defeated Black knight-like challenger in Lower Undead Burg (+3,500 souls)",
+          "2026-08-11 05:29:10: Defeated Hostile knight in Lower Undead Burg (+2,800 souls)",
+          "2026-08-11 05:29:12: Defeated Armored hollow in Lower Undead Burg (+1,400 souls)",
+          "2026-08-11 05:29:13: Defeated Armored hollow in Lower Undead Burg (+1,400 souls)",
+          "2026-08-11 05:29:15: Defeated Demon-like guardian in Lower Undead Burg (+5,000 souls)",
+          "2026-08-11 05:29:17: Defeated Sorcerous ambush in Lower Undead Burg (+2,200 souls)",
+          "2026-08-11 05:29:19: Found 1,419 simulated souls while exploring Lower Undead Burg",
+          "2026-08-11 05:29:21: Thoroughly explored Lower Undead Burg",
+          "2026-08-11 05:29:23: Defeated Black knight-like challenger in Lower Undead Burg (+3,500 souls)",
+          "2026-08-11 05:29:25: Thoroughly explored Lower Undead Burg",
+          "2026-08-11 05:29:27: Traveled from Lower Undead Burg to Undead Burg",
+          "2026-08-11 05:29:29: Thoroughly explored Undead Burg",
+          "2026-08-11 05:29:31: Inventory: AI reviewed inventory conservatively. No safe duplicate items were removed.",
+          "2026-08-11 05:29:33: Inventory: AI reviewed inventory conservatively. No safe duplicate items were removed.",
+          "2026-08-11 05:29:35: Inventory: AI reviewed inventory conservatively. No safe duplicate items were removed.",
+          "2026-08-11 05:29:37: Traveled from Undead Burg to Undead Parish",
+          "2026-08-11 05:29:45: Defeated Hollow patrol in Undead Parish (+900 souls)",
+          "2026-08-11 05:29:47: Defeated Hostile knight in Undead Parish (+2,800 souls)",
+          "2026-08-11 05:29:50: Traveled from Undead Parish to Sen's Fortress",
+          "2026-08-11 05:29:52: Inventory: AI reviewed inventory conservatively. No safe duplicate items were removed.",
+          "2026-08-11 05:29:53: Traveled from Sen's Fortress to Undead Parish",
+          "2026-08-11 05:29:55: Found 1,290 simulated souls while exploring Undead Parish",
+          "2026-08-11 05:29:57: Found 2,895 simulated souls while exploring Undead Parish",
+          "2026-08-11 05:29:59: Inventory: AI reviewed inventory conservatively. No safe duplicate items were removed.",
+          "2026-08-11 05:30:01: Inventory: AI reviewed inventory conservatively. No safe duplicate items were removed.",
+          "2026-08-11 05:30:03: Found 2,786 simulated souls while exploring Undead Parish",
+          "2026-08-11 05:30:05: Defeated Hostile knight in Undead Parish (+2,800 souls)",
+          "2026-08-11 05:30:07: Found 1,651 simulated souls while exploring Undead Parish",
+          "2026-08-11 05:30:09: Defeated Hollow patrol in Undead Parish (+900 souls)",
+          "2026-08-11 05:30:12: Found 1,389 simulated souls while exploring Undead Parish",
+          "2026-08-11 05:30:14: Traveled from Undead Parish to Sen's Fortress",
+          "2026-08-11 05:30:24: Defeated Black knight-like challenger in Sen's Fortress (+3,500 souls)",
+          "2026-08-11 05:30:26: Traveled from Sen's Fortress to Anor Londo",
+          "2026-08-11 05:30:28: Defeated Sorcerous ambush in Anor Londo (+2,200 souls)",
+          "2026-08-11 05:30:30: Defeated Hollow patrol in Anor Londo (+900 souls)",
+          "2026-08-11 05:30:32: Defeated Demon-like guardian in Anor Londo (+5,000 souls)",
+          "2026-08-11 05:30:34: Defeated Hostile knight in Anor Londo (+2,800 souls)",
+          "2026-08-11 05:30:36: Found 3,481 simulated souls while exploring Anor Londo",
+          "2026-08-11 05:30:38: Traveled from Anor Londo to Duke's Archives",
+          "2026-08-11 05:30:40: Thoroughly explored Duke's Archives",
+          "2026-08-11 05:30:42: Defeated Armored hollow in Duke's Archives (+1,400 souls)",
+          "2026-08-11 05:30:44: Defeated Hollow patrol in Duke's Archives (+900 souls)",
+          "2026-08-11 05:30:46: Traveled from Duke's Archives to Anor Londo",
+          "2026-08-11 05:30:48: Thoroughly explored Anor Londo",
+          "2026-08-11 05:30:50: Defeated Hostile knight in Anor Londo (+2,800 souls)",
+          "2026-08-11 05:30:52: Thoroughly explored Anor Londo",
+          "2026-08-11 05:31:05: Found 568 simulated souls while exploring Anor Londo",
+          "2026-08-11 05:31:07: Defeated Sorcerous ambush in Anor Londo (+2,200 souls)",
+          "2026-08-11 05:31:09: Thoroughly explored Anor Londo",
+          "2026-08-11 05:31:11: Defeated Sorcerous ambush in Anor Londo (+2,200 souls)",
+          "2026-08-11 05:31:13: Defeated Hostile knight in Anor Londo (+2,800 souls)",
+          "2026-08-11 05:31:15: Defeated Demon-like guardian in Anor Londo (+5,000 souls)",
+          "2026-08-11 05:31:17: Inventory: AI reviewed inventory conservatively. No safe duplicate items were removed.",
+          "2026-08-11 05:31:19: Inventory: AI reviewed inventory conservatively. No safe duplicate items were removed.",
+          "2026-08-11 05:31:21: Defeated Hollow patrol in Anor Londo (+900 souls)",
+          "2026-08-11 05:31:23: Defeated Demon-like guardian in Anor Londo (+5,000 souls)",
+          "2026-08-11 05:31:25: Traveled from Anor Londo to Painted World",
+          "2026-08-11 05:31:27: Traveled from Painted World to Anor Londo",
+          "2026-08-11 05:31:29: Traveled from Anor Londo to Painted World",
+          "2026-08-11 05:31:31: Found 1,254 simulated souls while exploring Painted World",
+          "2026-08-11 05:31:33: Defeated Hostile knight in Painted World (+2,800 souls)",
+          "2026-08-11 05:31:45: Inventory: AI reviewed inventory conservatively. No safe duplicate items were removed.",
+          "2026-08-11 05:31:46: Found 3,207 simulated souls while exploring Painted World",
+          "2026-08-11 05:31:49: Defeated Demon-like guardian in Painted World (+5,000 souls)",
+          "2026-08-11 05:31:51: Traveled from Painted World to Anor Londo",
+          "2026-08-11 05:31:52: Thoroughly explored Anor Londo",
+          "2026-08-11 05:31:55: Defeated Hollow patrol in Anor Londo (+900 souls)",
+          "2026-08-11 05:31:56: Thoroughly explored Anor Londo",
+          "2026-08-11 05:31:58: Thoroughly explored Anor Londo",
+          "2026-08-11 05:32:00: Defeated Demon-like guardian in Anor Londo (+5,000 souls)",
+          "2026-08-11 05:32:02: Found 727 simulated souls while exploring Anor Londo",
+          "2026-08-11 05:32:04: Defeated Hostile knight in Anor Londo (+2,800 souls)",
+          "2026-08-11 05:32:06: Traveled from Anor Londo to Painted World",
+          "2026-08-11 05:32:08: Defeated Hostile knight in Painted World (+2,800 souls)",
+          "2026-08-11 05:32:10: Thoroughly explored Painted World",
+          "2026-08-11 05:32:12: Traveled from Painted World to Anor Londo",
+          "2026-08-11 05:32:25: Traveled from Anor Londo to Sen's Fortress",
+          "2026-08-11 05:32:28: Traveled from Sen's Fortress to Undead Parish",
+          "2026-08-11 05:32:30: Found 1,008 simulated souls while exploring Undead Parish",
+          "2026-08-11 05:32:32: Inventory: AI reviewed inventory conservatively. No safe duplicate items were removed.",
+          "2026-08-11 05:32:34: Defeated Demon-like guardian in Undead Parish (+5,000 souls)",
+          "2026-08-11 05:32:36: Defeated Sorcerous ambush in Undead Parish (+2,200 souls)",
+          "2026-08-11 05:32:38: Defeated Hollow patrol in Undead Parish (+900 souls)",
+          "2026-08-11 05:32:40: Defeated Sorcerous ambush in Undead Parish (+2,200 souls)",
+          "2026-08-11 05:32:42: Thoroughly explored Undead Parish",
+          "2026-08-11 05:32:44: Inventory: AI reviewed inventory conservatively. No safe duplicate items were removed.",
+          "2026-08-11 05:32:46: Thoroughly explored Undead Parish",
+          "2026-08-11 05:32:48: Defeated Sorcerous ambush in Undead Parish (+2,200 souls)",
+          "2026-08-11 05:32:51: Traveled from Undead Parish to Darkroot Garden",
+          "2026-08-11 05:32:52: Inventory: AI reviewed inventory conservatively. No safe duplicate items were removed.",
+          "2026-08-11 05:32:54: Found 3,339 simulated souls while exploring Darkroot Garden",
+          "2026-08-11 05:33:04: Defeated Sorcerous ambush in Darkroot Garden (+2,200 souls)",
+          "2026-08-11 05:33:06: Found 1,289 simulated souls while exploring Darkroot Garden",
+          "2026-08-11 05:33:07: Defeated Hostile knight in Darkroot Garden (+2,800 souls)",
+          "2026-08-11 05:33:09: Found 1,374 simulated souls while exploring Darkroot Garden",
+          "2026-08-11 05:33:11: Traveled from Darkroot Garden to Undead Parish",
+          "2026-08-11 05:33:13: Defeated Demon-like guardian in Undead Parish (+5,000 souls)",
+          "2026-08-11 05:33:15: Found 3,321 simulated souls while exploring Undead Parish",
+          "2026-08-11 05:33:17: Defeated Demon-like guardian in Undead Parish (+5,000 souls)",
+          "2026-08-11 05:33:20: Traveled from Undead Parish to Sen's Fortress",
+          "2026-08-11 05:33:22: Defeated Black knight-like challenger in Sen's Fortress (+3,500 souls)",
+          "2026-08-11 05:33:24: Inventory: AI reviewed inventory conservatively. No safe duplicate items were removed.",
+          "2026-08-11 05:33:26: Found 1,019 simulated souls while exploring Sen's Fortress",
+          "2026-08-11 05:33:27: Defeated Demon-like guardian in Sen's Fortress (+5,000 souls)",
+          "2026-08-11 05:33:32: Traveled from Sen's Fortress to Undead Parish",
+          "2026-08-11 05:33:42: Thoroughly explored Undead Parish",
+          "2026-08-11 05:33:44: Traveled from Undead Parish to Sen's Fortress",
+          "2026-08-11 05:33:46: Traveled from Sen's Fortress to Undead Parish",
+          "2026-08-11 05:33:48: Traveled from Undead Parish to Sen's Fortress",
+          "2026-08-11 05:33:51: Traveled from Sen's Fortress to Undead Parish",
+          "2026-08-11 05:33:53: Inventory: AI reviewed inventory conservatively. No safe duplicate items were removed.",
+          "2026-08-11 05:33:55: Defeated Hostile knight in Undead Parish (+2,800 souls)",
+          "2026-08-11 05:33:57: Traveled from Undead Parish to Darkroot Garden",
+          "2026-08-11 05:33:58: Traveled from Darkroot Garden to Darkroot Basin",
+          "2026-08-11 05:34:00: Found 2,467 simulated souls while exploring Darkroot Basin",
+          "2026-08-11 05:34:02: Traveled from Darkroot Basin to Darkroot Garden",
+          "2026-08-11 05:34:04: Defeated Armored hollow in Darkroot Garden (+1,400 souls)",
+          "2026-08-11 05:34:06: Found 2,452 simulated souls while exploring Darkroot Garden",
+          "2026-08-11 05:34:08: Inventory: AI reviewed inventory conservatively. No safe duplicate items were removed.",
+          "2026-08-11 05:34:10: Defeated Hollow patrol in Darkroot Garden (+900 souls)",
+          "2026-08-11 05:34:12: Thoroughly explored Darkroot Garden",
+          "2026-08-11 05:34:19: Defeated Sorcerous ambush in Darkroot Garden (+2,200 souls)",
+          "2026-08-11 05:34:21: Thoroughly explored Darkroot Garden",
+          "2026-08-11 05:34:23: Defeated Hollow patrol in Darkroot Garden (+900 souls)",
+          "2026-08-11 05:34:25: Traveled from Darkroot Garden to Undead Parish",
+          "2026-08-11 05:34:27: Defeated Demon-like guardian in Undead Parish (+5,000 souls)",
+          "2026-08-11 05:34:29: Traveled from Undead Parish to Sen's Fortress",
+          "2026-08-11 05:34:31: Defeated Black knight-like challenger in Sen's Fortress (+3,500 souls)",
+          "2026-08-11 05:34:33: Defeated Sorcerous ambush in Sen's Fortress (+2,200 souls)",
+          "2026-08-11 05:34:35: Inventory: AI reviewed inventory conservatively. No safe duplicate items were removed.",
+          "2026-08-11 05:34:37: Defeated Sorcerous ambush in Sen's Fortress (+2,200 souls)",
+          "2026-08-11 05:34:39: Defeated Armored hollow in Sen's Fortress (+1,400 souls)",
+          "2026-08-11 05:34:41: Defeated Demon-like guardian in Sen's Fortress (+5,000 souls)",
+          "2026-08-11 05:34:43: Defeated Hollow patrol in Sen's Fortress (+900 souls)",
+          "2026-08-11 05:34:45: Inventory: AI reviewed inventory conservatively. No safe duplicate items were removed.",
+          "2026-08-11 05:34:46: Defeated Armored hollow in Sen's Fortress (+1,400 souls)",
+          "2026-08-11 05:34:48: Found 3,283 simulated souls while exploring Sen's Fortress",
+          "2026-08-11 05:34:55: Traveled from Sen's Fortress to Undead Parish",
+          "2026-08-11 05:34:58: Defeated Black knight-like challenger in Undead Parish (+3,500 souls)",
+          "2026-08-11 05:34:59: Found 2,262 simulated souls while exploring Undead Parish",
+          "2026-08-11 05:35:02: Defeated Hostile knight in Undead Parish (+2,800 souls)",
+          "2026-08-11 05:35:04: Defeated Hostile knight in Undead Parish (+2,800 souls)",
+          "2026-08-11 05:35:06: Found 3,486 simulated souls while exploring Undead Parish",
+          "2026-08-11 05:35:08: Defeated Black knight-like challenger in Undead Parish (+3,500 souls)",
+          "2026-08-11 05:35:10: Thoroughly explored Undead Parish",
+          "2026-08-11 05:35:12: Traveled from Undead Parish to Undead Burg",
+          "2026-08-11 05:35:14: Defeated Armored hollow in Undead Burg (+1,400 souls)",
+          "2026-08-11 05:35:16: Defeated Black knight-like challenger in Undead Burg (+3,500 souls)",
+          "2026-08-11 05:35:18: Traveled from Undead Burg to Firelink Shrine",
+          "2026-08-11 05:35:20: Found 1,318 simulated souls while exploring Firelink Shrine",
+          "2026-08-11 05:35:22: Traveled from Firelink Shrine to New Londo Ruins",
+          "2026-08-11 05:35:24: Thoroughly explored New Londo Ruins",
+          "2026-08-11 05:35:30: Traveled from New Londo Ruins to Firelink Shrine",
+          "2026-08-11 05:35:32: Traveled from Firelink Shrine to The Catacombs",
+          "2026-08-11 05:35:34: Inventory: AI reviewed inventory conservatively. No safe duplicate items were removed.",
+          "2026-08-11 05:35:36: Defeated Hollow patrol in The Catacombs (+900 souls)",
+          "2026-08-11 05:35:38: Thoroughly explored The Catacombs",
+          "2026-08-11 05:35:40: Thoroughly explored The Catacombs",
+          "2026-08-11 05:35:41: Defeated Black knight-like challenger in The Catacombs (+3,500 souls)",
+          "2026-08-11 05:35:43: Thoroughly explored The Catacombs",
+          "2026-08-11 05:35:45: Found 3,395 simulated souls while exploring The Catacombs",
+          "2026-08-11 05:35:47: Thoroughly explored The Catacombs",
+          "2026-08-11 05:35:49: Traveled from The Catacombs to Firelink Shrine",
+          "2026-08-11 05:35:51: Thoroughly explored Firelink Shrine",
+          "2026-08-11 05:35:53: Thoroughly explored Firelink Shrine",
+          "2026-08-11 05:35:55: Defeated Black knight-like challenger in Firelink Shrine (+3,500 souls)",
+          "2026-08-11 05:35:56: Inventory: AI reviewed inventory conservatively. No safe duplicate items were removed.",
+          "2026-08-11 05:35:58: Found 1,287 simulated souls while exploring Firelink Shrine",
+          "2026-08-11 05:36:07: Inventory: AI reviewed inventory conservatively. No safe duplicate items were removed.",
+          "2026-08-11 05:36:09: Traveled from Firelink Shrine to New Londo Ruins",
+          "2026-08-11 05:36:11: Inventory: AI reviewed inventory conservatively. No safe duplicate items were removed.",
+          "2026-08-11 05:36:13: Traveled from New Londo Ruins to The Abyss",
+          "2026-08-11 05:36:15: Inventory: AI reviewed inventory conservatively. No safe duplicate items were removed.",
+          "2026-08-11 05:36:16: Traveled from The Abyss to New Londo Ruins",
+          "2026-08-11 05:36:18: Traveled from New Londo Ruins to The Abyss",
+          "2026-08-11 05:36:20: Found 2,412 simulated souls while exploring The Abyss",
+          "2026-08-11 05:36:22: Traveled from The Abyss to New Londo Ruins",
+          "2026-08-11 05:36:24: Thoroughly explored New Londo Ruins",
+          "2026-08-11 05:36:26: Traveled from New Londo Ruins to The Abyss",
+          "2026-08-11 05:36:28: Inventory: AI reviewed inventory conservatively. No safe duplicate items were removed.",
+          "2026-08-11 05:36:30: Thoroughly explored The Abyss",
+          "2026-08-11 05:36:32: Traveled from The Abyss to New Londo Ruins",
+          "2026-08-11 05:36:33: Inventory: AI reviewed inventory conservatively. No safe duplicate items were removed.",
+          "2026-08-11 05:36:35: Found 1,514 simulated souls while exploring New Londo Ruins",
+          "2026-08-11 05:36:44: Found 2,929 simulated souls while exploring New Londo Ruins",
+          "2026-08-11 05:36:46: Defeated Demon-like guardian in New Londo Ruins (+5,000 souls)",
+          "2026-08-11 05:36:48: Defeated Hostile knight in New Londo Ruins (+2,800 souls)",
+          "2026-08-11 05:36:52: Defeated Armored hollow in New Londo Ruins (+1,400 souls)",
+          "2026-08-11 05:36:54: Thoroughly explored New Londo Ruins",
+          "2026-08-11 05:36:56: Defeated Hostile knight in New Londo Ruins (+2,800 souls)",
+          "2026-08-11 05:36:58: Inventory: AI reviewed inventory conservatively. No safe duplicate items were removed.",
+          "2026-08-11 05:37:00: Inventory: AI reviewed inventory conservatively. No safe duplicate items were removed.",
+          "2026-08-11 05:37:01: Defeated Sorcerous ambush in New Londo Ruins (+2,200 souls)",
+          "2026-08-11 05:37:03: Traveled from New Londo Ruins to The Abyss",
+          "2026-08-11 05:37:05: Defeated Sorcerous ambush in The Abyss (+2,200 souls)",
+          "2026-08-11 05:37:07: Traveled from The Abyss to New Londo Ruins",
+          "2026-08-11 05:37:09: Defeated Demon-like guardian in New Londo Ruins (+5,000 souls)",
+          "2026-08-11 05:37:11: Defeated Hostile knight in New Londo Ruins (+2,800 souls)",
+          "2026-08-11 05:37:13: Defeated Black knight-like challenger in New Londo Ruins (+3,500 souls)",
+          "2026-08-11 05:37:24: Found 1,923 simulated souls while exploring New Londo Ruins",
+          "2026-08-11 05:37:26: Traveled from New Londo Ruins to The Abyss",
+          "2026-08-11 05:37:28: Found 2,124 simulated souls while exploring The Abyss",
+          "2026-08-11 05:37:30: Traveled from The Abyss to New Londo Ruins",
+          "2026-08-11 05:37:32: Defeated Armored hollow in New Londo Ruins (+1,400 souls)",
+          "2026-08-11 05:37:34: Traveled from New Londo Ruins to Valley of Drakes",
+          "2026-08-11 05:37:35: Defeated Hollow patrol in Valley of Drakes (+900 souls)",
+          "2026-08-11 05:37:37: Found 2,881 simulated souls while exploring Valley of Drakes",
+          "2026-08-11 05:37:39: Inventory: AI reviewed inventory conservatively. No safe duplicate items were removed.",
+          "2026-08-11 05:37:41: Defeated Hostile knight in Valley of Drakes (+2,800 souls)",
+          "2026-08-11 05:37:43: Thoroughly explored Valley of Drakes",
+          "2026-08-11 05:37:45: Defeated Armored hollow in Valley of Drakes (+1,400 souls)",
+          "2026-08-11 05:37:47: Defeated Hollow patrol in Valley of Drakes (+900 souls)",
+          "2026-08-11 05:37:49: Traveled from Valley of Drakes to Darkroot Basin",
+          "2026-08-11 05:37:50: Thoroughly explored Darkroot Basin",
+          "2026-08-11 05:37:52: Found 1,406 simulated souls while exploring Darkroot Basin",
+          "2026-08-11 05:38:03: Defeated Demon-like guardian in Darkroot Basin (+5,000 souls)",
+          "2026-08-11 05:38:05: Traveled from Darkroot Basin to Darkroot Garden",
+          "2026-08-11 05:38:07: Defeated Hostile knight in Darkroot Garden (+2,800 souls)",
+          "2026-08-11 05:38:08: Traveled from Darkroot Garden to Darkroot Basin",
+          "2026-08-11 05:38:10: Inventory: AI reviewed inventory conservatively. No safe duplicate items were removed.",
+          "2026-08-11 05:38:12: Inventory: AI reviewed inventory conservatively. No safe duplicate items were removed.",
+          "2026-08-11 05:38:14: Defeated Hollow patrol in Darkroot Basin (+900 souls)",
+          "2026-08-11 05:38:16: Thoroughly explored Darkroot Basin",
+          "2026-08-11 05:38:18: Defeated Hostile knight in Darkroot Basin (+2,800 souls)",
+          "2026-08-11 05:38:19: Defeated Black knight-like challenger in Darkroot Basin (+3,500 souls)",
+          "2026-08-11 05:38:21: Defeated Hostile knight in Darkroot Basin (+2,800 souls)",
+          "2026-08-11 05:38:23: Traveled from Darkroot Basin to Darkroot Garden",
+          "2026-08-11 05:38:25: Defeated Sorcerous ambush in Darkroot Garden (+2,200 souls)",
+          "2026-08-11 05:38:27: Found 2,586 simulated souls while exploring Darkroot Garden",
+          "2026-08-11 05:38:29: Inventory: AI reviewed inventory conservatively. No safe duplicate items were removed.",
+          "2026-08-11 05:38:31: Found 602 simulated souls while exploring Darkroot Garden",
+          "2026-08-11 05:38:33: Found 2,645 simulated souls while exploring Darkroot Garden",
+          "2026-08-11 05:38:41: Traveled from Darkroot Garden to Darkroot Basin",
+          "2026-08-11 05:38:43: Found 372 simulated souls while exploring Darkroot Basin",
+          "2026-08-11 05:38:45: Defeated Sorcerous ambush in Darkroot Basin (+2,200 souls)",
+          "2026-08-11 05:38:46: Found 1,263 simulated souls while exploring Darkroot Basin",
+          "2026-08-11 05:38:48: Defeated Demon-like guardian in Darkroot Basin (+5,000 souls)",
+          "2026-08-11 05:38:50: Defeated Hollow patrol in Darkroot Basin (+900 souls)",
+          "2026-08-11 05:38:52: Inventory: AI reviewed inventory conservatively. No safe duplicate items were removed.",
+          "2026-08-11 05:38:54: Traveled from Darkroot Basin to Darkroot Garden",
+          "2026-08-11 05:38:56: Inventory: AI reviewed inventory conservatively. No safe duplicate items were removed.",
+          "2026-08-11 05:38:58: Traveled from Darkroot Garden to Undead Parish",
+          "2026-08-11 05:39:00: Defeated Sorcerous ambush in Undead Parish (+2,200 souls)",
+          "2026-08-11 05:39:02: Found 1,425 simulated souls while exploring Undead Parish",
+          "2026-08-11 05:39:04: Found 2,587 simulated souls while exploring Undead Parish",
+          "2026-08-11 05:39:06: Defeated Hostile knight in Undead Parish (+2,800 souls)",
+          "2026-08-11 05:39:08: Inventory: AI reviewed inventory conservatively. No safe duplicate items were removed.",
+          "2026-08-11 05:39:10: Traveled from Undead Parish to Undead Burg",
+          "2026-08-11 05:39:22: Defeated Armored hollow in Undead Burg (+1,400 souls)",
+          "2026-08-11 05:39:24: Traveled from Undead Burg to Firelink Shrine",
+          "2026-08-11 05:39:26: Defeated Hollow patrol in Firelink Shrine (+900 souls)",
+          "2026-08-11 05:39:28: Thoroughly explored Firelink Shrine",
+          "2026-08-11 05:39:30: Found 2,541 simulated souls while exploring Firelink Shrine",
+          "2026-08-11 05:39:32: Traveled from Firelink Shrine to Undead Burg",
+          "2026-08-11 05:39:34: Defeated Black knight-like challenger in Undead Burg (+3,500 souls)",
+          "2026-08-11 05:39:36: Thoroughly explored Undead Burg",
+          "2026-08-11 05:39:38: Defeated Demon-like guardian in Undead Burg (+5,000 souls)"
+        ],
+        "summary": "we6jbo simulation: 646 accomplishments; Defeated Demon-like guardian in Undead Burg (+5,000 souls)"
       }
     ],
     "restart_requested_local": "2026-08-11T05:12:00.391420-07:00",
@@ -4302,330 +4954,6 @@
     "completed_cycle": "NG++",
     "completion_local": "2026-08-09T16:47:06.231366-07:00",
     "inventory_log": [
-      {
-        "time": "2026-08-10T06:24:38.190086-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-10T06:24:54.189006-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-10T06:24:57.878469-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-10T06:25:05.211818-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-10T06:25:20.084828-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-10T06:25:29.735216-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-10T06:26:31.988942-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-10T06:26:44.969072-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-10T06:26:59.803451-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-10T06:27:09.165591-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-10T06:27:10.992741-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-10T06:27:26.240395-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-10T06:27:44.400048-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-10T06:27:52.164769-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-10T06:28:21.000706-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-10T06:28:44.731741-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-10T06:28:52.999310-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-10T06:29:08.256703-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-10T06:29:21.451661-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-10T06:29:30.850203-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-10T06:30:00.544412-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-10T06:38:52.870359-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-10T06:39:02.764875-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-10T06:39:08.336886-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-10T06:39:23.204884-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-10T06:39:25.073634-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-10T06:39:28.789631-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-10T06:39:46.060861-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-10T06:39:59.891199-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-10T06:40:14.898469-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-10T06:40:30.342496-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-10T06:41:15.433889-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-10T06:41:29.118284-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-10T06:41:44.066481-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-10T06:42:00.774374-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-10T06:56:05.400491-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-10T06:56:16.848631-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-10T06:56:58.362453-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-10T06:57:00.203151-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-10T21:18:07.071184-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-10T21:18:20.840235-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-10T21:18:22.789014-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-10T21:18:26.612151-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-10T21:18:56.704265-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-10T21:19:34.039037-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-10T21:19:45.212067-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-10T21:37:22.958610-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-10T21:37:26.679683-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-10T21:37:30.430729-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-10T21:37:41.903338-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-10T21:38:05.748824-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-10T21:38:07.573912-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-10T21:38:29.501173-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-10T21:38:46.115596-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-10T21:38:57.147747-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-10T21:39:40.988130-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-10T21:40:28.037104-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-10T21:40:41.392138-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-10T21:40:45.192222-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-10T21:40:52.957684-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-10T21:41:00.965806-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-10T21:41:08.519660-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-10T21:41:46.408524-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-10T21:41:56.037206-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-10T21:41:57.892562-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-10T21:42:19.568389-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-10T21:42:21.400188-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-10T21:42:34.835105-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-10T21:42:57.395392-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-10T21:43:13.246892-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-10T21:43:19.951132-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-10T21:44:37.552299-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-10T21:44:47.389348-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-10T21:44:57.272614-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-10T21:45:01.065600-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-10T21:46:00.303000-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-10T21:46:10.484190-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-10T21:46:14.714855-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-10T21:46:19.157100-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-10T21:51:39.436644-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-10T21:51:43.200536-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
       {
         "time": "2026-08-10T21:52:00.394479-07:00",
         "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
@@ -5300,6 +5628,330 @@
       },
       {
         "time": "2026-08-11T05:16:50.489180-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-11T05:17:24.465838-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-11T05:17:44.533769-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-11T05:17:48.446145-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-11T05:18:15.969836-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-11T05:18:23.831349-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-11T05:18:36.078239-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-11T05:18:38.000462-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-11T05:18:39.944328-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-11T05:19:00.718995-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-11T05:19:48.213484-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-11T05:19:50.057445-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-11T05:20:01.924060-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-11T05:20:14.939762-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-11T05:20:54.926240-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-11T05:21:02.406317-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-11T05:21:22.342016-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-11T05:21:39.188868-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-11T05:21:54.026948-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-11T05:22:05.204051-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-11T05:22:10.785642-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-11T05:22:18.282351-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-11T05:22:30.459419-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-11T05:22:32.286601-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-11T05:23:14.161144-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-11T05:23:31.806721-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-11T05:23:58.224042-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-11T05:24:31.442309-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-11T05:24:37.270653-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-11T05:25:15.561745-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-11T05:25:31.164290-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-11T05:25:40.725931-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-11T05:25:59.005064-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-11T05:26:11.700196-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-11T05:26:21.192460-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-11T05:26:23.333697-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-11T05:26:28.919840-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-11T05:26:49.592884-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-11T05:26:51.424364-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-11T05:26:53.246182-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-11T05:26:55.079594-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-11T05:27:08.501940-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-11T05:27:25.789043-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-11T05:27:35.619134-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-11T05:27:37.616544-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-11T05:27:49.952859-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-11T05:28:11.778273-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-11T05:28:13.740170-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-11T05:28:57.966126-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-11T05:29:31.322763-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-11T05:29:33.301873-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-11T05:29:35.385375-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-11T05:29:52.023567-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-11T05:29:59.957562-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-11T05:30:01.890416-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-11T05:31:17.956798-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-11T05:31:19.893212-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-11T05:31:45.023301-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-11T05:32:32.069358-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-11T05:32:44.847331-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-11T05:32:52.907190-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-11T05:33:24.137908-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-11T05:33:53.090628-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-11T05:34:08.341989-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-11T05:34:35.274163-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-11T05:34:45.069328-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-11T05:35:34.472214-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-11T05:35:56.997209-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-11T05:36:07.530131-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-11T05:36:11.273608-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-11T05:36:15.044571-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-11T05:36:28.285776-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-11T05:36:33.977874-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-11T05:36:58.236946-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-11T05:37:00.093216-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-11T05:37:39.567464-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-11T05:38:10.696664-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-11T05:38:12.522863-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-11T05:38:29.332501-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-11T05:38:52.504745-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-11T05:38:56.193570-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-11T05:39:08.547055-07:00",
         "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
       }
     ],
