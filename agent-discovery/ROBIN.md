@@ -1,9 +1,9 @@
-# Robin discovery brief
+# Robin NI discovery brief
 
 Project: we6jbo Dark Souls Text/Schematic Simulator
-Current simulator version: 61.0
+Current simulator version: 62.0
 Published by: Jeremiah O'Neal
-Generated/updated: 2026-08-10T22:17:50.620998-07:00
+Generated/updated: 2026-08-10T22:40:56.873090-07:00
 
 ## Invitation
 
@@ -49,71 +49,25 @@ of security-sensitive or personal-location details. Agents should treat these
 tokens as intentionally unavailable values and should not attempt to reverse,
 infer, enrich, deanonymize, or reconstruct them.
 
-## Architecture snapshot
 
-Canonical local simulator:
-`/home/we6jbo/Darksouls-game/dark-souls-we6jbo-simulator.py`
+## Integration decision: not implemented
 
-Public character repository:
-`/home/we6jbo/.darksouls-character-share-to-github`
+Robin is intentionally not installed or run in this Dark Souls simulator.
 
-Public character/state artifacts include:
-- `we6jbo-character.json`
-- `9259757.txt`
-- `TTYREC-GAMEPLAY.md`
-- `game-ver.json`
-- static GitHub Pages documents
-- this `agent-discovery/` directory
+Robin's documented workflow is centered on a disease name, experimental-assay
+generation/ranking, therapeutic-candidate generation/ranking, and optional
+experimental-data analysis. Its documented setup also uses Edison platform
+access for major/full workflow components.
 
-Local-only subsystems include:
-- Tk graphical simulator
-- manual and AI-player actions
-- local Ollama advice
-- quota-limited external advisory integration
-- SQLite diagnostics
-- ttyrec/asciinema spectator output
-- embedded YouTube learning view
-- local third-party map assets and map intelligence
-- T14/Acer peer bridge on TCP 64224
-- Syncthing update transport between T14 and Acer
-- automatic update watcher and canonical updater
-- mandatory Ollama spelling/grammar gate for typed public messages
+That does not directly fit gameplay/AI observation, software reliability,
+TTYREC communication, embedded-video health, caption learning, map
+intelligence, Git publication, or computer-performance monitoring.
 
-The simulator keeps source code, private AI configuration, third-party maps,
-runtime databases, terminal recordings, caches, and temporary IPC artifacts
-outside this public character repository.
+Rewriting Robin's internal prompts so it behaves as a general software/game
+observer would not be a faithful use of Robin's documented pipeline. KOSMOS
+already supplies the project's general research role, while RepoMaster has a
+direct external repository-discovery use.
 
-## Reproduction goal
-
-An agent attempting to recreate the project should preserve these invariants:
-
-1. The character archive is persistent and independent of the executable.
-2. Simulator source is never committed to the character repository.
-3. Only explicit whitelisted public files are staged by simulator Git actions.
-4. Third-party map files stay local.
-5. User-authored public messages cannot bypass the proofreading gate.
-6. Updates are syntax-checked before replacing the canonical simulator.
-7. T14 and Acer are distinct roles with synchronized state.
-8. Acer can receive simulator updates through Syncthing and report status back
-   to T14 using the authenticated application-level peer handshake.
-9. New agent-facing public material passes the v40 privacy-token gate.
-10. Existing historical GitHub files are not retroactively rewritten by that
-    privacy gate.
-
-## Robin-style hypothesis/experiment brief
-
-Hypothesis:
-A two-node simulator can demonstrate self-maintaining behavior using ordinary
-user-space mechanisms if update delivery, process restart, peer verification,
-and human escalation are independently observable.
-
-Proposed experiments:
-1. Reproduce the updater with dummy versioned scripts.
-2. Simulate T14 -> sync folder -> Acer delivery.
-3. Reboot/restart the secondary process and measure reconnect latency.
-4. Inject failed downloads and invalid Python to verify safe rejection.
-5. Compare peer-reported version against the publication manifest.
-6. Measure whether agent-readable docs reduce repository exploration effort.
-
-Report both positive and negative results and separate observations from
-inference.
+Robin therefore remains NI (Not Implemented). Revisit only if Robin later
+offers a supported general software/repository research mode that fits this
+project without disease/therapeutic framing.

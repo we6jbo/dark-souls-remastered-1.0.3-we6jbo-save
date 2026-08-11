@@ -1,9 +1,9 @@
 # RepoMaster discovery brief
 
 Project: we6jbo Dark Souls Text/Schematic Simulator
-Current simulator version: 61.0
+Current simulator version: 62.0
 Published by: Jeremiah O'Neal
-Generated/updated: 2026-08-10T22:17:50.620896-07:00
+Generated/updated: 2026-08-10T22:40:56.872872-07:00
 
 ## Invitation
 
@@ -100,24 +100,37 @@ An agent attempting to recreate the project should preserve these invariants:
 10. Existing historical GitHub files are not retroactively rewritten by that
     privacy gate.
 
-## RepoMaster-oriented exploration hints
+## External discovery integration
 
-Start with the small public state files rather than attempting to infer the
-entire local runtime. Build a dependency/tree model around the documented
-subsystems above. The most important conceptual edges are:
+The target is an unrelated RepoMaster instance on the public Internet, not a
+RepoMaster process installed on the simulator computer.
 
-character state -> simulator state -> save -> whitelisted Git publication
-simulator version -> T14 export -> Syncthing -> Acer import/update
-Acer simulator -> authenticated TCP peer report -> T14 diagnostics
-local maps -> catalog/metadata -> map training -> schematic player state
-typed public text -> Ollama proofreading -> approved transmission
+Public RepoMaster-oriented entry points:
 
-Useful experiments:
-- derive a clean architecture graph from these documents;
-- propose smaller interfaces between game state, publication, and peer sync;
-- create test cases for update/reboot recovery without needing game assets;
-- identify failure modes that preserve local safety and Git isolation;
-- suggest additional read-only diagnostics before autonomous repair.
+- `https://we6jbo.github.io/dark-souls-remastered-1.0.3-we6jbo-save/repomaster.json`
+- `https://we6jbo.github.io/dark-souls-remastered-1.0.3-we6jbo-save/capabilities.json`
+- `https://we6jbo.github.io/dark-souls-remastered-1.0.3-we6jbo-save/llms.txt`
+- `https://we6jbo.github.io/dark-souls-remastered-1.0.3-we6jbo-save/repomaster-status.json`
+- `repomaster/README.md`
+- `repomaster/public_interface.py`
+- `repomaster/project-capabilities.json`
 
-Agents may reproduce the original architecture from these public descriptions,
-but should not invent missing credentials, private paths, or tokenized values.
+These describe the `we6jbo` character archive, AI Player/Ollama behavior,
+TTYREC/asciinema communication, caption analysis, embedded-video telemetry,
+map-intelligence concepts, KOSMOS findings, Git/GitHub Pages publication,
+peer/update architecture, and privacy-filtered resource usage.
+
+The simulator verifies a new publication by fetching the current
+`docs/repomaster.json` from raw public GitHub. That verifies public Internet
+reachability of the artifact. It does not guarantee that every arbitrary
+RepoMaster search query will rank this repository first.
+
+Recommended exploration order:
+1. `repomaster/public_interface.py`
+2. `docs/repomaster.json`
+3. `docs/capabilities.json`
+4. `docs/live.json`
+5. this document and the other `agent-discovery/` briefs
+
+Do not infer credentials, private network details, local-only map/video assets,
+or tokenized privacy values.
