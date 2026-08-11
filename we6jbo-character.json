@@ -7,7 +7,7 @@
   "covenant": "Chaos Servant",
   "covenant_rank": "+2",
   "level": 259,
-  "souls": 17932677,
+  "souls": 17938377,
   "humanity_counter": 0,
   "attributes": {
     "Vitality": 50,
@@ -2523,11 +2523,11 @@
     "schema_version": 1,
     "cycle": "NG++",
     "start_policy": "Beginning of NG+",
-    "current_area": "Lost Izalith",
+    "current_area": "Demon Ruins",
     "checkpoint_area": "Firelink Altar",
-    "sim_hp": 690,
+    "sim_hp": 1235,
     "sim_max_hp": 1500,
-    "sim_estus": 10,
+    "sim_estus": 9,
     "sim_humanity_state": "Hollow",
     "areas_visited": [
       "Northern Undead Asylum",
@@ -2557,12 +2557,12 @@
       "Firelink Altar",
       "Kiln of the First Flame"
     ],
-    "encounters_won": 4927,
+    "encounters_won": 4929,
     "deaths": 1,
-    "souls_earned_in_simulator": 17534377,
+    "souls_earned_in_simulator": 17540077,
     "notes": [],
-    "last_session_summary": "we6jbo simulation: 587 accomplishments; Traveled from Quelaag's Domain to Demon Ruins",
-    "last_saved_local": "2026-08-11T06:20:33.915991-07:00",
+    "last_session_summary": "we6jbo simulation: 24 accomplishments; Defeated Black knight-like challenger in Demon Ruins (+3,500 souls)",
+    "last_saved_local": "2026-08-11T06:20:48.734228-07:00",
     "progress_flags": {
       "bell_of_awakening_quelaag": true,
       "bell_of_awakening_parish": true,
@@ -4949,7 +4949,7 @@
         "summary": "we6jbo simulation: 646 accomplishments; Defeated Demon-like guardian in Undead Burg (+5,000 souls)"
       }
     ],
-    "restart_requested_local": "2026-08-11T06:15:16.626979-07:00",
+    "restart_requested_local": "2026-08-11T06:20:48.734160-07:00",
     "ng_plus_cycle_complete": true,
     "completed_cycle": "NG++",
     "completion_local": "2026-08-09T16:47:06.231366-07:00",
