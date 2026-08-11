@@ -21,7 +21,7 @@ or third-party map image is automatically committed to this character archive.
 ## Exact archived character build used by the simulator
 
 - Level: **259**
-- Souls at archive load/save: **17,237,634**
+- Souls at archive load/save: **17,915,717**
 - Humanity counter: **0**
 - Covenant: **Chaos Servant +2**
 - Vitality: **50**
@@ -89,8 +89,8 @@ intellectual property remain the property of their respective rights holders.
 
 ## Session status
 
-Last simulator save: **2026-08-11T05:50:47.132793-07:00**
+Last simulator save: **2026-08-11T06:15:16.627039-07:00**
 
 Last session summary:
 
-> we6jbo simulation: 45 accomplishments; Defeated Demon-like guardian in Firelink Shrine (+5,000 souls)
+> we6jbo simulation: 587 accomplishments; Traveled from Quelaag's Domain to Demon Ruins
