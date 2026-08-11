@@ -1,8 +1,8 @@
 {
   "project": "we6jbo Dark Souls Remastered NG+ Text Simulator",
-  "simulator_version": "59.0",
+  "simulator_version": "61.0",
   "live": true,
-  "live_url": "https://asciinema.org/s/Id86I5xpoV0f4kkr",
+  "live_url": "https://asciinema.org/s/hyUFioUbv47ZpKSx",
   "project_page": "https://we6jbo.github.io/dark-souls-remastered-1.0.3-we6jbo-save/",
   "main_site": "https://j03.page/",
   "agent_discovery_documents": [
@@ -45,5 +45,5 @@
   ],
   "kosmos_findings_url": null,
   "area": "Ash Lake",
-  "updated": "2026-08-10T22:14:37.956342-07:00"
+  "updated": "2026-08-10T22:17:35.227941-07:00"
 }
