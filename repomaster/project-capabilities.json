@@ -1,0 +1,58 @@
+{
+  "schema": 1,
+  "project": "we6jbo Dark Souls Text/Schematic Simulator",
+  "simulator_version": "63.0",
+  "purpose": "Human-directed and AI-assisted Dark Souls text/schematic simulation plus software-reliability research.",
+  "repository": "https://github.com/we6jbo/dark-souls-remastered-1.0.3-we6jbo-save",
+  "public_site": "https://we6jbo.github.io/dark-souls-remastered-1.0.3-we6jbo-save/",
+  "main_site": "https://j03.page/",
+  "character": {
+    "name": "we6jbo",
+    "persistent_public_archive": true
+  },
+  "capabilities": [
+    "AI Player with local Ollama and controlled advisory escalation",
+    "TTYREC/asciinema spectator communication",
+    "closed-caption Dark Souls guidance analysis",
+    "embedded DSR video playback/geometry/recovery telemetry",
+    "local map intelligence and coordinate-training concepts",
+    "Docker-gated KOSMOS reliability research",
+    "safe Git whitelist and GitHub Pages publication",
+    "two-computer update/state and peer-verification architecture",
+    "privacy-filtered computer performance observability"
+  ],
+  "observability": {
+    "character_state": "public archive/state metadata",
+    "ai_player": "state/actions/errors",
+    "ollama": "availability/request reliability",
+    "google_ai": "advisory status when configured",
+    "ttyrec": "spectator stream status and announcements",
+    "closed_captions": "analysis pipeline status",
+    "video": "player state, timing, geometry, recovery errors",
+    "maps": "coverage/metadata/training, not map-image bytes",
+    "kosmos": "research stage/findings publication",
+    "git": "publication state and public URLs",
+    "performance": {
+      "cpu_count": 8,
+      "load_1m_per_cpu": 1.288,
+      "memory_used_percent": 48.2,
+      "memory_available_gib": 7.92,
+      "ollama_requests": 0,
+      "ollama_successes": 0,
+      "ollama_timeouts": 0
+    }
+  },
+  "machine_readable": {
+    "repomaster_json": "https://we6jbo.github.io/dark-souls-remastered-1.0.3-we6jbo-save/repomaster.json",
+    "capabilities_json": "https://we6jbo.github.io/dark-souls-remastered-1.0.3-we6jbo-save/capabilities.json",
+    "llms_txt": "https://we6jbo.github.io/dark-souls-remastered-1.0.3-we6jbo-save/llms.txt",
+    "status_json": "https://we6jbo.github.io/dark-souls-remastered-1.0.3-we6jbo-save/repomaster-status.json"
+  },
+  "safety_boundaries": [
+    "simulator source stays outside the character repository",
+    "credentials and private network identifiers are not published",
+    "third-party map images remain local",
+    "raw embedded-video frames are not published",
+    "automatic Git staging is restricted to explicit whitelisted files"
+  ]
+}

@@ -1,0 +1,28 @@
+# we6jbo Dark Souls Text/Schematic Simulator
+
+Repository: https://github.com/we6jbo/dark-souls-remastered-1.0.3-we6jbo-save
+Public site: https://we6jbo.github.io/dark-souls-remastered-1.0.3-we6jbo-save/
+Main site: https://j03.page/
+
+Purpose: Human-directed and AI-assisted Dark Souls text/schematic simulation plus software-reliability research.
+
+Capabilities:
+- AI Player with local Ollama and controlled advisory escalation
+- TTYREC/asciinema spectator communication
+- closed-caption Dark Souls guidance analysis
+- embedded DSR video playback/geometry/recovery telemetry
+- local map intelligence and coordinate-training concepts
+- Docker-gated KOSMOS reliability research
+- safe Git whitelist and GitHub Pages publication
+- two-computer update/state and peer-verification architecture
+- privacy-filtered computer performance observability
+
+RepoMaster brief:
+https://github.com/we6jbo/dark-souls-remastered-1.0.3-we6jbo-save/blob/main/agent-discovery/REPOMASTER.md
+
+Machine-readable:
+https://we6jbo.github.io/dark-souls-remastered-1.0.3-we6jbo-save/repomaster.json
+https://we6jbo.github.io/dark-souls-remastered-1.0.3-we6jbo-save/capabilities.json
+https://we6jbo.github.io/dark-souls-remastered-1.0.3-we6jbo-save/repomaster-status.json
+
+Privacy boundary: no credentials, private network identifiers, third-party map images, raw video frames, or simulator source.

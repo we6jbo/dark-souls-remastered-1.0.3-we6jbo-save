@@ -1,0 +1,22 @@
+{
+  "project": "we6jbo Dark Souls Text/Schematic Simulator",
+  "simulator_version": "63.0",
+  "capabilities": [
+    "AI Player with local Ollama and controlled advisory escalation",
+    "TTYREC/asciinema spectator communication",
+    "closed-caption Dark Souls guidance analysis",
+    "embedded DSR video playback/geometry/recovery telemetry",
+    "local map intelligence and coordinate-training concepts",
+    "Docker-gated KOSMOS reliability research",
+    "safe Git whitelist and GitHub Pages publication",
+    "two-computer update/state and peer-verification architecture",
+    "privacy-filtered computer performance observability"
+  ],
+  "safety_boundaries": [
+    "simulator source stays outside the character repository",
+    "credentials and private network identifiers are not published",
+    "third-party map images remain local",
+    "raw embedded-video frames are not published",
+    "automatic Git staging is restricted to explicit whitelisted files"
+  ]
+}

@@ -1,8 +1,8 @@
 {
   "project": "we6jbo Dark Souls Remastered NG+ Text Simulator",
-  "simulator_version": "61.0",
+  "simulator_version": "63.0",
   "live": true,
-  "live_url": "https://asciinema.org/s/hyUFioUbv47ZpKSx",
+  "live_url": "https://asciinema.org/s/mtjro3OOdkEKkUSQ",
   "project_page": "https://we6jbo.github.io/dark-souls-remastered-1.0.3-we6jbo-save/",
   "main_site": "https://j03.page/",
   "agent_discovery_documents": [
@@ -44,6 +44,14 @@
     }
   ],
   "kosmos_findings_url": null,
-  "area": "New Londo Ruins",
-  "updated": "2026-08-10T22:40:32.140153-07:00"
+  "repomaster_external_discovery": {
+    "repomaster_json": "https://we6jbo.github.io/dark-souls-remastered-1.0.3-we6jbo-save/repomaster.json",
+    "capabilities_json": "https://we6jbo.github.io/dark-souls-remastered-1.0.3-we6jbo-save/capabilities.json",
+    "llms_txt": "https://we6jbo.github.io/dark-souls-remastered-1.0.3-we6jbo-save/llms.txt",
+    "status_json": "https://we6jbo.github.io/dark-souls-remastered-1.0.3-we6jbo-save/repomaster-status.json",
+    "local_repomaster_required": false
+  },
+  "robin_integration": "NI",
+  "area": "The Depths",
+  "updated": "2026-08-11T05:12:09.892020-07:00"
 }
