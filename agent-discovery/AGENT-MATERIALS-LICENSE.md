@@ -24,3 +24,10 @@ CONNECTION WITH THE MATERIALS OR THE USE OR OTHER DEALINGS IN THE MATERIALS.
 This file applies only to the newly generated `agent-discovery/` materials. It
 does not rewrite, relicense, or alter third-party material or historical files
 already present elsewhere in the repository.
+
+## Project navigation
+
+- Main site: https://j03.page/
+- Simulator public site: https://we6jbo.github.io/dark-souls-remastered-1.0.3-we6jbo-save/
+- Character/archive repository: https://github.com/we6jbo/dark-souls-remastered-1.0.3-we6jbo-save
+

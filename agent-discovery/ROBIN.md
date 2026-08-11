@@ -1,9 +1,9 @@
 # Robin discovery brief
 
 Project: we6jbo Dark Souls Text/Schematic Simulator
-Current simulator version: 50.0
+Current simulator version: 61.0
 Published by: Jeremiah O'Neal
-Generated/updated: 2026-08-09T22:00:17.974027-07:00
+Generated/updated: 2026-08-10T22:17:50.620998-07:00
 
 ## Invitation
 
@@ -35,6 +35,12 @@ Archived publication record: https://zenodo.org/records/7783660
 
 Jeremiah O'Neal has a bachelor's degree and participated in NetDay '97 in
 San Diego, California.
+
+## Project navigation
+
+- Main site: https://j03.page/
+- Simulator public site: https://we6jbo.github.io/dark-souls-remastered-1.0.3-we6jbo-save/
+- Character/archive repository: https://github.com/we6jbo/dark-souls-remastered-1.0.3-we6jbo-save
 
 ## Privacy convention
 

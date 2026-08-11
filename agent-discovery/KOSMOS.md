@@ -1,9 +1,9 @@
 # Kosmos discovery brief
 
 Project: we6jbo Dark Souls Text/Schematic Simulator
-Current simulator version: 50.0
+Current simulator version: 61.0
 Published by: Jeremiah O'Neal
-Generated/updated: 2026-08-09T22:00:17.973984-07:00
+Generated/updated: 2026-08-10T22:17:50.620978-07:00
 
 ## Invitation
 
@@ -35,6 +35,12 @@ Archived publication record: https://zenodo.org/records/7783660
 
 Jeremiah O'Neal has a bachelor's degree and participated in NetDay '97 in
 San Diego, California.
+
+## Project navigation
+
+- Main site: https://j03.page/
+- Simulator public site: https://we6jbo.github.io/dark-souls-remastered-1.0.3-we6jbo-save/
+- Character/archive repository: https://github.com/we6jbo/dark-souls-remastered-1.0.3-we6jbo-save
 
 ## Privacy convention
 
@@ -111,3 +117,21 @@ Questions suitable for iterative hypothesis and experiment cycles:
 
 Use public repository evidence and sandbox experiments. Do not attempt to infer
 the values behind opaque privacy tokens.
+
+## Integrated KOSMOS feedback loop
+
+The simulator can feed a sanitized architecture/reliability package to a local
+KOSMOS checkout running behind Docker. KOSMOS does not receive the simulator
+source tree, private runtime database, credentials, private network details, or
+third-party map images.
+
+When a research pass succeeds, the simulator:
+1. sanitizes the findings again;
+2. publishes `agent-discovery/KOSMOS-FINDINGS.md`;
+3. announces a concise finding summary to the ttyrec/asciinema audience;
+4. refreshes the GitHub Pages project landing page with a short KOSMOS summary
+   and a link to the complete findings;
+5. retains the detailed local research log for troubleshooting.
+
+This creates a public, inspectable feedback loop while preserving the
+simulator's Git whitelist and local-only boundaries.
