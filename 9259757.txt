@@ -1,12 +1,12 @@
 Dark Souls Remastered v1.0.3 — we6jbo character archive
 Character: we6jbo
 Level: 259
-Souls: 15293791
+Souls: 15744761
 Covenant: Chaos Servant +2
 Simulation target: NG+ beginning
-Simulator current area: Demon Ruins
-Simulator encounters won: 4152
+Simulator current area: New Londo Ruins
+Simulator encounters won: 4284
 Simulator deaths: 1
-Simulator last saved: 2026-08-10T22:22:36.986747-07:00
-Last session summary: we6jbo simulation: 63 accomplishments; Traveled from The Great Hollow to Ash Lake
+Simulator last saved: 2026-08-10T22:40:31.879574-07:00
+Last session summary: we6jbo simulation: 376 accomplishments; Thoroughly explored New Londo Ruins
 Repository: https://github.com/we6jbo/dark-souls-remastered-1.0.3-we6jbo-save
