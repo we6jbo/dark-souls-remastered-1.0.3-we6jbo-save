@@ -1,9 +1,9 @@
 # AI agent discovery index discovery brief
 
 Project: we6jbo Dark Souls Text/Schematic Simulator
-Current simulator version: 66.0
+Current simulator version: 67.0
 Published by: Jeremiah O'Neal
-Generated/updated: 2026-08-11T06:15:43.221448-07:00
+Generated/updated: 2026-08-11T06:21:13.520935-07:00
 
 ## Invitation
 
@@ -131,7 +131,3 @@ The T14 refreshes these materials when the simulator version changes and at
 least once on a new local calendar day, so v40, v41, v42, v43, later versions
 such as v55/v56, and future-day runs update the discovery material without
 requiring version-specific hardcoding.
-
-## Ollama-suggested additional agent candidates
-
-- **NAME**: one short reason (local Ollama suggestion; not independently verified)
