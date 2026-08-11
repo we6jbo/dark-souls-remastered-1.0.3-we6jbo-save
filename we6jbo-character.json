@@ -7,7 +7,7 @@
   "covenant": "Chaos Servant",
   "covenant_rank": "+2",
   "level": 259,
-  "souls": 14349066,
+  "souls": 14401475,
   "humanity_counter": 0,
   "attributes": {
     "Vitality": 50,
@@ -2523,11 +2523,11 @@
     "schema_version": 1,
     "cycle": "NG++",
     "start_policy": "Beginning of NG+",
-    "current_area": "The Great Hollow",
+    "current_area": "Blighttown",
     "checkpoint_area": "Blighttown",
-    "sim_hp": 900,
+    "sim_hp": 1165,
     "sim_max_hp": 1500,
-    "sim_estus": 8,
+    "sim_estus": 7,
     "sim_humanity_state": "Hollow",
     "areas_visited": [
       "Northern Undead Asylum",
@@ -2557,12 +2557,12 @@
       "Firelink Altar",
       "Kiln of the First Flame"
     ],
-    "encounters_won": 3865,
+    "encounters_won": 3882,
     "deaths": 1,
-    "souls_earned_in_simulator": 13950766,
+    "souls_earned_in_simulator": 14003175,
     "notes": [],
-    "last_session_summary": "we6jbo simulation: 63 accomplishments; Defeated Hostile knight in The Great Hollow (+2,800 souls)",
-    "last_saved_local": "2026-08-10T06:58:26.733514-07:00",
+    "last_session_summary": "we6jbo simulation: 48 accomplishments; Inventory: AI reviewed inventory conservatively. No safe duplicate items were removed.",
+    "last_saved_local": "2026-08-10T21:19:46.207625-07:00",
     "progress_flags": {
       "bell_of_awakening_quelaag": true,
       "bell_of_awakening_parish": true,
@@ -2614,8 +2614,8 @@
         "updated_local": "2026-08-09T05:58:36.185621-07:00"
       }
     },
-    "live_stream_url": "https://asciinema.org/s/86X6p0T1xWZd0DK2",
-    "live_stream_started_local": "2026-08-10T06:51:37.437191-07:00",
+    "live_stream_url": "https://asciinema.org/s/v9BWp7ARpz8YvrE7",
+    "live_stream_started_local": "2026-08-10T21:15:22.439107-07:00",
     "session_history": [
       {
         "saved_local": "2026-08-08T20:04:21.512517-07:00",
@@ -4070,39 +4070,11 @@
         "summary": "Saved we6jbo simulator state at The Great Hollow"
       }
     ],
-    "restart_requested_local": "2026-08-10T06:58:26.733459-07:00",
+    "restart_requested_local": "2026-08-10T21:19:46.207571-07:00",
     "ng_plus_cycle_complete": true,
     "completed_cycle": "NG++",
     "completion_local": "2026-08-09T16:47:06.231366-07:00",
     "inventory_log": [
-      {
-        "time": "2026-08-09T16:13:53.081919-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-09T16:14:06.661349-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-09T16:14:10.367398-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-09T16:14:14.056689-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-09T16:14:57.725947-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-09T16:17:45.719108-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-09T16:17:57.711354-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
       {
         "time": "2026-08-09T16:18:01.581228-07:00",
         "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
@@ -5073,6 +5045,34 @@
       },
       {
         "time": "2026-08-10T06:57:00.203151-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-10T21:18:07.071184-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-10T21:18:20.840235-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-10T21:18:22.789014-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-10T21:18:26.612151-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-10T21:18:56.704265-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-10T21:19:34.039037-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-10T21:19:45.212067-07:00",
         "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
       }
     ],
