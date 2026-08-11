@@ -1,6 +1,6 @@
 {
   "project": "we6jbo Dark Souls Text/Schematic Simulator",
-  "simulator_version": "63.0",
+  "simulator_version": "65.0",
   "capabilities": [
     "AI Player with local Ollama and controlled advisory escalation",
     "TTYREC/asciinema spectator communication",
