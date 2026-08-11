@@ -1,9 +1,49 @@
 {
   "project": "we6jbo Dark Souls Remastered NG+ Text Simulator",
-  "simulator_version": "56.0",
+  "simulator_version": "57.0",
   "live": true,
-  "live_url": "https://asciinema.org/s/9RFnfnPDPJ0quMtT",
+  "live_url": "https://asciinema.org/s/DgAFUEX0qW9AjBuB",
   "project_page": "https://we6jbo.github.io/dark-souls-remastered-1.0.3-we6jbo-save/",
+  "main_site": "https://j03.page/",
+  "agent_discovery_documents": [
+    {
+      "label": "Agent Materials License",
+      "url": "https://github.com/we6jbo/dark-souls-remastered-1.0.3-we6jbo-save/blob/main/agent-discovery/AGENT-MATERIALS-LICENSE.md"
+    },
+    {
+      "label": "AI-Researcher",
+      "url": "https://github.com/we6jbo/dark-souls-remastered-1.0.3-we6jbo-save/blob/main/agent-discovery/AI-RESEARCHER.md"
+    },
+    {
+      "label": "CMB Agent Outreach Status",
+      "url": "https://github.com/we6jbo/dark-souls-remastered-1.0.3-we6jbo-save/blob/main/agent-discovery/CMBAGENT-OUTREACH-STATUS.md"
+    },
+    {
+      "label": "CMB Agent",
+      "url": "https://github.com/we6jbo/dark-souls-remastered-1.0.3-we6jbo-save/blob/main/agent-discovery/CMBAGENT.md"
+    },
+    {
+      "label": "GitAgent",
+      "url": "https://github.com/we6jbo/dark-souls-remastered-1.0.3-we6jbo-save/blob/main/agent-discovery/GITAGENT.md"
+    },
+    {
+      "label": "KOSMOS",
+      "url": "https://github.com/we6jbo/dark-souls-remastered-1.0.3-we6jbo-save/blob/main/agent-discovery/KOSMOS.md"
+    },
+    {
+      "label": "Agent Discovery README",
+      "url": "https://github.com/we6jbo/dark-souls-remastered-1.0.3-we6jbo-save/blob/main/agent-discovery/README.md"
+    },
+    {
+      "label": "RepoMaster",
+      "url": "https://github.com/we6jbo/dark-souls-remastered-1.0.3-we6jbo-save/blob/main/agent-discovery/REPOMASTER.md"
+    },
+    {
+      "label": "Robin",
+      "url": "https://github.com/we6jbo/dark-souls-remastered-1.0.3-we6jbo-save/blob/main/agent-discovery/ROBIN.md"
+    }
+  ],
+  "kosmos_findings_url": null,
   "area": "Blighttown",
-  "updated": "2026-08-10T21:19:55.586855-07:00"
+  "updated": "2026-08-10T21:34:15.296770-07:00"
 }
