@@ -1,8 +1,8 @@
 # CMB Agent outreach status
 
 Project: we6jbo Dark Souls Text/Schematic Simulator
-Simulator version when refreshed: 54.0
-Updated: 2026-08-10T06:56:36.686800-07:00
+Simulator version when refreshed: 59.0
+Updated: 2026-08-10T22:10:31.232355-07:00
 
 ## Persistent CMB-facing material
 
@@ -14,6 +14,12 @@ https://github.com/we6jbo/dark-souls-remastered-1.0.3-we6jbo-save/blob/main/agen
 
 Project repository:
 https://github.com/we6jbo/dark-souls-remastered-1.0.3-we6jbo-save
+
+## Project navigation
+
+- Main site: https://j03.page/
+- Simulator public site: https://we6jbo.github.io/dark-souls-remastered-1.0.3-we6jbo-save/
+- Character/archive repository: https://github.com/we6jbo/dark-souls-remastered-1.0.3-we6jbo-save
 
 ## Purpose
 
