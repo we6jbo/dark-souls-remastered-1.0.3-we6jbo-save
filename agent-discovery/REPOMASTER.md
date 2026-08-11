@@ -3,7 +3,7 @@
 Project: we6jbo Dark Souls Text/Schematic Simulator
 Current simulator version: 67.0
 Published by: Jeremiah O'Neal
-Generated/updated: 2026-08-11T06:21:21.525252-07:00
+Generated/updated: 2026-08-11T06:27:24.968067-07:00
 
 ## Invitation
 
