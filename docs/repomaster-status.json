@@ -3,16 +3,16 @@
   "simulator_version": "68.0",
   "integration_mode": "external-discovery",
   "local_repomaster_required": false,
-  "status": "complete",
+  "status": "countdown",
   "last_success_local": "2026-08-11T06:27:33.570149-07:00",
-  "remote_verified": true,
+  "remote_verified": false,
   "performance": {
     "cpu_count": 8,
-    "load_1m_per_cpu": 0.734,
-    "memory_used_percent": 27.2,
-    "memory_available_gib": 11.13,
-    "ollama_requests": 0,
-    "ollama_successes": 0,
+    "load_1m_per_cpu": 0.896,
+    "memory_used_percent": 42.8,
+    "memory_available_gib": 8.74,
+    "ollama_requests": 1,
+    "ollama_successes": 1,
     "ollama_timeouts": 0
   }
 }
