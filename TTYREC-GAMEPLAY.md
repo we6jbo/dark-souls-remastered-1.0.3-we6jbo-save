@@ -21,7 +21,7 @@ or third-party map image is automatically committed to this character archive.
 ## Exact archived character build used by the simulator
 
 - Level: **259**
-- Souls at archive load/save: **18,729,339**
+- Souls at archive load/save: **19,006,076**
 - Humanity counter: **0**
 - Covenant: **Chaos Servant +2**
 - Vitality: **50**
@@ -89,8 +89,8 @@ intellectual property remain the property of their respective rights holders.
 
 ## Session status
 
-Last simulator save: **2026-08-12T06:47:13.020921-07:00**
+Last simulator save: **2026-08-12T06:55:17.732820-07:00**
 
 Last session summary:
 
-> we6jbo simulation: 14 accomplishments; Defeated Demon-like guardian in Crystal Cave (+5,000 souls)
+> we6jbo simulation: 319 accomplishments; Defeated Sorcerous ambush in Blighttown (+2,200 souls)
