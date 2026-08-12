@@ -21,7 +21,7 @@ or third-party map image is automatically committed to this character archive.
 ## Exact archived character build used by the simulator
 
 - Level: **259**
-- Souls at archive load/save: **18,556,593**
+- Souls at archive load/save: **18,573,457**
 - Humanity counter: **0**
 - Covenant: **Chaos Servant +2**
 - Vitality: **50**
@@ -89,8 +89,8 @@ intellectual property remain the property of their respective rights holders.
 
 ## Session status
 
-Last simulator save: **2026-08-12T06:40:04.701251-07:00**
+Last simulator save: **2026-08-12T06:42:34.332568-07:00**
 
 Last session summary:
 
-> Saved we6jbo simulator state at Anor Londo
+> we6jbo simulation: 14 accomplishments; Defeated Demon-like guardian in Crystal Cave (+5,000 souls)

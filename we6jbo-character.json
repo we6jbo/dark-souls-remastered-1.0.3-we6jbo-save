@@ -7,7 +7,7 @@
   "covenant": "Chaos Servant",
   "covenant_rank": "+2",
   "level": 259,
-  "souls": 18556593,
+  "souls": 18573457,
   "humanity_counter": 0,
   "attributes": {
     "Vitality": 50,
@@ -2523,11 +2523,11 @@
     "schema_version": 1,
     "cycle": "NG++",
     "start_policy": "Beginning of NG+",
-    "current_area": "Anor Londo",
+    "current_area": "Crystal Cave",
     "checkpoint_area": "Firelink Altar",
-    "sim_hp": 775,
+    "sim_hp": 1255,
     "sim_max_hp": 1500,
-    "sim_estus": 2,
+    "sim_estus": 1,
     "sim_humanity_state": "Hollow",
     "areas_visited": [
       "Northern Undead Asylum",
@@ -2557,12 +2557,12 @@
       "Firelink Altar",
       "Kiln of the First Flame"
     ],
-    "encounters_won": 5114,
+    "encounters_won": 5117,
     "deaths": 1,
-    "souls_earned_in_simulator": 18158293,
+    "souls_earned_in_simulator": 18175157,
     "notes": [],
-    "last_session_summary": "Saved we6jbo simulator state at Anor Londo",
-    "last_saved_local": "2026-08-12T06:40:04.701251-07:00",
+    "last_session_summary": "we6jbo simulation: 14 accomplishments; Defeated Demon-like guardian in Crystal Cave (+5,000 souls)",
+    "last_saved_local": "2026-08-12T06:42:34.332568-07:00",
     "progress_flags": {
       "bell_of_awakening_quelaag": true,
       "bell_of_awakening_parish": true,
@@ -4957,6 +4957,26 @@
         "saved_local": "2026-08-12T06:40:04.701219-07:00",
         "events": [],
         "summary": "Saved we6jbo simulator state at Anor Londo"
+      },
+      {
+        "saved_local": "2026-08-12T06:42:34.332498-07:00",
+        "events": [
+          "2026-08-12 06:42:02: Found 863 simulated souls while exploring Anor Londo",
+          "2026-08-12 06:42:03: Traveled from Anor Londo to Duke's Archives",
+          "2026-08-12 06:42:05: Thoroughly explored Duke's Archives",
+          "2026-08-12 06:42:07: Traveled from Duke's Archives to Anor Londo",
+          "2026-08-12 06:42:09: Inventory: AI reviewed inventory conservatively. No safe duplicate items were removed.",
+          "2026-08-12 06:42:15: Found 2,059 simulated souls while exploring Anor Londo",
+          "2026-08-12 06:42:17: Defeated Hostile knight in Anor Londo (+2,800 souls)",
+          "2026-08-12 06:42:19: Found 3,342 simulated souls while exploring Anor Londo",
+          "2026-08-12 06:42:21: Defeated Hostile knight in Anor Londo (+2,800 souls)",
+          "2026-08-12 06:42:23: Traveled from Anor Londo to Painted World",
+          "2026-08-12 06:42:25: Traveled from Painted World to Anor Londo",
+          "2026-08-12 06:42:27: Traveled from Anor Londo to Duke's Archives",
+          "2026-08-12 06:42:29: Traveled from Duke's Archives to Crystal Cave",
+          "2026-08-12 06:42:31: Defeated Demon-like guardian in Crystal Cave (+5,000 souls)"
+        ],
+        "summary": "we6jbo simulation: 14 accomplishments; Defeated Demon-like guardian in Crystal Cave (+5,000 souls)"
       }
     ],
     "restart_requested_local": "2026-08-12T06:38:02.442945-07:00",
@@ -4964,10 +4984,6 @@
     "completed_cycle": "NG++",
     "completion_local": "2026-08-09T16:47:06.231366-07:00",
     "inventory_log": [
-      {
-        "time": "2026-08-11T05:05:46.907743-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
       {
         "time": "2026-08-11T05:06:23.312198-07:00",
         "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
@@ -5962,6 +5978,10 @@
       },
       {
         "time": "2026-08-12T06:29:58.994725-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-12T06:42:09.826059-07:00",
         "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
       }
     ],
