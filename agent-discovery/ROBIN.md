@@ -1,9 +1,9 @@
 # Robin NI discovery brief
 
 Project: we6jbo Dark Souls Text/Schematic Simulator
-Current simulator version: 69.0
+Current simulator version: 71.0
 Published by: Jeremiah O'Neal
-Generated/updated: 2026-08-12T06:38:22.284795-07:00
+Generated/updated: 2026-08-12T06:59:33.639553-07:00
 
 ## Invitation
 
