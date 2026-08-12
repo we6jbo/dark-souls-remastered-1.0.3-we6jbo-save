@@ -2562,7 +2562,7 @@
     "souls_earned_in_simulator": 18158293,
     "notes": [],
     "last_session_summary": "Saved we6jbo simulator state at Anor Londo",
-    "last_saved_local": "2026-08-12T06:39:36.791777-07:00",
+    "last_saved_local": "2026-08-12T06:40:04.701251-07:00",
     "progress_flags": {
       "bell_of_awakening_quelaag": true,
       "bell_of_awakening_parish": true,
@@ -4950,6 +4950,11 @@
       },
       {
         "saved_local": "2026-08-12T06:39:36.791715-07:00",
+        "events": [],
+        "summary": "Saved we6jbo simulator state at Anor Londo"
+      },
+      {
+        "saved_local": "2026-08-12T06:40:04.701219-07:00",
         "events": [],
         "summary": "Saved we6jbo simulator state at Anor Londo"
       }
