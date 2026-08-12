@@ -1,0 +1,6 @@
+{
+  "schema": 1,
+  "project": "we6jbo Dark Souls simulator",
+  "mutations": [],
+  "note": "External AI may propose upsert/delete mutations. Simulator validation remains authoritative."
+}
