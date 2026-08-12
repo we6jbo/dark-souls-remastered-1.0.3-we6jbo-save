@@ -2561,8 +2561,8 @@
     "deaths": 1,
     "souls_earned_in_simulator": 18607776,
     "notes": [],
-    "last_session_summary": "we6jbo simulation: 319 accomplishments; Defeated Sorcerous ambush in Blighttown (+2,200 souls)",
-    "last_saved_local": "2026-08-12T06:55:17.732820-07:00",
+    "last_session_summary": "Saved we6jbo simulator state at Blighttown",
+    "last_saved_local": "2026-08-12T07:00:16.507301-07:00",
     "progress_flags": {
       "bell_of_awakening_quelaag": true,
       "bell_of_awakening_parish": true,
@@ -2614,8 +2614,8 @@
         "updated_local": "2026-08-09T05:58:36.185621-07:00"
       }
     },
-    "live_stream_url": "https://asciinema.org/s/CRIstYKh6YTpQrnZ",
-    "live_stream_started_local": "2026-08-12T06:38:12.252493-07:00",
+    "live_stream_url": "https://asciinema.org/s/iFAVVGuN9P0iCcln",
+    "live_stream_started_local": "2026-08-12T06:59:25.461491-07:00",
     "session_history": [
       {
         "saved_local": "2026-08-08T20:04:21.512517-07:00",
@@ -4977,6 +4977,11 @@
           "2026-08-12 06:42:31: Defeated Demon-like guardian in Crystal Cave (+5,000 souls)"
         ],
         "summary": "we6jbo simulation: 14 accomplishments; Defeated Demon-like guardian in Crystal Cave (+5,000 souls)"
+      },
+      {
+        "saved_local": "2026-08-12T07:00:16.507257-07:00",
+        "events": [],
+        "summary": "Saved we6jbo simulator state at Blighttown"
       }
     ],
     "restart_requested_local": "2026-08-12T06:55:17.732762-07:00",

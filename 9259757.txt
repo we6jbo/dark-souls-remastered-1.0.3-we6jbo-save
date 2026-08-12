@@ -7,6 +7,6 @@ Simulation target: NG+ beginning
 Simulator current area: Blighttown
 Simulator encounters won: 5248
 Simulator deaths: 1
-Simulator last saved: 2026-08-12T06:55:17.732820-07:00
-Last session summary: we6jbo simulation: 319 accomplishments; Defeated Sorcerous ambush in Blighttown (+2,200 souls)
+Simulator last saved: 2026-08-12T07:00:16.507301-07:00
+Last session summary: Saved we6jbo simulator state at Blighttown
 Repository: https://github.com/we6jbo/dark-souls-remastered-1.0.3-we6jbo-save
