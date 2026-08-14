@@ -43,7 +43,7 @@
       "url": "https://github.com/we6jbo/dark-souls-remastered-1.0.3-we6jbo-save/blob/main/agent-discovery/ROBIN.md"
     }
   ],
-  "kosmos_findings_url": null,
+  "kosmos_findings_url": "https://github.com/we6jbo/dark-souls-remastered-1.0.3-we6jbo-save/blob/main/agent-discovery/KOSMOS-FINDINGS.md",
   "repomaster_external_discovery": {
     "repomaster_json": "https://we6jbo.github.io/dark-souls-remastered-1.0.3-we6jbo-save/repomaster.json",
     "capabilities_json": "https://we6jbo.github.io/dark-souls-remastered-1.0.3-we6jbo-save/capabilities.json",
@@ -52,6 +52,6 @@
     "local_repomaster_required": false
   },
   "robin_integration": "NI",
-  "area": "Northern Undead Asylum",
-  "updated": "2026-08-14T05:18:57.604026-07:00"
+  "area": "New Londo Ruins",
+  "updated": "2026-08-14T05:20:47.356248-07:00"
 }
