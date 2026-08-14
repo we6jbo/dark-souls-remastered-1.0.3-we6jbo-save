@@ -10,7 +10,7 @@ or third-party map image is automatically committed to this character archive.
 
 ## Current simulator
 
-- Simulator version: **73.0**
+- Simulator version: **74.0**
 - Character: **we6jbo**
 - Source character archive: `we6jbo-character.json`
 - Target cycle: **NG+**
@@ -21,7 +21,7 @@ or third-party map image is automatically committed to this character archive.
 ## Exact archived character build used by the simulator
 
 - Level: **259**
-- Souls at archive load/save: **23,450,240**
+- Souls at archive load/save: **23,875,543**
 - Humanity counter: **0**
 - Covenant: **Chaos Servant +2**
 - Vitality: **50**
@@ -89,8 +89,8 @@ intellectual property remain the property of their respective rights holders.
 
 ## Session status
 
-Last simulator save: **2026-08-14T06:41:17.323297-07:00**
+Last simulator save: **2026-08-14T06:55:47.795656-07:00**
 
 Last session summary:
 
-> we6jbo simulation: 1690 accomplishments; Defeated Hollow patrol in Firelink Shrine (+900 souls)
+> we6jbo simulation: 317 accomplishments; Inventory: AI reviewed inventory conservatively. No safe duplicate items were removed.
