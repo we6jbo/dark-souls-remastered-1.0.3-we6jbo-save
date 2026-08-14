@@ -4,9 +4,9 @@ Level: 259
 Souls: 21092362
 Covenant: Chaos Servant +2
 Simulation target: NG+ beginning
-Simulator current area: The Abyss
+Simulator current area: New Londo Ruins
 Simulator encounters won: 5870
 Simulator deaths: 1
-Simulator last saved: 2026-08-14T04:56:36.156415-07:00
+Simulator last saved: 2026-08-14T05:01:49.941835-07:00
 Last session summary: we6jbo simulation: 4 accomplishments; Defeated Armored hollow in The Abyss (+1,400 souls)
 Repository: https://github.com/we6jbo/dark-souls-remastered-1.0.3-we6jbo-save

@@ -8,10 +8,10 @@
   "remote_verified": false,
   "performance": {
     "cpu_count": 8,
-    "load_1m_per_cpu": 1.781,
-    "memory_used_percent": 52.9,
-    "memory_available_gib": 7.19,
-    "ollama_requests": 1,
+    "load_1m_per_cpu": 1.308,
+    "memory_used_percent": 58.3,
+    "memory_available_gib": 6.38,
+    "ollama_requests": 2,
     "ollama_successes": 1,
     "ollama_timeouts": 0
   }
