@@ -2562,7 +2562,7 @@
     "souls_earned_in_simulator": 20687662,
     "notes": [],
     "last_session_summary": "we6jbo simulation: 541 accomplishments; Found 1,280 simulated souls while exploring The Abyss",
-    "last_saved_local": "2026-08-13T06:15:08.899156-07:00",
+    "last_saved_local": "2026-08-14T04:46:07.890358-07:00",
     "progress_flags": {
       "bell_of_awakening_quelaag": true,
       "bell_of_awakening_parish": true,
@@ -2612,10 +2612,16 @@
         "y": 0.524615,
         "source": "user-click",
         "updated_local": "2026-08-09T05:58:36.185621-07:00"
+      },
+      "The Abyss": {
+        "x": 0.88,
+        "y": 0.487013,
+        "source": "user-click",
+        "updated_local": "2026-08-14T04:43:05.044130-07:00"
       }
     },
-    "live_stream_url": "https://asciinema.org/s/L4JCzg9GhnbTDO6W",
-    "live_stream_started_local": "2026-08-13T05:50:17.283979-07:00",
+    "live_stream_url": "https://asciinema.org/s/QkubZMPuHaNaL83H",
+    "live_stream_started_local": "2026-08-14T04:41:06.041498-07:00",
     "session_history": [
       {
         "saved_local": "2026-08-08T20:04:21.512517-07:00",

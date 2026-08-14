@@ -7,6 +7,6 @@ Simulation target: NG+ beginning
 Simulator current area: The Abyss
 Simulator encounters won: 5868
 Simulator deaths: 1
-Simulator last saved: 2026-08-13T06:15:08.899156-07:00
+Simulator last saved: 2026-08-14T04:46:07.890358-07:00
 Last session summary: we6jbo simulation: 541 accomplishments; Found 1,280 simulated souls while exploring The Abyss
 Repository: https://github.com/we6jbo/dark-souls-remastered-1.0.3-we6jbo-save
