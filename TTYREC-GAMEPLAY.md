@@ -21,7 +21,7 @@ or third-party map image is automatically committed to this character archive.
 ## Exact archived character build used by the simulator
 
 - Level: **259**
-- Souls at archive load/save: **21,085,962**
+- Souls at archive load/save: **21,092,362**
 - Humanity counter: **0**
 - Covenant: **Chaos Servant +2**
 - Vitality: **50**
@@ -89,8 +89,8 @@ intellectual property remain the property of their respective rights holders.
 
 ## Session status
 
-Last simulator save: **2026-08-14T04:46:07.890358-07:00**
+Last simulator save: **2026-08-14T04:56:36.156415-07:00**
 
 Last session summary:
 
-> we6jbo simulation: 541 accomplishments; Found 1,280 simulated souls while exploring The Abyss
+> we6jbo simulation: 4 accomplishments; Defeated Armored hollow in The Abyss (+1,400 souls)

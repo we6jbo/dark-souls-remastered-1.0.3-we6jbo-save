@@ -7,7 +7,7 @@
   "covenant": "Chaos Servant",
   "covenant_rank": "+2",
   "level": 259,
-  "souls": 21085962,
+  "souls": 21092362,
   "humanity_counter": 0,
   "attributes": {
     "Vitality": 50,
@@ -2525,7 +2525,7 @@
     "start_policy": "Beginning of NG+",
     "current_area": "The Abyss",
     "checkpoint_area": "Firelink Shrine",
-    "sim_hp": 365,
+    "sim_hp": 295,
     "sim_max_hp": 1500,
     "sim_estus": 0,
     "sim_humanity_state": "Hollow",
@@ -2557,12 +2557,12 @@
       "Firelink Altar",
       "Kiln of the First Flame"
     ],
-    "encounters_won": 5868,
+    "encounters_won": 5870,
     "deaths": 1,
-    "souls_earned_in_simulator": 20687662,
+    "souls_earned_in_simulator": 20694062,
     "notes": [],
-    "last_session_summary": "we6jbo simulation: 541 accomplishments; Found 1,280 simulated souls while exploring The Abyss",
-    "last_saved_local": "2026-08-14T04:46:07.890358-07:00",
+    "last_session_summary": "we6jbo simulation: 4 accomplishments; Defeated Armored hollow in The Abyss (+1,400 souls)",
+    "last_saved_local": "2026-08-14T04:56:36.156415-07:00",
     "progress_flags": {
       "bell_of_awakening_quelaag": true,
       "bell_of_awakening_parish": true,
@@ -4990,7 +4990,7 @@
         "summary": "Saved we6jbo simulator state at Blighttown"
       }
     ],
-    "restart_requested_local": "2026-08-12T06:55:17.732762-07:00",
+    "restart_requested_local": "2026-08-14T04:56:36.156352-07:00",
     "ng_plus_cycle_complete": true,
     "completed_cycle": "NG++",
     "completion_local": "2026-08-09T16:47:06.231366-07:00",
