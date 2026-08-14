@@ -1,9 +1,9 @@
 # AI agent discovery index discovery brief
 
 Project: we6jbo Dark Souls Text/Schematic Simulator
-Current simulator version: 71.0
+Current simulator version: 72.0
 Published by: Jeremiah O'Neal
-Generated/updated: 2026-08-14T04:41:37.701505-07:00
+Generated/updated: 2026-08-14T04:57:33.848118-07:00
 
 ## Invitation
 
@@ -131,3 +131,14 @@ The T14 refreshes these materials when the simulator version changes and at
 least once on a new local calendar day, so v40, v41, v42, v43, later versions
 such as v55/v56, and future-day runs update the discovery material without
 requiring version-specific hardcoding.
+
+## Ollama-suggested additional agent candidates
+
+- **NAME**: one short reason (local Ollama suggestion; not independently verified)
+- **OpenAI-Agents**: Large language model agent development and testing platform (local Ollama suggestion; not independently verified)
+- **MultiAgentSim**: Simulation of multi-agent systems for research and education (local Ollama suggestion; not independently verified)
+- **DeepMind-Projects**: Deep learning based autonomous research projects (local Ollama suggestion; not independently verified)
+- **AutonomousRobotics**: Autonomous robotics system development and testing (local Ollama suggestion; not independently verified)
+- **Quantum-Computing**: Quantum computing research and development, potentially benefiting from agent-based simulation. (local Ollama suggestion; not independently verified)
+- **FederatedLearning**: Distributed machine learning with multiple agents on different data sets. (local Ollama suggestion; not independently verified)
+- **CollaborativeResearch**: Research platform for collaborative AI development across teams. (local Ollama suggestion; not independently verified)

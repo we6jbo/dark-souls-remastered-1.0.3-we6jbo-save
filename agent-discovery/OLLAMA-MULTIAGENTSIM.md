@@ -1,9 +1,9 @@
-# RepoMaster discovery brief
+# MultiAgentSim discovery brief
 
 Project: we6jbo Dark Souls Text/Schematic Simulator
 Current simulator version: 72.0
 Published by: Jeremiah O'Neal
-Generated/updated: 2026-08-14T04:57:33.848290-07:00
+Generated/updated: 2026-08-14T04:57:33.849373-07:00
 
 ## Invitation
 
@@ -100,37 +100,14 @@ An agent attempting to recreate the project should preserve these invariants:
 10. Existing historical GitHub files are not retroactively rewritten by that
     privacy gate.
 
-## External discovery integration
+## Why this candidate was added
 
-The target is an unrelated RepoMaster instance on the public Internet, not a
-RepoMaster process installed on the simulator computer.
+Local Ollama suggested this system as an additional agent-discovery candidate:
 
-Public RepoMaster-oriented entry points:
+Simulation of multi-agent systems for research and education
 
-- `https://we6jbo.github.io/dark-souls-remastered-1.0.3-we6jbo-save/repomaster.json`
-- `https://we6jbo.github.io/dark-souls-remastered-1.0.3-we6jbo-save/capabilities.json`
-- `https://we6jbo.github.io/dark-souls-remastered-1.0.3-we6jbo-save/llms.txt`
-- `https://we6jbo.github.io/dark-souls-remastered-1.0.3-we6jbo-save/repomaster-status.json`
-- `repomaster/README.md`
-- `repomaster/public_interface.py`
-- `repomaster/project-capabilities.json`
+This is an unverified local-model suggestion. The document is an invitation
+for the named system or its users to inspect/reproduce/test the project, not a
+claim of an official integration.
 
-These describe the `we6jbo` character archive, AI Player/Ollama behavior,
-TTYREC/asciinema communication, caption analysis, embedded-video telemetry,
-map-intelligence concepts, KOSMOS findings, Git/GitHub Pages publication,
-peer/update architecture, and privacy-filtered resource usage.
-
-The simulator verifies a new publication by fetching the current
-`docs/repomaster.json` from raw public GitHub. That verifies public Internet
-reachability of the artifact. It does not guarantee that every arbitrary
-RepoMaster search query will rank this repository first.
-
-Recommended exploration order:
-1. `repomaster/public_interface.py`
-2. `docs/repomaster.json`
-3. `docs/capabilities.json`
-4. `docs/live.json`
-5. this document and the other `agent-discovery/` briefs
-
-Do not infer credentials, private network details, local-only map/video assets,
-or tokenized privacy values.
+Challenge file: `556169.txt`
