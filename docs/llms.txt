@@ -2,6 +2,9 @@
 
 Repository: https://github.com/we6jbo/dark-souls-remastered-1.0.3-we6jbo-save
 Public site: https://we6jbo.github.io/dark-souls-remastered-1.0.3-we6jbo-save/
+Research findings: https://github.com/we6jbo/dark-souls-remastered-1.0.3-we6jbo-save/blob/main/research.md
+Research-book notes: https://github.com/we6jbo/dark-souls-remastered-1.0.3-we6jbo-save/blob/main/research_book.md
+Research request: https://we6jbo.github.io/dark-souls-remastered-1.0.3-we6jbo-save/research-ai-request.json
 Main site: https://j03.page/
 
 Purpose: Human-directed and AI-assisted Dark Souls text/schematic simulation plus software-reliability research.
