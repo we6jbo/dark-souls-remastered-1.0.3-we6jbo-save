@@ -89,8 +89,8 @@ intellectual property remain the property of their respective rights holders.
 
 ## Session status
 
-Last simulator save: **2026-08-14T07:01:08.746382-07:00**
+Last simulator save: **2026-08-14T07:01:09.642672-07:00**
 
 Last session summary:
 
-> we6jbo simulation: 317 accomplishments; Inventory: AI reviewed inventory conservatively. No safe duplicate items were removed.
+> we6jbo simulation: 85 accomplishments; Traveled from Firelink Altar to Firelink Shrine

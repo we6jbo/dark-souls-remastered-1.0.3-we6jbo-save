@@ -7,6 +7,6 @@ Simulation target: NG+ beginning
 Simulator current area: Firelink Shrine
 Simulator encounters won: 6722
 Simulator deaths: 1
-Simulator last saved: 2026-08-14T07:01:08.746382-07:00
-Last session summary: we6jbo simulation: 317 accomplishments; Inventory: AI reviewed inventory conservatively. No safe duplicate items were removed.
+Simulator last saved: 2026-08-14T07:01:09.642672-07:00
+Last session summary: we6jbo simulation: 85 accomplishments; Traveled from Firelink Altar to Firelink Shrine
 Repository: https://github.com/we6jbo/dark-souls-remastered-1.0.3-we6jbo-save
