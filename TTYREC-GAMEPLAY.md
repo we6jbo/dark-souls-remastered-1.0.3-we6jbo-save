@@ -21,7 +21,7 @@ or third-party map image is automatically committed to this character archive.
 ## Exact archived character build used by the simulator
 
 - Level: **259**
-- Souls at archive load/save: **32,564,320**
+- Souls at archive load/save: **34,320,527**
 - Humanity counter: **0**
 - Covenant: **Chaos Servant +2**
 - Vitality: **50**
@@ -89,8 +89,8 @@ intellectual property remain the property of their respective rights holders.
 
 ## Session status
 
-Last simulator save: **2026-08-15T12:54:37.327863-07:00**
+Last simulator save: **2026-08-15T14:05:11.936395-07:00**
 
 Last session summary:
 
-> we6jbo simulation: 992 accomplishments; Traveled from Quelaag's Domain to Demon Ruins
+> we6jbo simulation: 1887 accomplishments; Defeated Black knight-like challenger in The Catacombs (+3,500 souls)
