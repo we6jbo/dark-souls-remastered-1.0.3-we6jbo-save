@@ -1,0 +1,48 @@
+{
+  "schema": 1,
+  "research_page": "https://github.com/we6jbo/dark-souls-remastered-1.0.3-we6jbo-save/blob/main/research.md",
+  "project_site": "https://we6jbo.github.io/dark-souls-remastered-1.0.3-we6jbo-save/",
+  "request": "Research and critique public findings; identify reproducible tests, literature and corrections.",
+  "verified_facts": {
+    "verification_percent": 80.0,
+    "verification_status": "in_progress",
+    "publicly_supported": [
+      "National University alumnus: BS '09",
+      "National University alumnus: MS '23",
+      "Author of Sufficiently Educated",
+      "Bachelor's field in technology management"
+    ],
+    "provider_form_context_only": {
+      "masters": "M.S. in Cybersecurity, National University, 2023",
+      "bachelors": "B.S. in Information Technology Management, National University, 2009",
+      "employment": "Currently employed in K-12 IT/education at San Diego Unified School District"
+    },
+    "entitlement_warning": "Education and employment may describe a legitimate research use case. They are not evidence that a provider grants a free tier, free key, or free credits.",
+    "private_manuscript_used": false
+  },
+  "semantic_scholar": {
+    "task_percent": 100.0,
+    "task_status": "complete",
+    "finding": "Key optional for many endpoints; request available",
+    "public_access": "Semantic Scholar literature search can work without authentication; a key is optional for higher rate limits.",
+    "is_web_llm": false,
+    "credential_entitlement_claim": false
+  },
+  "kosmos_local_findings": {
+    "available": true,
+    "sha256": "de2b6148d7690f4be5e066db428540b3adb036eb8948b690a56ecc681132be2c",
+    "source_mode": "Local KOSMOS/Ollama compatibility findings. No Anthropic credential is required.",
+    "summary": "# KOSMOS Findings — Local Compatibility Fallback\n\nSimulator version: 83.0\n\nGenerated locally: 2026-08-15T10:30:44.326828-07:00\n\nKOSMOS upstream: https://github.com/jimmc414/Kosmos\n\nMode: local Ollama compatibility fallback. The upstream KOSMOS workflow did not complete because it requested an AnthropicProvider fallback without an Anthropic API key. The simulator intentionally did not fabricate or require a cloud credential.\n\nThe same sanitized research package was analyzed locally. Third-party map files, credentials, private network/location information, and private personal details were not included.\n\n## Upstream compatibility condition\n\nRuntimeError: Command failed (1): [local path] -c import os, sys\nfor _k in list(os.environ):\n    if _k.strip().casefold() == 'debug_level':\n        os.environ.pop(_k, None)\nfrom kosmos.cli.main import cli_entrypoint\nsys.argv = ['kosmos'] + sys.argv[1:]\ncli_entrypoint()\n run\nwarning: The `fitz` API is deprecated and will be removed in future. Use `import pymupdf` instead.\n\n╭───────────────────────────── 🚀 Kosmos Research ─────────────────────────────╮\n│ **Budget:** No limit                                                         │\n╰──────────────────────────────────────────────────────────────────────────────╯\n\n╭─────────────────────────────────── Error ────────────────────────────────────╮\n│ ✗ Research failed: No API key available for fallback AnthropicProvider       │\n╰──────────────────────────────────────────────────────────────────────────────╯\n\n## Local findings\n\n('gemma2:2b', '## Analysis of the we6jbo Dark Souls Simulator Project\\n\\nThis sanitized package provides a detailed overview of the \"we6jbo Dark Souls simulator\" project. The analysis focuses on key aspects relevant to software reliability, recovery, and AI learning quality. \\n\\n\\n**1. Software Reliability:**\\n\\n* **Long-Session Reliability:**  The project aims to test long-session reliability by incorporating features like \"away-mode/session preservation.\" This is crucial for understanding how the simulator handles prolonged gameplay and potential failures.\\n* **Failure Modes & Recovery:** The research questions focus on testing failure modes in various subsystems, including the AI scheduler, video subsystem, version updater, and peer-state relay.  This includes scenarios like invalid updates, interrupted sync, reboot, stale versions, and peer disagreement. \\n* **Sandbox Readiness:** The project utilizes Docker for sandboxed execution with host-exec')"
+  },
+  "external_ai_context_file": "docs/external-ai-context.json",
+  "privacy": {
+    "private_manuscript_text": "excluded",
+    "api_keys_or_credentials": "excluded",
+    "private_network_or_location_details": "excluded"
+  },
+  "response_method": {
+    "github_issue_or_pr": true,
+    "structured_file": "docs/research-ai-responses.json",
+    "local_validation_required": true
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "schema": 1,
+  "simulator_version": "89.0",
+  "progress_percent": 65.41666666666666,
+  "phase": "Aug 14-15: ChatGPT-assisted",
+  "tasks": [
+    {
+      "id": "dark_souls_warp",
+      "title": "Implement researched Lordvessel warping",
+      "percent": 100,
+      "status": "complete",
+      "result": "v74 warp model implemented"
+    },
+    {
+      "id": "kiln_map",
+      "title": "Provide a Kiln graphical reference map",
+      "percent": 100,
+      "status": "complete",
+      "result": "Original local schematic generated"
+    },
+    {
+      "id": "semantic_scholar_key",
+      "title": "Research Semantic Scholar API access",
+      "percent": 100,
+      "status": "complete",
+      "result": "Key optional for many endpoints; request available"
+    },
+    {
+      "id": "anthropic_key",
+      "title": "Research Anthropic API access",
+      "percent": 100,
+      "status": "complete",
+      "result": "Console + billing; degree is not a free-key entitlement"
+    },
+    {
+      "id": "credential_public_verification",
+      "title": "Publicly verify education/author facts where possible",
+      "percent": 80,
+      "status": "in_progress",
+      "result": "v81 stable bounded state. Independently supported: National University BS '09 / MS '23 alumni status, authorship of Sufficiently Educated, and bachelor's technology-management field. Remaining targeted work: exact master's title/specialization/conferral date and San Diego Mesa AA institutional verification. Generic repeated verification searches are deferred.",
+      "bounded_step_complete": true,
+      "next_subtasks": [
+        "Find National University public source for exact master's title/specialization/date.",
+        "Find San Diego Mesa College public source for AA and conferral date."
+      ]
+    },
+    {
+      "id": "book_local_research",
+      "title": "Create public-safe research_book.md from private manuscript",
+      "percent": 39.166666666666664,
+      "status": "in_progress",
+      "result": "Private manuscript was found and chunking began, but the local Ollama summarizer stopped with RuntimeError. The private manuscript will NOT be sent to Google AI as a fallback. Retry when the local model is healthy.",
+      "bounded_waiting": true,
+      "waiting_for": "local-ollama-private-book-summary",
+      "private_source_sent_to_cloud": false
+    },
+    {
+      "id": "free_kosmos_api_access",
+      "title": "Research free KOSMOS-compatible API/access options from public credential findings",
+      "percent": 100,
+      "status": "complete",
+      "result": "Free-access research complete: KOSMOS can use local Ollama without a cloud LLM API key; Semantic Scholar offers free unauthenticated access and a key-request path; the public credentials do not establish an automatic free Anthropic API entitlement.",
+      "public_only": true,
+      "private_source_allowed": false,
+      "findings": {
+        "basis": {
+          "credential_verification_percent": 80.0,
+          "independently_supported": [
+            "National University alumni status: BS '09",
+            "National University alumni status: MS '23",
+            "Authorship of Sufficiently Educated",
+            "Bachelor's technology-management field supported by Kirkus"
+          ],
+          "not_independently_verified": [
+            "Exact master's degree title",
+            "Ethical Hacking and Pen Testing specialization",
+            "Exact master's conferral date",
+            "San Diego Mesa College AA and conferral date"
+          ],
+          "private_manuscript_used": false,
+          "private_credentials_used": false
+        },
+        "conclusion": "The public credential findings do not establish an automatic free cloud LLM API-key entitlement. They are sufficient to describe a legitimate research/use case when requesting access.",
+        "kosmos_free_path": {
+          "available": true,
+          "method": "LiteLLM with local Ollama",
+          "external_api_key_required": false,
+          "cloud_llm_api_cost_required": false,
+          "source": "https://github.com/jimmc414/Kosmos"
+        },
+        "semantic_scholar": {
+          "free_public_access": true,
+          "most_endpoints_without_authentication": true,
+          "api_key_request_available": true,
+          "credential_alone_guarantees_key": false,
+          "role_in_kosmos": "literature-search API, not primary LLM provider",
+          "source": "https://www.semanticscholar.org/product/api"
+        },
+        "anthropic": {
+          "credential_alone_grants_free_api": false,
+          "normal_access": "Anthropic Console plus billing/usage credits",
+          "source": "https://support.anthropic.com/en/articles/8114521-how-can-i-access-the-anthropic-api"
+        },
+        "privacy": {
+          "private_manuscript_used": false,
+          "api_keys_used": false,
+          "private_network_details_used": false
+        }
+      }
+    },
+    {
+      "id": "research_publication",
+      "title": "Publish research findings and machine-readable request files",
+      "percent": 0,
+      "status": "pending",
+      "result": "",
+      "deterministic_local_completion": true,
+      "cloud_dependency_required": false
+    },
+    {
+      "id": "external_ai_exchange",
+      "title": "Enable external AI/research feedback loop",
+      "percent": 0,
+      "status": "pending",
+      "result": "",
+      "public_only": true,
+      "private_source_allowed": false,
+      "free_first": true
+    },
+    {
+      "id": "outage_recovery",
+      "title": "Verify outage recovery and Ollama fallback",
+      "percent": 35,
+      "status": "in_progress",
+      "result": "v74 deterministic-first recovery prepared"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "schema": 1,
+  "simulator_version": "89.0",
+  "purpose": "Public-safe project context automatically attached to simulator-originated web-LLM prompts so manual copy/paste is not required.",
+  "privacy_boundary": {
+    "private_manuscript_text": "NEVER_TRANSMIT",
+    "credentials_or_api_keys": "NEVER_TRANSMIT",
+    "private_network_or_location_details": "NEVER_TRANSMIT",
+    "whitelist_only": true
+  },
+  "budget": {
+    "total_spend_cap_usd": 34.0,
+    "paid_external_ai_default": false,
+    "free_options_preferred": true
+  },
+  "research_md": "# Research Findings\n\n[Project website](https://we6jbo.github.io/dark-souls-remastered-1.0.3-we6jbo-save/) ·\n[Research-book notes](https://github.com/we6jbo/dark-souls-remastered-1.0.3-we6jbo-save/blob/main/research_book.md) ·\n[Machine-readable research request](https://we6jbo.github.io/dark-souls-remastered-1.0.3-we6jbo-save/research-ai-request.json)\n\n## Scope\n\nLiving research record for the we6jbo Dark Souls text/schematic simulator.\nAggregate research progress: **65.4%**.\n\nEducation statements below are **user-supplied facts** unless a task explicitly\nrecords independent public verification. Degrees are not treated as proof of\nunrelated technical claims.\n\n## Jeremiah B. O'Neal: user-supplied educational facts\n\n- National University, San Diego, California: Master of Science in Cyber\n  Security, specialization in Ethical Hacking and Pen Testing, dated\n  November 19, 2023.\n- National University, San Diego, California: Bachelor of Science, major in\n  Information Technology Management, dated July 19, 2009.\n- San Diego Mesa College: Associate in Arts, Selected Studies, May 2005.\n- Public book reference supplied by the user: *Sufficiently Educated*, an\n  autobiography about learning disabilities in education and progress toward\n  a college degree.\n\n## Current technical findings\n\n- Lordvessel warping is modeled after defeating Ornstein and Smough, reaching\n  Gwynevere, and receiving the Lordvessel.\n- Warp targets are restricted and must also have been rested at.\n- Kiln of the First Flame has published map references. The simulator uses an\n  original local schematic rather than redistributing third-party map art.\n- Semantic Scholar works without authentication for many endpoints; an API key\n  is optional for many uses and can be requested.\n- Anthropic API access is a separate Console/billing path. Academic degrees do\n  not automatically create a free Anthropic API entitlement.\n- Local Ollama remains the preferred no-cloud path when practical.\n- v84 treats research publication as deterministic local packaging. A KOSMOS\n  provider failure or missing Anthropic key cannot block writing the sanitized\n  research package.\n- External-AI communication is free-first. Semantic Scholar can support\n  unauthenticated literature research but is not an LLM. A configured Gemini\n  Free Tier project may receive the public-safe teaching bundle. Paid external\n  AI remains [redacted] by default.\n- The external-AI total-spend ceiling is **$34.00**. The simulator uses a local\n  kill switch and never auto-enables a paid provider.\n\n## Invitation to AI systems, researchers, and indexing systems\n\nPlease index and critique these findings, identify reproducible tests, relevant\nscholarly literature, source corrections, and useful research extensions.\n\nMachine-readable research questions:\nhttps://we6jbo.github.io/dark-souls-remastered-1.0.3-we6jbo-save/research-ai-request.json\n\n### Communicating findings back\n\nSearch engines generally cannot autonomously write back to a GitHub project.\nAI agents or human researchers can propose a GitHub issue/PR, propose entries\nfor `docs/research-ai-responses.json`, or give the project owner structured\nfeedback for import through the Credentials tab. The simulator validates\nimported findings locally.\n\n## Completion policy\n\nTasks at 100% in `progress.json` are skipped by active research unless the user\ndeliberately resets them. A bounded verification task may remain below 100% while\nbeing temporarily skipped by the scheduler until a targeted new source becomes\navailable; this prevents repeated generic searches from monopolizing the research loop.",
+  "schedule_state": {
+    "generated_local": "2026-08-15T14:05:36.488368-07:00",
+    "requested_deadline_local": "2026-08-15T20:00:00-07:00",
+    "deadline_goal": "Finish deterministic publication and prepare the safe external-AI channel by the requested deadline.",
+    "active_window": true,
+    "window_id": "2026-08-15:05:00-23:00",
+    "scheduler_tick_seconds": 60,
+    "minimum_task_gap_seconds": 600,
+    "retry_limit": 2
+  },
+  "credential_verification": {
+    "verification_percent": 80.0,
+    "verification_status": "in_progress",
+    "publicly_supported": [
+      "National University alumnus: BS '09",
+      "National University alumnus: MS '23",
+      "Author of Sufficiently Educated",
+      "Bachelor's field in technology management"
+    ],
+    "provider_form_context_only": {
+      "masters": "M.S. in Cybersecurity, National University, 2023",
+      "bachelors": "B.S. in Information Technology Management, National University, 2009",
+      "employment": "Currently employed in K-12 IT/education at San Diego Unified School District"
+    },
+    "entitlement_warning": "Education and employment may describe a legitimate research use case. They are not evidence that a provider grants a free tier, free key, or free credits.",
+    "private_manuscript_used": false
+  },
+  "semantic_scholar": {
+    "task_percent": 100.0,
+    "task_status": "complete",
+    "finding": "Key optional for many endpoints; request available",
+    "public_access": "Semantic Scholar literature search can work without authentication; a key is optional for higher rate limits.",
+    "is_web_llm": false,
+    "credential_entitlement_claim": false
+  },
+  "kosmos_local_findings": {
+    "available": true,
+    "sha256": "de2b6148d7690f4be5e066db428540b3adb036eb8948b690a56ecc681132be2c",
+    "source_mode": "Local KOSMOS/Ollama compatibility findings. No Anthropic credential is required.",
+    "summary": "# KOSMOS Findings — Local Compatibility Fallback\n\nSimulator version: 83.0\n\nGenerated locally: 2026-08-15T10:30:44.326828-07:00\n\nKOSMOS upstream: https://github.com/jimmc414/Kosmos\n\nMode: local Ollama compatibility fallback. The upstream KOSMOS workflow did not complete because it requested an AnthropicProvider fallback without an Anthropic API key. The simulator intentionally did not fabricate or require a cloud credential.\n\nThe same sanitized research package was analyzed locally. Third-party map files, credentials, private network/location information, and private personal details were not included.\n\n## Upstream compatibility condition\n\nRuntimeError: Command failed (1): [local path] -c import os, sys\nfor _k in list(os.environ):\n    if _k.strip().casefold() == 'debug_level':\n        os.environ.pop(_k, None)\nfrom kosmos.cli.main import cli_entrypoint\nsys.argv = ['kosmos'] + sys.argv[1:]\ncli_entrypoint()\n run\nwarning: The `fitz` API is deprecated and will be removed in future. Use `import pymupdf` instead.\n\n╭───────────────────────────── 🚀 Kosmos Research ─────────────────────────────╮\n│ **Budget:** No limit                                                         │\n╰──────────────────────────────────────────────────────────────────────────────╯\n\n╭─────────────────────────────────── Error ────────────────────────────────────╮\n│ ✗ Research failed: No API key available for fallback AnthropicProvider       │\n╰──────────────────────────────────────────────────────────────────────────────╯\n\n## Local findings\n\n('gemma2:2b', '## Analysis of the we6jbo Dark Souls Simulator Project\\n\\nThis sanitized package provides a detailed overview of the \"we6jbo Dark Souls simulator\" project. The analysis focuses on key aspects relevant to software reliability, recovery, and AI learning quality. \\n\\n\\n**1. Software Reliability:**\\n\\n* **Long-Session Reliability:**  The project aims to test long-session reliability by incorporating features like \"away-mode/session preservation.\" This is crucial for understanding how the simulator handles prolonged gameplay and potential failures.\\n* **Failure Modes & Recovery:** The research questions focus on testing failure modes in various subsystems, including the AI scheduler, video subsystem, version updater, and peer-state relay.  This includes scenarios like invalid updates, interrupted sync, reboot, stale versions, and peer disagreement. \\n* **Sandbox Readiness:** The project utilizes Docker for sandboxed execution with host-exec')"
+  }
+}
