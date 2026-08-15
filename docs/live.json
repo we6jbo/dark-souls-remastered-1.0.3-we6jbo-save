@@ -1,8 +1,8 @@
 {
   "project": "we6jbo Dark Souls Remastered NG+ Text Simulator",
-  "simulator_version": "83.0",
+  "simulator_version": "84.0",
   "live": true,
-  "live_url": "https://asciinema.org/s/NnMjdCRfZUUtZSMg",
+  "live_url": "https://asciinema.org/s/hwUJo6Zy76JqNdPP",
   "project_page": "https://we6jbo.github.io/dark-souls-remastered-1.0.3-we6jbo-save/",
   "main_site": "https://j03.page/",
   "agent_discovery_documents": [
@@ -52,6 +52,6 @@
     "local_repomaster_required": false
   },
   "robin_integration": "NI",
-  "area": "Blighttown",
-  "updated": "2026-08-15T10:41:39.698582-07:00"
+  "area": "The Depths",
+  "updated": "2026-08-15T10:47:58.470707-07:00"
 }
