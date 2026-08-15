@@ -10,7 +10,7 @@ or third-party map image is automatically committed to this character archive.
 
 ## Current simulator
 
-- Simulator version: **75.0**
+- Simulator version: **76.0**
 - Character: **we6jbo**
 - Source character archive: `we6jbo-character.json`
 - Target cycle: **NG+**
@@ -21,7 +21,7 @@ or third-party map image is automatically committed to this character archive.
 ## Exact archived character build used by the simulator
 
 - Level: **259**
-- Souls at archive load/save: **24,083,126**
+- Souls at archive load/save: **24,188,927**
 - Humanity counter: **0**
 - Covenant: **Chaos Servant +2**
 - Vitality: **50**
@@ -89,8 +89,8 @@ intellectual property remain the property of their respective rights holders.
 
 ## Session status
 
-Last simulator save: **2026-08-14T19:13:29.908200-07:00**
+Last simulator save: **2026-08-14T19:18:42.982745-07:00**
 
 Last session summary:
 
-> we6jbo simulation: 73 accomplishments; Found 1,869 simulated souls while exploring The Catacombs
+> we6jbo simulation: 82 accomplishments; Traveled from Undead Parish to Sen's Fortress

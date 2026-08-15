@@ -1,12 +1,12 @@
 Dark Souls Remastered v1.0.3 — we6jbo character archive
 Character: we6jbo
 Level: 259
-Souls: 24083126
+Souls: 24188927
 Covenant: Chaos Servant +2
 Simulation target: NG+ beginning
-Simulator current area: The Catacombs
-Simulator encounters won: 6751
+Simulator current area: Sen's Fortress
+Simulator encounters won: 6780
 Simulator deaths: 1
-Simulator last saved: 2026-08-14T19:13:29.908200-07:00
-Last session summary: we6jbo simulation: 73 accomplishments; Found 1,869 simulated souls while exploring The Catacombs
+Simulator last saved: 2026-08-14T19:18:42.982745-07:00
+Last session summary: we6jbo simulation: 82 accomplishments; Traveled from Undead Parish to Sen's Fortress
 Repository: https://github.com/we6jbo/dark-souls-remastered-1.0.3-we6jbo-save
