@@ -21,7 +21,7 @@ or third-party map image is automatically committed to this character archive.
 ## Exact archived character build used by the simulator
 
 - Level: **259**
-- Souls at archive load/save: **27,253,325**
+- Souls at archive load/save: **27,501,999**
 - Humanity counter: **0**
 - Covenant: **Chaos Servant +2**
 - Vitality: **50**
@@ -89,8 +89,8 @@ intellectual property remain the property of their respective rights holders.
 
 ## Session status
 
-Last simulator save: **2026-08-14T21:32:34.491876-07:00**
+Last simulator save: **2026-08-14T21:41:09.288735-07:00**
 
 Last session summary:
 
-> we6jbo simulation: 699 accomplishments; Traveled from The Depths to Lower Undead Burg
+> we6jbo simulation: 459 accomplishments; Inventory: AI reviewed inventory conservatively. No safe duplicate items were removed.
