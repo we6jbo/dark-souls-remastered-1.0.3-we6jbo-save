@@ -10,7 +10,7 @@ or third-party map image is automatically committed to this character archive.
 
 ## Current simulator
 
-- Simulator version: **79.0**
+- Simulator version: **80.0**
 - Character: **we6jbo**
 - Source character archive: `we6jbo-character.json`
 - Target cycle: **NG+**
@@ -21,7 +21,7 @@ or third-party map image is automatically committed to this character archive.
 ## Exact archived character build used by the simulator
 
 - Level: **259**
-- Souls at archive load/save: **26,087,044**
+- Souls at archive load/save: **26,970,263**
 - Humanity counter: **0**
 - Covenant: **Chaos Servant +2**
 - Vitality: **50**
@@ -89,8 +89,8 @@ intellectual property remain the property of their respective rights holders.
 
 ## Session status
 
-Last simulator save: **2026-08-14T20:42:17.656957-07:00**
+Last simulator save: **2026-08-14T21:19:11.329347-07:00**
 
 Last session summary:
 
-> we6jbo simulation: 710 accomplishments; Found 1,491 simulated souls while exploring Firelink Shrine
+> we6jbo simulation: 699 accomplishments; Traveled from The Depths to Lower Undead Burg
