@@ -1,12 +1,12 @@
 Dark Souls Remastered v1.0.3 — we6jbo character archive
 Character: we6jbo
 Level: 259
-Souls: 23991414
+Souls: 24083126
 Covenant: Chaos Servant +2
 Simulation target: NG+ beginning
-Simulator current area: Firelink Shrine
-Simulator encounters won: 6722
+Simulator current area: The Catacombs
+Simulator encounters won: 6751
 Simulator deaths: 1
-Simulator last saved: 2026-08-14T07:01:09.642672-07:00
-Last session summary: we6jbo simulation: 85 accomplishments; Traveled from Firelink Altar to Firelink Shrine
+Simulator last saved: 2026-08-14T19:13:29.908200-07:00
+Last session summary: we6jbo simulation: 73 accomplishments; Found 1,869 simulated souls while exploring The Catacombs
 Repository: https://github.com/we6jbo/dark-souls-remastered-1.0.3-we6jbo-save

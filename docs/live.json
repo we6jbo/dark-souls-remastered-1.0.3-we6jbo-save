@@ -2,7 +2,7 @@
   "project": "we6jbo Dark Souls Remastered NG+ Text Simulator",
   "simulator_version": "75.0",
   "live": true,
-  "live_url": "https://asciinema.org/s/aBx2OVmnsYWkFc97",
+  "live_url": "https://asciinema.org/s/l2LvO6bND3K02ub7",
   "project_page": "https://we6jbo.github.io/dark-souls-remastered-1.0.3-we6jbo-save/",
   "main_site": "https://j03.page/",
   "agent_discovery_documents": [
@@ -52,6 +52,6 @@
     "local_repomaster_required": false
   },
   "robin_integration": "NI",
-  "area": "Darkroot Basin",
-  "updated": "2026-08-14T07:02:40.619429-07:00"
+  "area": "The Catacombs",
+  "updated": "2026-08-14T19:13:30.286659-07:00"
 }

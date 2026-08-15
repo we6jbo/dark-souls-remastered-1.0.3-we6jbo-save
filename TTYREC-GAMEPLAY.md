@@ -21,7 +21,7 @@ or third-party map image is automatically committed to this character archive.
 ## Exact archived character build used by the simulator
 
 - Level: **259**
-- Souls at archive load/save: **23,991,414**
+- Souls at archive load/save: **24,083,126**
 - Humanity counter: **0**
 - Covenant: **Chaos Servant +2**
 - Vitality: **50**
@@ -89,8 +89,8 @@ intellectual property remain the property of their respective rights holders.
 
 ## Session status
 
-Last simulator save: **2026-08-14T07:01:09.642672-07:00**
+Last simulator save: **2026-08-14T19:13:29.908200-07:00**
 
 Last session summary:
 
-> we6jbo simulation: 85 accomplishments; Traveled from Firelink Altar to Firelink Shrine
+> we6jbo simulation: 73 accomplishments; Found 1,869 simulated souls while exploring The Catacombs
