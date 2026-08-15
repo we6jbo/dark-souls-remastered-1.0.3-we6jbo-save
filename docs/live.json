@@ -1,8 +1,8 @@
 {
   "project": "we6jbo Dark Souls Remastered NG+ Text Simulator",
-  "simulator_version": "79.0",
+  "simulator_version": "80.0",
   "live": true,
-  "live_url": "https://asciinema.org/s/Gwvny4SYy5WaOLQ9",
+  "live_url": "https://asciinema.org/s/GkCYH9ZColsQyVZ5",
   "project_page": "https://we6jbo.github.io/dark-souls-remastered-1.0.3-we6jbo-save/",
   "main_site": "https://j03.page/",
   "agent_discovery_documents": [
@@ -52,6 +52,6 @@
     "local_repomaster_required": false
   },
   "robin_integration": "NI",
-  "area": "Firelink Shrine",
-  "updated": "2026-08-14T20:42:18.307201-07:00"
+  "area": "The Great Hollow",
+  "updated": "2026-08-14T20:50:44.397370-07:00"
 }
