@@ -2,7 +2,7 @@
   "project": "we6jbo Dark Souls Remastered NG+ Text Simulator",
   "simulator_version": "83.0",
   "live": true,
-  "live_url": "https://asciinema.org/s/C2JFEmWCsyshYgwH",
+  "live_url": "https://asciinema.org/s/NnMjdCRfZUUtZSMg",
   "project_page": "https://we6jbo.github.io/dark-souls-remastered-1.0.3-we6jbo-save/",
   "main_site": "https://j03.page/",
   "agent_discovery_documents": [
@@ -53,5 +53,5 @@
   },
   "robin_integration": "NI",
   "area": "The Depths",
-  "updated": "2026-08-14T22:16:50.527139-07:00"
+  "updated": "2026-08-15T10:20:34.006472-07:00"
 }

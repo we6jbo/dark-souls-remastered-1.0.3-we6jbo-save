@@ -1,8 +1,8 @@
 # KOSMOS Findings — Local Compatibility Fallback
 
-Simulator version: 73.0
+Simulator version: 83.0
 
-Generated locally: 2026-08-14T05:20:44.703460-07:00
+Generated locally: 2026-08-15T10:30:44.326828-07:00
 
 KOSMOS upstream: https://github.com/jimmc414/Kosmos
 
@@ -32,4 +32,4 @@ warning: The `fitz` API is deprecated and will be removed in future. Use `import
 
 ## Local findings
 
-('gemma2:2b', "## Analysis of the we6jbo Dark Souls Simulator Project\n\nThis analysis focuses on the provided sanitized project material and aims to answer specific research questions related to software reliability, recovery, scheduling, data quality, AI learning, privacy boundaries, caption processing, and measurable experiments. \n\n**Software Reliability & Recovery:**\n\n* **KOSMOS Failure:** The project attempted an Anthropic fallback but failed due to the lack of an API key. This highlights a critical aspect:  Anthropic's API is essential for robust fallback mechanisms in this context.\n* **Local Ollama Scheduler:** The scheduler has potential for testing priority inversion, starvation, timeout, and model-unavailability recovery. However, its effectiveness depends on careful design and implementation to avoid unintended consequences. \n* **Docker & KOSMOS:**  The project uses Docker for sandboxed execution with host-exec fallback refused. This is a")
+('gemma2:2b', '## Analysis of the we6jbo Dark Souls Simulator Project\n\nThis sanitized package provides a detailed overview of the "we6jbo Dark Souls simulator" project. The analysis focuses on key aspects relevant to software reliability, recovery, and AI learning quality. \n\n\n**1. Software Reliability:**\n\n* **Long-Session Reliability:**  The project aims to test long-session reliability by incorporating features like "away-mode/session preservation." This is crucial for understanding how the simulator handles prolonged gameplay and potential failures.\n* **Failure Modes & Recovery:** The research questions focus on testing failure modes in various subsystems, including the AI scheduler, video subsystem, version updater, and peer-state relay.  This includes scenarios like invalid updates, interrupted sync, reboot, stale versions, and peer disagreement. \n* **Sandbox Readiness:** The project utilizes Docker for sandboxed execution with host-exec')
