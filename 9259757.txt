@@ -1,12 +1,12 @@
 Dark Souls Remastered v1.0.3 — we6jbo character archive
 Character: we6jbo
 Level: 259
-Souls: 29803190
+Souls: 29874263
 Covenant: Chaos Servant +2
 Simulation target: NG+ beginning
-Simulator current area: Undead Burg
-Simulator encounters won: 8486
+Simulator current area: The Depths
+Simulator encounters won: 8509
 Simulator deaths: 1
-Simulator last saved: 2026-08-15T11:10:01.900064-07:00
-Last session summary: we6jbo simulation: 631 accomplishments; Found 717 simulated souls while exploring Undead Burg
+Simulator last saved: 2026-08-15T11:14:51.822708-07:00
+Last session summary: we6jbo simulation: 74 accomplishments; Found 2,372 simulated souls while exploring The Depths
 Repository: https://github.com/we6jbo/dark-souls-remastered-1.0.3-we6jbo-save

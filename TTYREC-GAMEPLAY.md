@@ -10,7 +10,7 @@ or third-party map image is automatically committed to this character archive.
 
 ## Current simulator
 
-- Simulator version: **84.0**
+- Simulator version: **85.0**
 - Character: **we6jbo**
 - Source character archive: `we6jbo-character.json`
 - Target cycle: **NG+**
@@ -21,7 +21,7 @@ or third-party map image is automatically committed to this character archive.
 ## Exact archived character build used by the simulator
 
 - Level: **259**
-- Souls at archive load/save: **29,803,190**
+- Souls at archive load/save: **29,874,263**
 - Humanity counter: **0**
 - Covenant: **Chaos Servant +2**
 - Vitality: **50**
@@ -89,8 +89,8 @@ intellectual property remain the property of their respective rights holders.
 
 ## Session status
 
-Last simulator save: **2026-08-15T11:10:01.900064-07:00**
+Last simulator save: **2026-08-15T11:14:51.822708-07:00**
 
 Last session summary:
 
-> we6jbo simulation: 631 accomplishments; Found 717 simulated souls while exploring Undead Burg
+> we6jbo simulation: 74 accomplishments; Found 2,372 simulated souls while exploring The Depths
