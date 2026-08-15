@@ -21,7 +21,7 @@ or third-party map image is automatically committed to this character archive.
 ## Exact archived character build used by the simulator
 
 - Level: **259**
-- Souls at archive load/save: **24,821,922**
+- Souls at archive load/save: **25,192,068**
 - Humanity counter: **0**
 - Covenant: **Chaos Servant +2**
 - Vitality: **50**
@@ -89,8 +89,8 @@ intellectual property remain the property of their respective rights holders.
 
 ## Session status
 
-Last simulator save: **2026-08-14T19:45:20.740175-07:00**
+Last simulator save: **2026-08-14T20:03:18.456449-07:00**
 
 Last session summary:
 
-> we6jbo simulation: 353 accomplishments; Defeated Black knight-like challenger in Tomb of the Giants (+3,500 souls)
+> we6jbo simulation: 478 accomplishments; Thoroughly explored Blighttown
