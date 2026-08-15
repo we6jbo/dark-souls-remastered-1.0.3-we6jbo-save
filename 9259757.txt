@@ -7,6 +7,6 @@ Simulation target: NG+ beginning
 Simulator current area: Sen's Fortress
 Simulator encounters won: 6780
 Simulator deaths: 1
-Simulator last saved: 2026-08-14T19:18:42.982745-07:00
+Simulator last saved: 2026-08-14T19:18:46.502373-07:00
 Last session summary: we6jbo simulation: 82 accomplishments; Traveled from Undead Parish to Sen's Fortress
 Repository: https://github.com/we6jbo/dark-souls-remastered-1.0.3-we6jbo-save

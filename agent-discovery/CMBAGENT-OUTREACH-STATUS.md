@@ -2,7 +2,7 @@
 
 Project: we6jbo Dark Souls Text/Schematic Simulator
 Simulator version when refreshed: 76.0
-Updated: 2026-08-14T19:14:27.011384-07:00
+Updated: 2026-08-14T19:18:44.796723-07:00
 
 ## Persistent CMB-facing material
 
