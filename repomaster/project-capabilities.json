@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "project": "we6jbo Dark Souls Text/Schematic Simulator",
-  "simulator_version": "88.0",
+  "simulator_version": "89.0",
   "purpose": "Human-directed and AI-assisted Dark Souls text/schematic simulation plus software-reliability research.",
   "repository": "https://github.com/we6jbo/dark-souls-remastered-1.0.3-we6jbo-save",
   "public_site": "https://we6jbo.github.io/dark-souls-remastered-1.0.3-we6jbo-save/",
@@ -34,12 +34,12 @@
     "git": "publication state and public URLs",
     "performance": {
       "cpu_count": 8,
-      "load_1m_per_cpu": 1.392,
-      "memory_used_percent": 88.4,
-      "memory_available_gib": 1.77,
-      "ollama_requests": 99,
-      "ollama_successes": 93,
-      "ollama_timeouts": 2
+      "load_1m_per_cpu": 1.266,
+      "memory_used_percent": 76.9,
+      "memory_available_gib": 3.53,
+      "ollama_requests": 3,
+      "ollama_successes": 2,
+      "ollama_timeouts": 0
     }
   },
   "machine_readable": {
