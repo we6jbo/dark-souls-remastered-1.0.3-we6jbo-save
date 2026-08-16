@@ -10,7 +10,7 @@ or third-party map image is automatically committed to this character archive.
 
 ## Current simulator
 
-- Simulator version: **96.0**
+- Simulator version: **98.0**
 - Character: **we6jbo**
 - Source character archive: `we6jbo-character.json`
 - Target cycle: **NG+**
@@ -21,7 +21,7 @@ or third-party map image is automatically committed to this character archive.
 ## Exact archived character build used by the simulator
 
 - Level: **259**
-- Souls at archive load/save: **40,182,471**
+- Souls at archive load/save: **42,924,608**
 - Humanity counter: **0**
 - Covenant: **Chaos Servant +2**
 - Vitality: **50**
@@ -89,8 +89,8 @@ intellectual property remain the property of their respective rights holders.
 
 ## Session status
 
-Last simulator save: **2026-08-16T11:49:40.198290-07:00**
+Last simulator save: **2026-08-16T13:45:00.733590-07:00**
 
 Last session summary:
 
-> we6jbo simulation: 1162 accomplishments; Found 1,283 simulated souls while exploring Demon Ruins
+> we6jbo simulation: 2183 accomplishments; Defeated Hostile knight in Undead Parish (+2,800 souls)
