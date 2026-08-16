@@ -1,10 +1,14 @@
 {
   "project": "we6jbo Dark Souls Remastered NG+ Text Simulator",
-  "simulator_version": "89.0",
+  "simulator_version": "90.0",
   "live": true,
-  "live_url": "https://asciinema.org/s/afZb2HwXLvSK4T1B",
+  "live_url": "https://asciinema.org/s/gYsL9lNB4MKfwruO",
   "project_page": "https://we6jbo.github.io/dark-souls-remastered-1.0.3-we6jbo-save/",
   "main_site": "https://j03.page/",
+  "localchat_documents": {
+    "install_localchat": "https://github.com/we6jbo/dark-souls-remastered-1.0.3-we6jbo-save/blob/main/localchat/install-localchat.md",
+    "ada_for_localtalk": "https://github.com/we6jbo/dark-souls-remastered-1.0.3-we6jbo-save/blob/main/localchat/ada-for-localtalk.md"
+  },
   "agent_discovery_documents": [
     {
       "label": "Agent Materials License",
@@ -52,6 +56,6 @@
     "local_repomaster_required": false
   },
   "robin_integration": "NI",
-  "area": "Quelaag's Domain",
-  "updated": "2026-08-15T14:11:55.813568-07:00"
+  "area": "Darkroot Garden",
+  "updated": "2026-08-15T22:07:12.013961-07:00"
 }
