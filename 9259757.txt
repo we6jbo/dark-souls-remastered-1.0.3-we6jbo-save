@@ -1,12 +1,12 @@
 Dark Souls Remastered v1.0.3 — we6jbo character archive
 Character: we6jbo
 Level: 259
-Souls: 42924608
+Souls: 43166419
 Covenant: Chaos Servant +2
 Simulation target: NG+ beginning
-Simulator current area: Undead Parish
-Simulator encounters won: 12418
+Simulator current area: Blighttown
+Simulator encounters won: 12488
 Simulator deaths: 1
-Simulator last saved: 2026-08-16T13:45:00.733590-07:00
+Simulator last saved: 2026-08-16T13:58:14.257836-07:00
 Last session summary: we6jbo simulation: 2183 accomplishments; Defeated Hostile knight in Undead Parish (+2,800 souls)
 Repository: https://github.com/we6jbo/dark-souls-remastered-1.0.3-we6jbo-save
