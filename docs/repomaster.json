@@ -34,11 +34,11 @@
     "git": "publication state and public URLs",
     "performance": {
       "cpu_count": 8,
-      "load_1m_per_cpu": 1.722,
-      "memory_used_percent": 54.7,
-      "memory_available_gib": 6.93,
-      "ollama_requests": 4,
-      "ollama_successes": 3,
+      "load_1m_per_cpu": 1.656,
+      "memory_used_percent": 73.8,
+      "memory_available_gib": 4.01,
+      "ollama_requests": 14,
+      "ollama_successes": 13,
       "ollama_timeouts": 0
     }
   },
