@@ -1,8 +1,8 @@
 {
   "project": "we6jbo Dark Souls Remastered NG+ Text Simulator",
-  "simulator_version": "96.0",
+  "simulator_version": "98.0",
   "live": true,
-  "live_url": "https://asciinema.org/s/eCfuwpojcG4zHjj5",
+  "live_url": "https://asciinema.org/s/CIhfreCg3uDT0EHr",
   "project_page": "https://we6jbo.github.io/dark-souls-remastered-1.0.3-we6jbo-save/",
   "main_site": "https://j03.page/",
   "localchat_documents": {
@@ -56,6 +56,6 @@
     "local_repomaster_required": false
   },
   "robin_integration": "NI",
-  "area": "Demon Ruins",
-  "updated": "2026-08-16T11:49:40.463269-07:00"
+  "area": "Lower Undead Burg",
+  "updated": "2026-08-16T12:24:24.571292-07:00"
 }
