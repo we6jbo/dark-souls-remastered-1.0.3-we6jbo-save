@@ -21,7 +21,7 @@ or third-party map image is automatically committed to this character archive.
 ## Exact archived character build used by the simulator
 
 - Level: **259**
-- Souls at archive load/save: **36,111,273**
+- Souls at archive load/save: **37,136,999**
 - Humanity counter: **0**
 - Covenant: **Chaos Servant +2**
 - Vitality: **50**
@@ -89,8 +89,8 @@ intellectual property remain the property of their respective rights holders.
 
 ## Session status
 
-Last simulator save: **2026-08-15T22:40:40.466288-07:00**
+Last simulator save: **2026-08-16T00:01:17.410757-07:00**
 
 Last session summary:
 
-> we6jbo simulation: 85 accomplishments; Defeated Demon-like guardian in Ash Lake (+5,000 souls)
+> we6jbo simulation: 785 accomplishments; Defeated Sorcerous ambush in Firelink Shrine (+2,200 souls)
