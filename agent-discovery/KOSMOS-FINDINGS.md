@@ -1,8 +1,8 @@
 # KOSMOS Findings — Local Compatibility Fallback
 
-Simulator version: 83.0
+Simulator version: 92.0
 
-Generated locally: 2026-08-15T10:30:44.326828-07:00
+Generated locally: 2026-08-16T07:02:01.011035-07:00
 
 KOSMOS upstream: https://github.com/jimmc414/Kosmos
 
@@ -32,4 +32,4 @@ warning: The `fitz` API is deprecated and will be removed in future. Use `import
 
 ## Local findings
 
-('gemma2:2b', '## Analysis of the we6jbo Dark Souls Simulator Project\n\nThis sanitized package provides a detailed overview of the "we6jbo Dark Souls simulator" project. The analysis focuses on key aspects relevant to software reliability, recovery, and AI learning quality. \n\n\n**1. Software Reliability:**\n\n* **Long-Session Reliability:**  The project aims to test long-session reliability by incorporating features like "away-mode/session preservation." This is crucial for understanding how the simulator handles prolonged gameplay and potential failures.\n* **Failure Modes & Recovery:** The research questions focus on testing failure modes in various subsystems, including the AI scheduler, video subsystem, version updater, and peer-state relay.  This includes scenarios like invalid updates, interrupted sync, reboot, stale versions, and peer disagreement. \n* **Sandbox Readiness:** The project utilizes Docker for sandboxed execution with host-exec')
+('gemma2:2b', '## Analysis of the we6jbo Dark Souls Simulator Project\n\nThis sanitized package provides a detailed overview of the "we6jbo Dark Souls 1 / Dark Souls Remastered text and schematic simulator" project. Let\'s break down its key aspects for analysis:\n\n**Software Reliability, Recovery, and Scheduling:**\n\n* **Local Ollama Reasoning:**  The project utilizes local Ollama reasoning with higher/lower priority scheduling. This suggests a focus on efficient resource utilization and potential for handling complex tasks in the background.\n* **Priority Inversion & Starvation Testing:** The "Ollama scheduler" research goal aims to test these scenarios, crucial for understanding how the system handles competing requests and potential failures. \n* **Docker and KOSMOS Sandbox:**  The project utilizes Docker for sandboxed execution with host-exec fallback refused. This ensures controlled environments for testing and prevents unintended side effects on the')
