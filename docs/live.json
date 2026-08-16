@@ -2,7 +2,7 @@
   "project": "we6jbo Dark Souls Remastered NG+ Text Simulator",
   "simulator_version": "96.0",
   "live": true,
-  "live_url": "https://asciinema.org/s/JHPbllSiUmCBg4G2",
+  "live_url": "https://asciinema.org/s/eCfuwpojcG4zHjj5",
   "project_page": "https://we6jbo.github.io/dark-souls-remastered-1.0.3-we6jbo-save/",
   "main_site": "https://j03.page/",
   "localchat_documents": {
@@ -56,6 +56,6 @@
     "local_repomaster_required": false
   },
   "robin_integration": "NI",
-  "area": "Firelink Shrine",
-  "updated": "2026-08-16T11:05:16.089055-07:00"
+  "area": "Undead Burg",
+  "updated": "2026-08-16T11:39:14.184161-07:00"
 }
