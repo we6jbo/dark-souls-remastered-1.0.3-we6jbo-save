@@ -1,12 +1,12 @@
 Dark Souls Remastered v1.0.3 — we6jbo character archive
 Character: we6jbo
 Level: 259
-Souls: 37253139
+Souls: 37619474
 Covenant: Chaos Servant +2
 Simulation target: NG+ beginning
-Simulator current area: Anor Londo
-Simulator encounters won: 10709
+Simulator current area: Ash Lake
+Simulator encounters won: 10820
 Simulator deaths: 1
-Simulator last saved: 2026-08-16T06:55:54.858178-07:00
+Simulator last saved: 2026-08-16T08:21:08.675167-07:00
 Last session summary: we6jbo simulation: 785 accomplishments; Defeated Sorcerous ambush in Firelink Shrine (+2,200 souls)
 Repository: https://github.com/we6jbo/dark-souls-remastered-1.0.3-we6jbo-save
