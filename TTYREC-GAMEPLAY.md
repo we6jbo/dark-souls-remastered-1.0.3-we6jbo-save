@@ -21,7 +21,7 @@ or third-party map image is automatically committed to this character archive.
 ## Exact archived character build used by the simulator
 
 - Level: **259**
-- Souls at archive load/save: **37,136,999**
+- Souls at archive load/save: **37,253,139**
 - Humanity counter: **0**
 - Covenant: **Chaos Servant +2**
 - Vitality: **50**
@@ -89,7 +89,7 @@ intellectual property remain the property of their respective rights holders.
 
 ## Session status
 
-Last simulator save: **2026-08-16T00:01:17.410757-07:00**
+Last simulator save: **2026-08-16T06:55:54.858178-07:00**
 
 Last session summary:
 
