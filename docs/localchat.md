@@ -188,3 +188,9 @@ Both should be readable only by the owning user.
 ## Related Dark Souls project
 
 https://we6jbo.github.io/dark-souls-remastered-1.0.3-we6jbo-save/
+
+## Project Website
+
+You can also view the related Dark Souls Remastered project website here:
+
+https://we6jbo.github.io/dark-souls-remastered-1.0.3-we6jbo-save/
