@@ -2,7 +2,7 @@
   "project": "we6jbo Dark Souls Remastered NG+ Text Simulator",
   "simulator_version": "92.0",
   "live": true,
-  "live_url": "https://asciinema.org/s/WzMVo2Bat0lt8CjN",
+  "live_url": "https://asciinema.org/s/Qkle9oo5ZrLTkDqH",
   "project_page": "https://we6jbo.github.io/dark-souls-remastered-1.0.3-we6jbo-save/",
   "main_site": "https://j03.page/",
   "localchat_documents": {
@@ -56,6 +56,6 @@
     "local_repomaster_required": false
   },
   "robin_integration": "NI",
-  "area": "Ash Lake",
-  "updated": "2026-08-16T08:21:09.191431-07:00"
+  "area": "The Great Hollow",
+  "updated": "2026-08-16T10:05:17.672665-07:00"
 }
