@@ -1,0 +1,6 @@
+{
+  "_comment": "DO NOT COMMIT REAL CREDENTIALS. On Jeremiah's systems the real credential file is kept privately at ~/.actualcredsfile. Copy that private file to ~/.w3Whw/account-info.json when installing, or fill in these placeholders locally.",
+  "nickserv_email": "",
+  "nickserv_password": "",
+  "undernet_password": ""
+}

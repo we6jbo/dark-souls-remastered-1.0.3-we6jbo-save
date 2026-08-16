@@ -1,0 +1,112 @@
+{
+  "client": "greyircclient",
+  "nickname": "we6jboIRC",
+  "message_command": "/msg #target message",
+  "networks": {
+    "EsperNet": {
+      "server": {
+        "host": "irc.esper.net",
+        "port": 6697,
+        "tls": true
+      },
+      "nickserv_detected": true,
+      "nickserv_register_help": [
+        "This nickname is registered. Please choose a different nickname, or identify via \u0002/msg NickServ identify <password>\u0002.",
+        "Help for \u0002REGISTER\u0002:",
+        "This will register your current nickname with NickServ.",
+        "Syntax: REGISTER <password> <email-address>",
+        "    /msg NickServ REGISTER bar foo@bar.com"
+      ],
+      "nickserv_identify_help": [
+        "This nickname is registered. Please choose a different nickname, or identify via \u0002/msg NickServ identify <password>\u0002.",
+        "identifying and allow you to kill ghosts.",
+        "Help for \u0002IDENTIFY\u0002:",
+        "IDENTIFY identifies you with services so that you",
+        "Syntax: IDENTIFY <password>",
+        "You can also identify for another nick than you",
+        "Syntax: IDENTIFY <nick> <password>",
+        "    /msg NickServ IDENTIFY foo",
+        "    /msg NickServ IDENTIFY jilles foo"
+      ],
+      "register_command": "/msg NickServ REGISTER bar foo@bar.com",
+      "identify_command": "/msg NickServ IDENTIFY jilles foo",
+      "successful_channels": [],
+      "ban_events": [],
+      "kick_events": [],
+      "message_command": "/msg #target message",
+      "nickserv_target": "NickServ",
+      "identify_command_used": "/msg NickServ IDENTIFY <password>",
+      "authenticated": true,
+      "authenticated_time": "2026-08-16T04:27:37.219836+00:00",
+      "channel_tests": [
+        {
+          "time": "2026-08-16T04:29:44.998399+00:00",
+          "channel": "#factorio",
+          "listed_users": 88,
+          "joined": true,
+          "observed_seconds": 120,
+          "human_looking_messages": 0,
+          "qualified": false,
+          "remark": "Human activity starts [Start talking]; two minutes without human activity rotates to the next channel."
+        },
+        {
+          "time": "2026-08-16T04:31:56.667796+00:00",
+          "channel": "#computercraft",
+          "listed_users": 49,
+          "joined": true,
+          "observed_seconds": 120,
+          "human_looking_messages": 0,
+          "qualified": false,
+          "remark": "Human activity starts [Start talking]; two minutes without human activity rotates to the next channel."
+        },
+        {
+          "time": "2026-08-16T04:34:08.383431+00:00",
+          "channel": "#bukkit",
+          "listed_users": 30,
+          "joined": true,
+          "observed_seconds": 120,
+          "human_looking_messages": 0,
+          "qualified": false,
+          "remark": "Human activity starts [Start talking]; two minutes without human activity rotates to the next channel."
+        }
+      ]
+    }
+  },
+  "events": [
+    {
+      "time": "2026-08-16T04:27:36.408112+00:00",
+      "type": "nickserv_attention",
+      "network": "EsperNet",
+      "message": "This nickname is registered. Please choose a different nickname, or identify via \u0002/msg NickServ identify <password>\u0002."
+    },
+    {
+      "time": "2026-08-16T04:27:37.159677+00:00",
+      "type": "outgoing_message_queued",
+      "characters": 5
+    },
+    {
+      "time": "2026-08-16T04:29:44.993517+00:00",
+      "type": "channel_inactive",
+      "network": "EsperNet",
+      "channel": "#factorio",
+      "human_messages": 0,
+      "observed_seconds": 120
+    },
+    {
+      "time": "2026-08-16T04:31:56.662692+00:00",
+      "type": "channel_inactive",
+      "network": "EsperNet",
+      "channel": "#computercraft",
+      "human_messages": 0,
+      "observed_seconds": 120
+    },
+    {
+      "time": "2026-08-16T04:34:08.375016+00:00",
+      "type": "channel_inactive",
+      "network": "EsperNet",
+      "channel": "#bukkit",
+      "human_messages": 0,
+      "observed_seconds": 120
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "client": "localchat",
+  "last_updated": "2026-08-16T04:35:30.894234+00:00",
+  "running": true,
+  "control_host": "127.0.0.1",
+  "control_port": 32512,
+  "bbs_connected": false,
+  "irc_connected": true,
+  "network": "EsperNet",
+  "channel": "#AppliedEnergistics",
+  "status": "[Stop talking]",
+  "user_suspended": false,
+  "last_irc_activity": "2026-08-16T04:34:18.821381+00:00",
+  "last_human_message": null,
+  "last_outgoing_message": "2026-08-16T04:27:37.163451+00:00",
+  "last_error": null,
+  "authenticated": true,
+  "irc_registered": true
+}

@@ -1,0 +1,1224 @@
+{
+  "client": "localchat",
+  "started": "2026-08-16T04:27:29.664725+00:00",
+  "last_updated": "2026-08-16T04:35:30.894234+00:00",
+  "current_state": {
+    "running": true,
+    "control_host": "127.0.0.1",
+    "control_port": 32512,
+    "bbs_connected": false,
+    "irc_connected": true,
+    "network": "EsperNet",
+    "channel": "#AppliedEnergistics",
+    "status": "[Stop talking]",
+    "user_suspended": false,
+    "last_irc_activity": "2026-08-16T04:34:18.821381+00:00",
+    "last_human_message": null,
+    "last_outgoing_message": "2026-08-16T04:27:37.163451+00:00",
+    "last_error": null,
+    "authenticated": true,
+    "irc_registered": true
+  },
+  "events": [
+    {
+      "type": "bbs_connected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:34:39.032730+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_disconnected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:34:39.042734+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_connected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:34:39.053442+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_disconnected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:34:39.065225+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_connected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:34:40.066712+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_connected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:34:40.086401+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_disconnected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:34:40.102342+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_disconnected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:34:40.122859+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_connected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:34:41.107039+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_disconnected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:34:41.118972+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_connected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:34:41.133396+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_disconnected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:34:41.145436+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_connected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:34:42.147385+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_disconnected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:34:42.161251+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_connected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:34:42.177444+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_disconnected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:34:42.194450+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_connected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:34:43.219198+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_disconnected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:34:43.247632+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_connected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:34:43.273355+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_disconnected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:34:43.297046+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_connected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:34:44.296039+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_disconnected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:34:44.314885+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_connected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:34:44.334395+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_disconnected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:34:44.356669+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_connected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:34:45.355442+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_disconnected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:34:45.372282+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_connected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:34:45.389019+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_disconnected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:34:45.405389+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_connected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:34:46.404066+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_disconnected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:34:46.415903+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_connected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:34:46.428189+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_disconnected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:34:46.443377+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_connected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:34:47.443402+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_disconnected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:34:47.456209+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_connected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:34:47.469879+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_disconnected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:34:47.486381+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_connected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:34:48.482633+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_disconnected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:34:48.492181+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_connected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:34:48.501463+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_disconnected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:34:48.511264+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_connected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:34:49.513061+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_disconnected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:34:49.528001+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_connected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:34:49.538624+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_disconnected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:34:49.549737+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_connected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:34:50.552881+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_connected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:34:50.568792+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_disconnected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:34:50.586156+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_disconnected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:34:50.604772+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_connected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:34:51.591337+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_disconnected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:34:51.605204+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_connected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:34:51.619700+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_disconnected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:34:51.634583+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_connected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:34:52.638119+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_disconnected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:34:52.659322+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_connected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:34:52.674270+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_disconnected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:34:52.694550+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_connected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:34:53.694772+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_disconnected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:34:53.721374+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_connected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:34:53.749024+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_disconnected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:34:53.774886+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_connected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:34:54.771178+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_connected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:34:54.785407+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_disconnected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:34:54.804707+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_disconnected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:34:54.824319+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_connected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:34:55.832024+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_disconnected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:34:55.935570+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_connected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:34:56.014293+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_disconnected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:34:56.056565+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_connected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:34:57.044099+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_disconnected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:34:57.064473+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_connected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:34:57.085177+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_disconnected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:34:57.112127+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_connected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:34:58.112710+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_disconnected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:34:58.130480+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_connected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:34:58.144256+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_disconnected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:34:58.163292+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_connected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:34:59.161546+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_disconnected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:34:59.176594+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_connected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:34:59.195118+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_disconnected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:34:59.215041+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_connected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:00.211353+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_disconnected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:00.225116+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_connected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:00.238617+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_disconnected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:00.251633+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_connected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:01.249924+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_disconnected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:01.260261+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_connected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:01.271858+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_disconnected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:01.282879+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_connected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:02.282096+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_disconnected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:02.292168+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_connected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:02.303860+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_disconnected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:02.317891+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_connected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:03.316436+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_disconnected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:03.325321+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_connected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:03.336733+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_disconnected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:03.349722+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_connected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:04.347805+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_disconnected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:04.356067+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_connected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:04.363624+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_disconnected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:04.371782+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_connected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:05.372085+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_disconnected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:05.380597+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_connected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:05.387863+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_disconnected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:05.394958+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_connected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:06.400707+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_disconnected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:06.420944+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_connected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:06.437990+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_disconnected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:06.473939+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_connected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:07.462994+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_disconnected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:07.487002+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_connected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:07.511863+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_disconnected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:07.536331+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_connected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:08.567958+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_disconnected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:08.656643+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_connected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:08.679505+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_disconnected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:08.715260+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_connected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:09.706535+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_connected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:09.721673+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_disconnected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:09.741411+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_disconnected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:09.759135+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_connected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:10.745571+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_disconnected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:10.762984+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_connected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:10.781774+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_disconnected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:10.800106+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_connected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:11.802371+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_disconnected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:11.814166+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_connected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:11.829511+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_disconnected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:11.843289+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_connected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:12.842176+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_disconnected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:12.853071+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_connected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:12.865717+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_disconnected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:12.879915+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_connected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:13.879165+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_disconnected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:13.893639+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_connected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:13.909664+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_disconnected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:13.925089+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_connected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:14.927069+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_disconnected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:14.943020+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_connected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:14.958512+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_disconnected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:14.970330+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_connected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:15.970973+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_disconnected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:15.982601+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_connected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:15.996748+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_disconnected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:16.008514+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_connected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:17.009020+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_disconnected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:17.023866+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_connected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:17.041424+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_disconnected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:17.060584+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_connected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:18.101069+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_connected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:18.127019+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_disconnected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:18.146503+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_disconnected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:18.168646+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_connected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:19.170886+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_disconnected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:19.194839+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_connected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:19.224042+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_disconnected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:19.247088+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_connected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:20.253383+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_disconnected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:20.279449+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_connected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:20.301982+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_disconnected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:20.326086+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_connected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:21.322030+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_disconnected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:21.345300+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_connected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:21.365108+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_disconnected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:21.385666+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_connected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:22.383531+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_disconnected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:22.400052+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_connected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:22.416814+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_disconnected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:22.436725+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_connected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:23.439013+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_disconnected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:23.467512+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_connected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:23.479853+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_disconnected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:23.498642+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_connected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:24.500129+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_connected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:24.519374+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_disconnected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:24.538486+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_disconnected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:24.555433+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_connected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:25.551079+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_disconnected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:25.600140+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_connected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:25.625494+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_disconnected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:25.669006+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_connected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:26.651071+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_disconnected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:26.670314+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_connected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:26.687665+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_disconnected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:26.704011+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_connected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:27.706439+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_connected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:27.726396+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_disconnected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:27.745741+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_disconnected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:27.764697+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_connected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:28.742562+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_disconnected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:28.762091+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_connected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:28.775059+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_disconnected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:28.791509+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_connected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:29.793710+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_connected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:29.812429+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_disconnected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:29.838470+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_disconnected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:29.857972+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_connected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:30.841644+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_disconnected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:30.862246+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_connected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:30.878328+00:00",
+      "severity": "info"
+    },
+    {
+      "type": "bbs_disconnected",
+      "peer": "127.0.0.1",
+      "time": "2026-08-16T04:35:30.894070+00:00",
+      "severity": "info"
+    }
+  ]
+}

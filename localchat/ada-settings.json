@@ -1,0 +1,24 @@
+{
+  "enabled": true,
+  "status_only_gui": true,
+  "human_activity_timeout_seconds": 120,
+  "join_delay_seconds": [
+    5.0,
+    7.0
+  ],
+  "part_delay_seconds": [
+    5.0,
+    7.0
+  ],
+  "send_delay_seconds_per_character": [
+    2.3,
+    2.7
+  ],
+  "localtalk_max_messages": 11,
+  "user_presence_response_seconds": 120,
+  "user_presence_recheck_seconds": [
+    300,
+    600
+  ],
+  "plugin_directory": "/home/we6jbo/Darksouls-game/KVS6/ada"
+}
