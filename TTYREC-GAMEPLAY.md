@@ -10,7 +10,7 @@ or third-party map image is automatically committed to this character archive.
 
 ## Current simulator
 
-- Simulator version: **101.0**
+- Simulator version: **102.0**
 - Character: **we6jbo**
 - Source character archive: `we6jbo-character.json`
 - Target cycle: **NG+**
@@ -21,7 +21,7 @@ or third-party map image is automatically committed to this character archive.
 ## Exact archived character build used by the simulator
 
 - Level: **259**
-- Souls at archive load/save: **52,474,719**
+- Souls at archive load/save: **52,517,784**
 - Humanity counter: **0**
 - Covenant: **Chaos Servant +2**
 - Vitality: **50**
@@ -89,8 +89,8 @@ intellectual property remain the property of their respective rights holders.
 
 ## Session status
 
-Last simulator save: **2026-08-16T19:59:38.210667-07:00**
+Last simulator save: **2026-08-16T20:04:03.748522-07:00**
 
 Last session summary:
 
-> we6jbo simulation: 643 accomplishments; Thoroughly explored Anor Londo
+> we6jbo simulation: 37 accomplishments; Defeated Armored hollow in Duke's Archives (+1,400 souls)
