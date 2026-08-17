@@ -7,7 +7,7 @@
   "covenant": "Chaos Servant",
   "covenant_rank": "+2",
   "level": 259,
-  "souls": 54369471,
+  "souls": 54462094,
   "humanity_counter": 0,
   "attributes": {
     "Vitality": 50,
@@ -2523,11 +2523,11 @@
     "schema_version": 1,
     "cycle": "NG++",
     "start_policy": "Beginning of NG+",
-    "current_area": "Duke's Archives",
+    "current_area": "Firelink Shrine",
     "checkpoint_area": "Blighttown",
-    "sim_hp": 840,
+    "sim_hp": 880,
     "sim_max_hp": 1500,
-    "sim_estus": 1,
+    "sim_estus": 0,
     "sim_humanity_state": "Hollow",
     "areas_visited": [
       "Northern Undead Asylum",
@@ -2557,12 +2557,12 @@
       "Firelink Altar",
       "Kiln of the First Flame"
     ],
-    "encounters_won": 15804,
+    "encounters_won": 15835,
     "deaths": 1,
-    "souls_earned_in_simulator": 53971171,
+    "souls_earned_in_simulator": 54063794,
     "notes": [],
-    "last_session_summary": "Saved we6jbo simulator state at Duke's Archives",
-    "last_saved_local": "2026-08-16T22:13:42.632112-07:00",
+    "last_session_summary": "we6jbo simulation: 83 accomplishments; Found 1,816 simulated souls while exploring Firelink Shrine",
+    "last_saved_local": "2026-08-16T22:18:59.728088-07:00",
     "progress_flags": {
       "bell_of_awakening_quelaag": true,
       "bell_of_awakening_parish": true,
@@ -2620,8 +2620,8 @@
         "updated_local": "2026-08-14T04:43:05.044130-07:00"
       }
     },
-    "live_stream_url": "https://asciinema.org/s/gYrLpByb0lI3jo6j",
-    "live_stream_started_local": "2026-08-16T22:12:26.861211-07:00",
+    "live_stream_url": "https://asciinema.org/s/Aag6iA1D64Z5CZ4A",
+    "live_stream_started_local": "2026-08-16T22:13:54.881750-07:00",
     "session_history": [
       {
         "saved_local": "2026-08-08T20:04:21.512517-07:00",
@@ -9110,47 +9110,11 @@
         "summary": "we6jbo simulation: 521 accomplishments; Defeated Demon-like guardian in Blighttown (+5,000 souls)"
       }
     ],
-    "restart_requested_local": "2026-08-16T22:13:42.632054-07:00",
+    "restart_requested_local": "2026-08-16T22:18:59.728024-07:00",
     "ng_plus_cycle_complete": true,
     "completed_cycle": "NG++",
     "completion_local": "2026-08-09T16:47:06.231366-07:00",
     "inventory_log": [
-      {
-        "time": "2026-08-16T19:35:41.143736-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-16T19:36:14.242738-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-16T19:36:29.703498-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-16T19:36:31.789816-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-16T19:37:12.977923-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-16T19:38:18.969924-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-16T19:38:52.534708-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-16T19:39:05.045939-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-16T19:39:37.181399-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
       {
         "time": "2026-08-16T19:39:53.258100-07:00",
         "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
@@ -10113,6 +10077,42 @@
       },
       {
         "time": "2026-08-16T21:39:38.778839-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-16T22:15:59.311491-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-16T22:16:56.196185-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-16T22:17:08.202061-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-16T22:17:11.974702-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-16T22:17:50.172842-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-16T22:17:58.244763-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-16T22:18:16.071652-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-16T22:18:19.965092-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-16T22:18:25.942625-07:00",
         "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
       }
     ],

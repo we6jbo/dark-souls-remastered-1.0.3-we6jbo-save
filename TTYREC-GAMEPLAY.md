@@ -10,7 +10,7 @@ or third-party map image is automatically committed to this character archive.
 
 ## Current simulator
 
-- Simulator version: **112.0**
+- Simulator version: **113.0**
 - Character: **we6jbo**
 - Source character archive: `we6jbo-character.json`
 - Target cycle: **NG+**
@@ -21,7 +21,7 @@ or third-party map image is automatically committed to this character archive.
 ## Exact archived character build used by the simulator
 
 - Level: **259**
-- Souls at archive load/save: **54,369,471**
+- Souls at archive load/save: **54,462,094**
 - Humanity counter: **0**
 - Covenant: **Chaos Servant +2**
 - Vitality: **50**
@@ -89,8 +89,8 @@ intellectual property remain the property of their respective rights holders.
 
 ## Session status
 
-Last simulator save: **2026-08-16T22:13:42.632112-07:00**
+Last simulator save: **2026-08-16T22:18:59.728088-07:00**
 
 Last session summary:
 
-> Saved we6jbo simulator state at Duke's Archives
+> we6jbo simulation: 83 accomplishments; Found 1,816 simulated souls while exploring Firelink Shrine
