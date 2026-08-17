@@ -1,12 +1,12 @@
 Dark Souls Remastered v1.0.3 — we6jbo character archive
 Character: we6jbo
 Level: 259
-Souls: 51676530
+Souls: 52474719
 Covenant: Chaos Servant +2
 Simulation target: NG+ beginning
-Simulator current area: Darkroot Garden
-Simulator encounters won: 15004
+Simulator current area: Anor Londo
+Simulator encounters won: 15245
 Simulator deaths: 1
-Simulator last saved: 2026-08-16T19:25:57.349675-07:00
-Last session summary: we6jbo simulation: 122 accomplishments; Defeated Black knight-like challenger in Darkroot Garden (+3,500 souls)
+Simulator last saved: 2026-08-16T19:59:38.210667-07:00
+Last session summary: we6jbo simulation: 643 accomplishments; Thoroughly explored Anor Londo
 Repository: https://github.com/we6jbo/dark-souls-remastered-1.0.3-we6jbo-save
