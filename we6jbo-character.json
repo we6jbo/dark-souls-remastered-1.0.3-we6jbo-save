@@ -7,7 +7,7 @@
   "covenant": "Chaos Servant",
   "covenant_rank": "+2",
   "level": 259,
-  "souls": 54663255,
+  "souls": 54688355,
   "humanity_counter": 0,
   "attributes": {
     "Vitality": 50,
@@ -2525,9 +2525,9 @@
     "start_policy": "Beginning of NG+",
     "current_area": "Firelink Shrine",
     "checkpoint_area": "The Depths",
-    "sim_hp": 685,
+    "sim_hp": 1035,
     "sim_max_hp": 1500,
-    "sim_estus": 13,
+    "sim_estus": 12,
     "sim_humanity_state": "Hollow",
     "areas_visited": [
       "Northern Undead Asylum",
@@ -2557,12 +2557,12 @@
       "Firelink Altar",
       "Kiln of the First Flame"
     ],
-    "encounters_won": 15893,
+    "encounters_won": 15902,
     "deaths": 1,
-    "souls_earned_in_simulator": 54264955,
+    "souls_earned_in_simulator": 54290055,
     "notes": [],
-    "last_session_summary": "we6jbo simulation: 180 accomplishments; Defeated Sorcerous ambush in Firelink Shrine (+2,200 souls)",
-    "last_saved_local": "2026-08-16T22:41:43.945590-07:00",
+    "last_session_summary": "we6jbo simulation: 12 accomplishments; Defeated Hollow patrol in Firelink Shrine (+900 souls)",
+    "last_saved_local": "2026-08-16T22:44:05.956078-07:00",
     "progress_flags": {
       "bell_of_awakening_quelaag": true,
       "bell_of_awakening_parish": true,
@@ -2620,8 +2620,8 @@
         "updated_local": "2026-08-14T04:43:05.044130-07:00"
       }
     },
-    "live_stream_url": "https://asciinema.org/s/T8GyWsbvzNilCueG",
-    "live_stream_started_local": "2026-08-16T22:33:10.637156-07:00",
+    "live_stream_url": "https://asciinema.org/s/BPVkLXpGFE3Cg64C",
+    "live_stream_started_local": "2026-08-16T22:41:58.625892-07:00",
     "session_history": [
       {
         "saved_local": "2026-08-08T20:04:21.512517-07:00",
@@ -9115,15 +9115,11 @@
         "summary": "Saved we6jbo simulator state at Firelink Shrine"
       }
     ],
-    "restart_requested_local": "2026-08-16T22:41:43.945534-07:00",
+    "restart_requested_local": "2026-08-16T22:44:05.956016-07:00",
     "ng_plus_cycle_complete": true,
     "completed_cycle": "NG++",
     "completion_local": "2026-08-09T16:47:06.231366-07:00",
     "inventory_log": [
-      {
-        "time": "2026-08-16T19:48:30.228215-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
       {
         "time": "2026-08-16T19:48:32.098619-07:00",
         "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
@@ -10118,6 +10114,10 @@
       },
       {
         "time": "2026-08-16T22:41:26.697569-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-16T22:43:58.157423-07:00",
         "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
       }
     ],
