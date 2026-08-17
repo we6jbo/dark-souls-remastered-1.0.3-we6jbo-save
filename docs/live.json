@@ -1,8 +1,8 @@
 {
   "project": "we6jbo Dark Souls Remastered NG+ Text Simulator",
-  "simulator_version": "106.0",
+  "simulator_version": "107.0",
   "live": true,
-  "live_url": "https://asciinema.org/s/5cv0xl8Fg5VGKr9d",
+  "live_url": "https://asciinema.org/s/CNuxozUkjR6o08o1",
   "project_page": "https://we6jbo.github.io/dark-souls-remastered-1.0.3-we6jbo-save/",
   "main_site": "https://j03.page/",
   "localchat_documents": {
@@ -56,6 +56,6 @@
     "local_repomaster_required": false
   },
   "robin_integration": "NI",
-  "area": "The Great Hollow",
-  "updated": "2026-08-16T20:37:30.640392-07:00"
+  "area": "Darkroot Garden",
+  "updated": "2026-08-16T20:50:38.349084-07:00"
 }

@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://we6jbo.github.io/dark-souls-remastered-1.0.3-we6jbo-save/</loc></url>
+  <url><loc>https://we6jbo.github.io/dark-souls-remastered-1.0.3-we6jbo-save/ai-digital.html</loc></url>
+  <url><loc>https://we6jbo.github.io/dark-souls-remastered-1.0.3-we6jbo-save/ai-digital.json</loc></url>
+  <url><loc>https://we6jbo.github.io/dark-souls-remastered-1.0.3-we6jbo-save/knowledge-feed.json</loc></url>
+  <url><loc>https://we6jbo.github.io/dark-souls-remastered-1.0.3-we6jbo-save/discovery.json</loc></url>
+  <url><loc>https://we6jbo.github.io/dark-souls-remastered-1.0.3-we6jbo-save/live.json</loc></url>
+  <url><loc>https://we6jbo.github.io/dark-souls-remastered-1.0.3-we6jbo-save/llms.txt</loc></url>
 </urlset>
