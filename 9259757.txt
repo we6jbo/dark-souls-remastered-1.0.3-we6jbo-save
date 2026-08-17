@@ -1,12 +1,12 @@
 Dark Souls Remastered v1.0.3 — we6jbo character archive
 Character: we6jbo
 Level: 259
-Souls: 52517784
+Souls: 52815031
 Covenant: Chaos Servant +2
 Simulation target: NG+ beginning
-Simulator current area: Duke's Archives
-Simulator encounters won: 15258
+Simulator current area: Quelaag's Domain
+Simulator encounters won: 15345
 Simulator deaths: 1
-Simulator last saved: 2026-08-16T20:04:03.748522-07:00
-Last session summary: we6jbo simulation: 37 accomplishments; Defeated Armored hollow in Duke's Archives (+1,400 souls)
+Simulator last saved: 2026-08-16T20:14:46.560479-07:00
+Last session summary: we6jbo simulation: 212 accomplishments; Defeated Hollow patrol in Quelaag's Domain (+900 souls)
 Repository: https://github.com/we6jbo/dark-souls-remastered-1.0.3-we6jbo-save
