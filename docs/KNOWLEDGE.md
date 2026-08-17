@@ -1,6 +1,6 @@
 # Simulator Knowledge
 
-Updated: 2026-08-16T22:13:54.801721-07:00
+Updated: 2026-08-16T22:19:14.950564-07:00
 
 Knowledge is the shared reference layer introduced by v99. It retains useful information from Credentials, CMB Agent, KOSMOS, Kosmos/ChatGPT, RepoMaster, and Robin NI after their temporary active workflows are retired. GUI code can retrieve entries with knowledge_get(name).
 
