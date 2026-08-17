@@ -1,9 +1,9 @@
 # Kosmos discovery brief
 
 Project: we6jbo Dark Souls Text/Schematic Simulator
-Current simulator version: 106.0
+Current simulator version: 107.0
 Published by: Jeremiah O'Neal
-Generated/updated: 2026-08-16T20:21:14.375788-07:00
+Generated/updated: 2026-08-16T20:37:58.985870-07:00
 
 ## Invitation
 
