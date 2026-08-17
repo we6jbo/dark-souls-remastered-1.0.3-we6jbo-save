@@ -2561,8 +2561,8 @@
     "deaths": 1,
     "souls_earned_in_simulator": 54290055,
     "notes": [],
-    "last_session_summary": "we6jbo simulation: 12 accomplishments; Defeated Hollow patrol in Firelink Shrine (+900 souls)",
-    "last_saved_local": "2026-08-16T22:44:05.956078-07:00",
+    "last_session_summary": "Saved we6jbo simulator state at Firelink Shrine",
+    "last_saved_local": "2026-08-16T22:45:41.877664-07:00",
     "progress_flags": {
       "bell_of_awakening_quelaag": true,
       "bell_of_awakening_parish": true,
@@ -2620,8 +2620,8 @@
         "updated_local": "2026-08-14T04:43:05.044130-07:00"
       }
     },
-    "live_stream_url": "https://asciinema.org/s/BPVkLXpGFE3Cg64C",
-    "live_stream_started_local": "2026-08-16T22:41:58.625892-07:00",
+    "live_stream_url": "https://asciinema.org/s/9N8afHpFVu1JXWtC",
+    "live_stream_started_local": "2026-08-16T22:44:30.119251-07:00",
     "session_history": [
       {
         "saved_local": "2026-08-08T20:04:21.512517-07:00",
@@ -9111,6 +9111,11 @@
       },
       {
         "saved_local": "2026-08-16T22:20:21.484497-07:00",
+        "events": [],
+        "summary": "Saved we6jbo simulator state at Firelink Shrine"
+      },
+      {
+        "saved_local": "2026-08-16T22:45:41.877620-07:00",
         "events": [],
         "summary": "Saved we6jbo simulator state at Firelink Shrine"
       }

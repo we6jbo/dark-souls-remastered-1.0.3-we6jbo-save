@@ -10,7 +10,7 @@ or third-party map image is automatically committed to this character archive.
 
 ## Current simulator
 
-- Simulator version: **115.0**
+- Simulator version: **116.0**
 - Character: **we6jbo**
 - Source character archive: `we6jbo-character.json`
 - Target cycle: **NG+**
@@ -89,8 +89,8 @@ intellectual property remain the property of their respective rights holders.
 
 ## Session status
 
-Last simulator save: **2026-08-16T22:44:05.956078-07:00**
+Last simulator save: **2026-08-16T22:45:41.877664-07:00**
 
 Last session summary:
 
-> we6jbo simulation: 12 accomplishments; Defeated Hollow patrol in Firelink Shrine (+900 souls)
+> Saved we6jbo simulator state at Firelink Shrine
