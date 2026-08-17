@@ -1,6 +1,6 @@
 # Credentials to Knowledge Transition
 
-Updated: 2026-08-16T21:23:51.088387-07:00
+Updated: 2026-08-16T21:39:54.860179-07:00
 
 The temporary Credentials/research workflow was allowed to run through the Aug 16 transition window. Any remaining limitation is preserved as knowledge rather than allowed to block the rest of the simulator. The active Credentials tab and its research scheduler are retired at the transition cutoff. The useful results remain available through the simulator Knowledge tab.
 
