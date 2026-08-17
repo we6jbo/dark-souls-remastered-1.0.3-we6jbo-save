@@ -2561,8 +2561,8 @@
     "deaths": 1,
     "souls_earned_in_simulator": 54063794,
     "notes": [],
-    "last_session_summary": "we6jbo simulation: 83 accomplishments; Found 1,816 simulated souls while exploring Firelink Shrine",
-    "last_saved_local": "2026-08-16T22:18:59.728088-07:00",
+    "last_session_summary": "Saved we6jbo simulator state at Firelink Shrine",
+    "last_saved_local": "2026-08-16T22:20:21.484561-07:00",
     "progress_flags": {
       "bell_of_awakening_quelaag": true,
       "bell_of_awakening_parish": true,
@@ -2620,8 +2620,8 @@
         "updated_local": "2026-08-14T04:43:05.044130-07:00"
       }
     },
-    "live_stream_url": "https://asciinema.org/s/Aag6iA1D64Z5CZ4A",
-    "live_stream_started_local": "2026-08-16T22:13:54.881750-07:00",
+    "live_stream_url": "https://asciinema.org/s/6g4LWeTOJvtNxAyC",
+    "live_stream_started_local": "2026-08-16T22:19:15.088211-07:00",
     "session_history": [
       {
         "saved_local": "2026-08-08T20:04:21.512517-07:00",
@@ -9108,6 +9108,11 @@
           "2026-08-16 16:56:33: Defeated Demon-like guardian in Blighttown (+5,000 souls)"
         ],
         "summary": "we6jbo simulation: 521 accomplishments; Defeated Demon-like guardian in Blighttown (+5,000 souls)"
+      },
+      {
+        "saved_local": "2026-08-16T22:20:21.484497-07:00",
+        "events": [],
+        "summary": "Saved we6jbo simulator state at Firelink Shrine"
       }
     ],
     "restart_requested_local": "2026-08-16T22:18:59.728024-07:00",

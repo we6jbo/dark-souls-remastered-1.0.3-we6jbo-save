@@ -10,7 +10,7 @@ or third-party map image is automatically committed to this character archive.
 
 ## Current simulator
 
-- Simulator version: **113.0**
+- Simulator version: **114.0**
 - Character: **we6jbo**
 - Source character archive: `we6jbo-character.json`
 - Target cycle: **NG+**
@@ -89,8 +89,8 @@ intellectual property remain the property of their respective rights holders.
 
 ## Session status
 
-Last simulator save: **2026-08-16T22:18:59.728088-07:00**
+Last simulator save: **2026-08-16T22:20:21.484561-07:00**
 
 Last session summary:
 
-> we6jbo simulation: 83 accomplishments; Found 1,816 simulated souls while exploring Firelink Shrine
+> Saved we6jbo simulator state at Firelink Shrine
