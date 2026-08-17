@@ -7,6 +7,6 @@ Simulation target: NG+ beginning
 Simulator current area: Duke's Archives
 Simulator encounters won: 15804
 Simulator deaths: 1
-Simulator last saved: 2026-08-16T21:39:41.396597-07:00
-Last session summary: we6jbo simulation: 268 accomplishments; Thoroughly explored Duke's Archives
+Simulator last saved: 2026-08-16T22:12:13.990848-07:00
+Last session summary: Saved we6jbo simulator state at Duke's Archives
 Repository: https://github.com/we6jbo/dark-souls-remastered-1.0.3-we6jbo-save
