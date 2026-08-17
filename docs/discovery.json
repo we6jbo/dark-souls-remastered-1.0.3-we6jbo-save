@@ -1,0 +1,19 @@
+{
+  "name": "we6jbo Dark Souls Text/Schematic Simulator",
+  "version": "108.0",
+  "canonical": "https://we6jbo.github.io/dark-souls-remastered-1.0.3-we6jbo-save/",
+  "repository": "https://github.com/we6jbo/dark-souls-remastered-1.0.3-we6jbo-save",
+  "huggingface_dataset": "https://huggingface.co/datasets/we6jbo/darksouls",
+  "machine_readable": {
+    "live": "https://we6jbo.github.io/dark-souls-remastered-1.0.3-we6jbo-save/live.json",
+    "ai_digital": "https://we6jbo.github.io/dark-souls-remastered-1.0.3-we6jbo-save/ai-digital.json",
+    "knowledge_feed": "https://we6jbo.github.io/dark-souls-remastered-1.0.3-we6jbo-save/knowledge-feed.json",
+    "capabilities": "https://we6jbo.github.io/dark-souls-remastered-1.0.3-we6jbo-save/capabilities.json",
+    "repomaster": "https://we6jbo.github.io/dark-souls-remastered-1.0.3-we6jbo-save/repomaster.json",
+    "research_progress": "https://we6jbo.github.io/dark-souls-remastered-1.0.3-we6jbo-save/research-progress.json",
+    "llms": "https://we6jbo.github.io/dark-souls-remastered-1.0.3-we6jbo-save/llms.txt",
+    "sitemap": "https://we6jbo.github.io/dark-souls-remastered-1.0.3-we6jbo-save/sitemap.xml"
+  },
+  "privacy": "Public-safe simulator knowledge only. Private manuscript text, credentials/secrets, private network/location data, third-party map/video assets, and unrestricted simulator source are excluded.",
+  "updated": "2026-08-16T20:55:07.559692-07:00"
+}

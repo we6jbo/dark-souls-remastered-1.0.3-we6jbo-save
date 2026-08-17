@@ -1,0 +1,26 @@
+{
+  "project": "we6jbo Dark Souls Remastered NG+ Text Simulator",
+  "simulator_version": "108.0",
+  "project_page": "https://we6jbo.github.io/dark-souls-remastered-1.0.3-we6jbo-save/",
+  "repository": "https://github.com/we6jbo/dark-souls-remastered-1.0.3-we6jbo-save",
+  "huggingface_dataset": "https://huggingface.co/datasets/we6jbo/darksouls",
+  "live_url": "https://asciinema.org/s/8ke3DQVW6enkdmHh",
+  "updated_local": "2026-08-16T20:55:07.469799-07:00",
+  "distribution_scope": "Public-safe simulator knowledge only. Private manuscript text, credentials/secrets, private network/location data, third-party map/video assets, and unrestricted simulator source are excluded.",
+  "knowledge_topics": [
+    "CMB Agent",
+    "Credential public verification v103",
+    "Credentials",
+    "KOSMOS",
+    "Kosmos/ChatGPT",
+    "Private book local-only policy",
+    "Private book source v105",
+    "RepoMaster",
+    "Robin NI"
+  ],
+  "research_progress": {
+    "overall_percent": null,
+    "publication_complete": true,
+    "external_ai_exchange_complete": true
+  }
+}

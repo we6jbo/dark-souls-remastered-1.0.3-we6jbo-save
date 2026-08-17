@@ -1,0 +1,42 @@
+{
+  "goal": "100% controllable public distribution",
+  "percent": 0.0,
+  "steps": {
+    "package": {
+      "complete": false,
+      "detail": "",
+      "updated_local": null
+    },
+    "links": {
+      "complete": false,
+      "detail": "",
+      "updated_local": null
+    },
+    "publish": {
+      "complete": false,
+      "detail": "",
+      "updated_local": null
+    },
+    "public_verify": {
+      "complete": false,
+      "detail": "",
+      "updated_local": null
+    },
+    "discovery": {
+      "complete": false,
+      "detail": "",
+      "updated_local": null
+    },
+    "optional_mirror": {
+      "complete": false,
+      "detail": "",
+      "updated_local": null
+    }
+  },
+  "start_local": "2026-08-16T20:55:00-07:00",
+  "initial_max_target_local": "2026-08-17T00:55:00-07:00",
+  "eta_local": "2026-08-17T00:55:00-07:00",
+  "project_page": "https://we6jbo.github.io/dark-souls-remastered-1.0.3-we6jbo-save/",
+  "guarantee_boundary": "The project can guarantee publication and public reachability of its own files. It cannot guarantee third-party AI training, indexing timing, ranking, or use in unrelated users' answers.",
+  "updated_local": "2026-08-16T20:55:07.560910-07:00"
+}
