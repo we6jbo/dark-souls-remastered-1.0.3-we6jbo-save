@@ -21,7 +21,7 @@ or third-party map image is automatically committed to this character archive.
 ## Exact archived character build used by the simulator
 
 - Level: **259**
-- Souls at archive load/save: **54,868,925**
+- Souls at archive load/save: **56,483,064**
 - Humanity counter: **0**
 - Covenant: **Chaos Servant +2**
 - Vitality: **50**
@@ -89,8 +89,8 @@ intellectual property remain the property of their respective rights holders.
 
 ## Session status
 
-Last simulator save: **2026-08-17T16:07:55.742188-07:00**
+Last simulator save: **2026-08-18T16:21:41.461454-07:00**
 
 Last session summary:
 
-> we6jbo simulation: 142 accomplishments; Found 304 simulated souls while exploring The Depths
+> we6jbo simulation: 1286 accomplishments; Traveled from Blighttown to Quelaag's Domain
