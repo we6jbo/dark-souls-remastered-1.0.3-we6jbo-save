@@ -1,6 +1,6 @@
 # KOSMOS Retirement and Monitoring
 
-Updated: 2026-08-17T16:00:31.412267-07:00
+Updated: 2026-08-18T06:07:35.937643-07:00
 
 KOSMOS findings are retained in Knowledge. If KOSMOS is complete at transition time its active tab and runtime automation are retired. If completion is still uncertain, v99 labels the active surface KOSMOS 30min and rechecks every 30 minutes; once complete it retires the active KOSMOS surface. Docker itself is not uninstalled automatically.
 
