@@ -1,8 +1,8 @@
 {
   "project": "we6jbo Dark Souls Remastered NG+ Text Simulator",
-  "simulator_version": "116.0",
+  "simulator_version": "118.0",
   "live": true,
-  "live_url": "https://asciinema.org/s/M6vlOtfiECFaMPnl",
+  "live_url": "https://asciinema.org/s/GD6TI25Vr109vfPA",
   "project_page": "https://we6jbo.github.io/dark-souls-remastered-1.0.3-we6jbo-save/",
   "main_site": "https://j03.page/",
   "localchat_documents": {
@@ -56,6 +56,6 @@
     "local_repomaster_required": false
   },
   "robin_integration": "NI",
-  "area": "Quelaag's Domain",
-  "updated": "2026-08-18T22:49:48.272865-07:00"
+  "area": "Blighttown",
+  "updated": "2026-08-18T22:55:26.618488-07:00"
 }

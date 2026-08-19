@@ -7,7 +7,7 @@
   "covenant": "Chaos Servant",
   "covenant_rank": "+2",
   "level": 259,
-  "souls": 56483064,
+  "souls": 56590837,
   "humanity_counter": 0,
   "attributes": {
     "Vitality": 50,
@@ -2523,11 +2523,11 @@
     "schema_version": 1,
     "cycle": "NG++",
     "start_policy": "Beginning of NG+",
-    "current_area": "Quelaag's Domain",
+    "current_area": "Blighttown",
     "checkpoint_area": "Undead Parish",
-    "sim_hp": 1010,
+    "sim_hp": 710,
     "sim_max_hp": 1500,
-    "sim_estus": 6,
+    "sim_estus": 5,
     "sim_humanity_state": "Hollow",
     "areas_visited": [
       "Northern Undead Asylum",
@@ -2557,12 +2557,12 @@
       "Firelink Altar",
       "Kiln of the First Flame"
     ],
-    "encounters_won": 16440,
+    "encounters_won": 16472,
     "deaths": 1,
-    "souls_earned_in_simulator": 56084764,
+    "souls_earned_in_simulator": 56192537,
     "notes": [],
-    "last_session_summary": "Saved we6jbo simulator state at Quelaag's Domain",
-    "last_saved_local": "2026-08-18T22:49:47.808479-07:00",
+    "last_session_summary": "we6jbo simulation: 68 accomplishments; Defeated Hollow patrol in Blighttown (+900 souls)",
+    "last_saved_local": "2026-08-18T22:55:25.434644-07:00",
     "progress_flags": {
       "bell_of_awakening_quelaag": true,
       "bell_of_awakening_parish": true,
@@ -2620,8 +2620,8 @@
         "updated_local": "2026-08-14T04:43:05.044130-07:00"
       }
     },
-    "live_stream_url": "https://asciinema.org/s/M6vlOtfiECFaMPnl",
-    "live_stream_started_local": "2026-08-18T22:49:16.147870-07:00",
+    "live_stream_url": "https://asciinema.org/s/GD6TI25Vr109vfPA",
+    "live_stream_started_local": "2026-08-18T22:50:11.201371-07:00",
     "session_history": [
       {
         "saved_local": "2026-08-08T20:04:21.512517-07:00",
@@ -10558,6 +10558,80 @@
           "2026-08-18 16:21:40: Traveled from Blighttown to Quelaag's Domain"
         ],
         "summary": "we6jbo simulation: 1286 accomplishments; Traveled from Blighttown to Quelaag's Domain"
+      },
+      {
+        "saved_local": "2026-08-18T22:55:25.434486-07:00",
+        "events": [
+          "2026-08-18 22:51:55: Defeated Black knight-like challenger in Quelaag's Domain (+3,500 souls)",
+          "2026-08-18 22:51:57: Found 688 simulated souls while exploring Quelaag's Domain",
+          "2026-08-18 22:51:59: Thoroughly explored Quelaag's Domain",
+          "2026-08-18 22:52:01: Traveled from Quelaag's Domain to Demon Ruins",
+          "2026-08-18 22:52:04: Traveled from Demon Ruins to Quelaag's Domain",
+          "2026-08-18 22:52:05: Defeated Sorcerous ambush in Quelaag's Domain (+2,200 souls)",
+          "2026-08-18 22:52:07: Traveled from Quelaag's Domain to Demon Ruins",
+          "2026-08-18 22:52:10: Defeated Black knight-like challenger in Demon Ruins (+3,500 souls)",
+          "2026-08-18 22:52:12: Found 2,359 simulated souls while exploring Demon Ruins",
+          "2026-08-18 22:52:14: Found 2,991 simulated souls while exploring Demon Ruins",
+          "2026-08-18 22:52:17: Defeated Hollow patrol in Demon Ruins (+900 souls)",
+          "2026-08-18 22:52:33: Defeated Hollow patrol in Demon Ruins (+900 souls)",
+          "2026-08-18 22:52:35: Traveled from Demon Ruins to Quelaag's Domain",
+          "2026-08-18 22:52:37: Inventory: AI reviewed inventory conservatively. No safe duplicate items were removed.",
+          "2026-08-18 22:52:39: Inventory: AI reviewed inventory conservatively. No safe duplicate items were removed.",
+          "2026-08-18 22:52:41: Found 1,309 simulated souls while exploring Quelaag's Domain",
+          "2026-08-18 22:52:43: Thoroughly explored Quelaag's Domain",
+          "2026-08-18 22:52:45: Found 983 simulated souls while exploring Quelaag's Domain",
+          "2026-08-18 22:52:47: Traveled from Quelaag's Domain to Blighttown",
+          "2026-08-18 22:52:49: Found 2,773 simulated souls while exploring Blighttown",
+          "2026-08-18 22:52:51: Defeated Armored hollow in Blighttown (+1,400 souls)",
+          "2026-08-18 22:52:53: Defeated Demon-like guardian in Blighttown (+5,000 souls)",
+          "2026-08-18 22:52:56: Traveled from Blighttown to Quelaag's Domain",
+          "2026-08-18 22:52:58: Defeated Armored hollow in Quelaag's Domain (+1,400 souls)",
+          "2026-08-18 22:53:00: Defeated Black knight-like challenger in Quelaag's Domain (+3,500 souls)",
+          "2026-08-18 22:53:16: Defeated Black knight-like challenger in Quelaag's Domain (+3,500 souls)",
+          "2026-08-18 22:53:18: Found 924 simulated souls while exploring Quelaag's Domain",
+          "2026-08-18 22:53:19: Found 1,238 simulated souls while exploring Quelaag's Domain",
+          "2026-08-18 22:53:21: Traveled from Quelaag's Domain to Demon Ruins",
+          "2026-08-18 22:53:23: Defeated Sorcerous ambush in Demon Ruins (+2,200 souls)",
+          "2026-08-18 22:53:26: Defeated Hostile knight in Demon Ruins (+2,800 souls)",
+          "2026-08-18 22:53:28: Defeated Black knight-like challenger in Demon Ruins (+3,500 souls)",
+          "2026-08-18 22:53:30: Found 2,298 simulated souls while exploring Demon Ruins",
+          "2026-08-18 22:53:33: Defeated Demon-like guardian in Demon Ruins (+5,000 souls)",
+          "2026-08-18 22:53:38: Defeated Armored hollow in Demon Ruins (+1,400 souls)",
+          "2026-08-18 22:53:40: Defeated Black knight-like challenger in Demon Ruins (+3,500 souls)",
+          "2026-08-18 22:53:42: Traveled from Demon Ruins to Quelaag's Domain",
+          "2026-08-18 22:53:44: Defeated Hollow patrol in Quelaag's Domain (+900 souls)",
+          "2026-08-18 22:54:01: Defeated Sorcerous ambush in Quelaag's Domain (+2,200 souls)",
+          "2026-08-18 22:54:03: Defeated Hostile knight in Quelaag's Domain (+2,800 souls)",
+          "2026-08-18 22:54:05: Defeated Demon-like guardian in Quelaag's Domain (+5,000 souls)",
+          "2026-08-18 22:54:07: Inventory: AI reviewed inventory conservatively. No safe duplicate items were removed.",
+          "2026-08-18 22:54:09: Defeated Sorcerous ambush in Quelaag's Domain (+2,200 souls)",
+          "2026-08-18 22:54:11: Defeated Armored hollow in Quelaag's Domain (+1,400 souls)",
+          "2026-08-18 22:54:13: Thoroughly explored Quelaag's Domain",
+          "2026-08-18 22:54:15: Defeated Black knight-like challenger in Quelaag's Domain (+3,500 souls)",
+          "2026-08-18 22:54:17: Defeated Hostile knight in Quelaag's Domain (+2,800 souls)",
+          "2026-08-18 22:54:20: Inventory: AI reviewed inventory conservatively. No safe duplicate items were removed.",
+          "2026-08-18 22:54:21: Defeated Demon-like guardian in Quelaag's Domain (+5,000 souls)",
+          "2026-08-18 22:54:23: Traveled from Quelaag's Domain to Blighttown",
+          "2026-08-18 22:54:25: Traveled from Blighttown to Quelaag's Domain",
+          "2026-08-18 22:54:27: Traveled from Quelaag's Domain to Blighttown",
+          "2026-08-18 22:54:29: Inventory: AI reviewed inventory conservatively. No safe duplicate items were removed.",
+          "2026-08-18 22:54:42: Thoroughly explored Blighttown",
+          "2026-08-18 22:54:44: Defeated Sorcerous ambush in Blighttown (+2,200 souls)",
+          "2026-08-18 22:54:46: Found 827 simulated souls while exploring Blighttown",
+          "2026-08-18 22:54:48: Inventory: AI reviewed inventory conservatively. No safe duplicate items were removed.",
+          "2026-08-18 22:54:50: Defeated Hollow patrol in Blighttown (+900 souls)",
+          "2026-08-18 22:54:52: Traveled from Blighttown to Quelaag's Domain",
+          "2026-08-18 22:54:54: Defeated Black knight-like challenger in Quelaag's Domain (+3,500 souls)",
+          "2026-08-18 22:54:56: Defeated Demon-like guardian in Quelaag's Domain (+5,000 souls)",
+          "2026-08-18 22:54:58: Found 522 simulated souls while exploring Quelaag's Domain",
+          "2026-08-18 22:55:00: Defeated Black knight-like challenger in Quelaag's Domain (+3,500 souls)",
+          "2026-08-18 22:55:02: Defeated Black knight-like challenger in Quelaag's Domain (+3,500 souls)",
+          "2026-08-18 22:55:04: Inventory: AI reviewed inventory conservatively. No safe duplicate items were removed.",
+          "2026-08-18 22:55:06: Found 1,361 simulated souls while exploring Quelaag's Domain",
+          "2026-08-18 22:55:08: Traveled from Quelaag's Domain to Blighttown",
+          "2026-08-18 22:55:10: Defeated Hollow patrol in Blighttown (+900 souls)"
+        ],
+        "summary": "we6jbo simulation: 68 accomplishments; Defeated Hollow patrol in Blighttown (+900 souls)"
       }
     ],
     "restart_requested_local": "2026-08-18T22:49:47.808356-07:00",
@@ -10565,34 +10639,6 @@
     "completed_cycle": "NG++",
     "completion_local": "2026-08-09T16:47:06.231366-07:00",
     "inventory_log": [
-      {
-        "time": "2026-08-16T21:03:52.995396-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-16T21:05:03.883974-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-16T21:05:09.714510-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-16T21:05:13.505252-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-16T21:05:19.431366-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-16T21:05:41.487150-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-16T21:05:47.402253-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
       {
         "time": "2026-08-16T21:05:57.537807-07:00",
         "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
@@ -11563,6 +11609,34 @@
       },
       {
         "time": "2026-08-18T16:20:36.122276-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-18T22:52:37.926457-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-18T22:52:39.867317-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-18T22:54:07.783439-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-18T22:54:19.911862-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-18T22:54:29.863654-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-18T22:54:48.255077-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-18T22:55:04.040319-07:00",
         "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
       }
     ],
