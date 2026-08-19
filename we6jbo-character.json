@@ -2561,8 +2561,8 @@
     "deaths": 1,
     "souls_earned_in_simulator": 56084764,
     "notes": [],
-    "last_session_summary": "we6jbo simulation: 1286 accomplishments; Traveled from Blighttown to Quelaag's Domain",
-    "last_saved_local": "2026-08-18T16:21:41.461454-07:00",
+    "last_session_summary": "Saved we6jbo simulator state at Quelaag's Domain",
+    "last_saved_local": "2026-08-18T22:49:47.808479-07:00",
     "progress_flags": {
       "bell_of_awakening_quelaag": true,
       "bell_of_awakening_parish": true,
@@ -2620,8 +2620,8 @@
         "updated_local": "2026-08-14T04:43:05.044130-07:00"
       }
     },
-    "live_stream_url": "https://asciinema.org/s/H0tDhp4fpZfwWzqg",
-    "live_stream_started_local": "2026-08-18T15:34:14.567230-07:00",
+    "live_stream_url": "https://asciinema.org/s/M6vlOtfiECFaMPnl",
+    "live_stream_started_local": "2026-08-18T22:49:16.147870-07:00",
     "session_history": [
       {
         "saved_local": "2026-08-08T20:04:21.512517-07:00",
@@ -10560,7 +10560,7 @@
         "summary": "we6jbo simulation: 1286 accomplishments; Traveled from Blighttown to Quelaag's Domain"
       }
     ],
-    "restart_requested_local": "2026-08-16T22:44:05.956016-07:00",
+    "restart_requested_local": "2026-08-18T22:49:47.808356-07:00",
     "ng_plus_cycle_complete": true,
     "completed_cycle": "NG++",
     "completion_local": "2026-08-09T16:47:06.231366-07:00",

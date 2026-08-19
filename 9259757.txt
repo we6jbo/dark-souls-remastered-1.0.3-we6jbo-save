@@ -7,6 +7,6 @@ Simulation target: NG+ beginning
 Simulator current area: Quelaag's Domain
 Simulator encounters won: 16440
 Simulator deaths: 1
-Simulator last saved: 2026-08-18T16:21:41.461454-07:00
-Last session summary: we6jbo simulation: 1286 accomplishments; Traveled from Blighttown to Quelaag's Domain
+Simulator last saved: 2026-08-18T22:49:47.808479-07:00
+Last session summary: Saved we6jbo simulator state at Quelaag's Domain
 Repository: https://github.com/we6jbo/dark-souls-remastered-1.0.3-we6jbo-save

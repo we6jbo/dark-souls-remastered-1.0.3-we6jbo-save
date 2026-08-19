@@ -89,8 +89,8 @@ intellectual property remain the property of their respective rights holders.
 
 ## Session status
 
-Last simulator save: **2026-08-18T16:21:41.461454-07:00**
+Last simulator save: **2026-08-18T22:49:47.808479-07:00**
 
 Last session summary:
 
-> we6jbo simulation: 1286 accomplishments; Traveled from Blighttown to Quelaag's Domain
+> Saved we6jbo simulator state at Quelaag's Domain
