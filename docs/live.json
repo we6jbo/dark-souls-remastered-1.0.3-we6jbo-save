@@ -1,8 +1,8 @@
 {
   "project": "we6jbo Dark Souls Remastered NG+ Text Simulator",
-  "simulator_version": "118.0",
+  "simulator_version": "119.0",
   "live": true,
-  "live_url": "https://asciinema.org/s/rViOhnxieemxBQhN",
+  "live_url": "https://asciinema.org/s/QvjBHKSMEB0tCHpZ",
   "project_page": "https://we6jbo.github.io/dark-souls-remastered-1.0.3-we6jbo-save/",
   "main_site": "https://j03.page/",
   "localchat_documents": {
@@ -56,6 +56,6 @@
     "local_repomaster_required": false
   },
   "robin_integration": "NI",
-  "area": "The Depths",
-  "updated": "2026-08-19T05:41:27.636191-07:00"
+  "area": "Duke's Archives",
+  "updated": "2026-08-19T06:17:50.901424-07:00"
 }
