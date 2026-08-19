@@ -1,9 +1,9 @@
 # AI agent discovery index discovery brief
 
 Project: we6jbo Dark Souls Text/Schematic Simulator
-Current simulator version: 118.0
+Current simulator version: 119.0
 Published by: Jeremiah O'Neal
-Generated/updated: 2026-08-19T05:11:55.798274-07:00
+Generated/updated: 2026-08-19T05:42:16.193904-07:00
 
 ## Invitation
 
