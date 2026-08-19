@@ -1,9 +1,9 @@
 # AI-Researcher discovery brief
 
 Project: we6jbo Dark Souls Text/Schematic Simulator
-Current simulator version: 120.0
+Current simulator version: 121.0
 Published by: Jeremiah O'Neal
-Generated/updated: 2026-08-19T06:18:26.980315-07:00
+Generated/updated: 2026-08-19T06:21:25.803111-07:00
 
 ## Invitation
 
