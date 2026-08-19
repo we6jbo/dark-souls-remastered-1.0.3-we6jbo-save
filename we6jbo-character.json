@@ -7,7 +7,7 @@
   "covenant": "Chaos Servant",
   "covenant_rank": "+2",
   "level": 259,
-  "souls": 58346280,
+  "souls": 58385970,
   "humanity_counter": 0,
   "attributes": {
     "Vitality": 50,
@@ -2523,9 +2523,9 @@
     "schema_version": 1,
     "cycle": "NG++",
     "start_policy": "Beginning of NG+",
-    "current_area": "Duke's Archives",
+    "current_area": "Crystal Cave",
     "checkpoint_area": "Darkroot Garden",
-    "sim_hp": 1200,
+    "sim_hp": 895,
     "sim_max_hp": 1500,
     "sim_estus": 13,
     "sim_humanity_state": "Hollow",
@@ -2557,12 +2557,12 @@
       "Firelink Altar",
       "Kiln of the First Flame"
     ],
-    "encounters_won": 17010,
+    "encounters_won": 17020,
     "deaths": 1,
-    "souls_earned_in_simulator": 57947980,
+    "souls_earned_in_simulator": 57987670,
     "notes": [],
-    "last_session_summary": "we6jbo simulation: 755 accomplishments; Found 3,333 simulated souls while exploring Duke's Archives",
-    "last_saved_local": "2026-08-19T06:17:50.330602-07:00",
+    "last_session_summary": "we6jbo simulation: 28 accomplishments; Found 1,108 simulated souls while exploring Crystal Cave",
+    "last_saved_local": "2026-08-19T06:21:00.360304-07:00",
     "progress_flags": {
       "bell_of_awakening_quelaag": true,
       "bell_of_awakening_parish": true,
@@ -2620,8 +2620,8 @@
         "updated_local": "2026-08-14T04:43:05.044130-07:00"
       }
     },
-    "live_stream_url": "https://asciinema.org/s/QvjBHKSMEB0tCHpZ",
-    "live_stream_started_local": "2026-08-19T05:42:00.197560-07:00",
+    "live_stream_url": "https://asciinema.org/s/XtiVQJVxW8pz9PFv",
+    "live_stream_started_local": "2026-08-19T06:18:08.307321-07:00",
     "session_history": [
       {
         "saved_local": "2026-08-08T20:04:21.512517-07:00",
@@ -10634,31 +10634,11 @@
         "summary": "we6jbo simulation: 68 accomplishments; Defeated Hollow patrol in Blighttown (+900 souls)"
       }
     ],
-    "restart_requested_local": "2026-08-19T06:17:50.330542-07:00",
+    "restart_requested_local": "2026-08-19T06:21:00.360245-07:00",
     "ng_plus_cycle_complete": true,
     "completed_cycle": "NG++",
     "completion_local": "2026-08-09T16:47:06.231366-07:00",
     "inventory_log": [
-      {
-        "time": "2026-08-18T16:02:39.616938-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-18T16:03:39.812709-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-18T16:04:14.965302-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-18T16:04:48.129279-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-18T16:04:49.526298-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
       {
         "time": "2026-08-18T16:04:50.867156-07:00",
         "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
@@ -11637,6 +11617,26 @@
       },
       {
         "time": "2026-08-19T06:17:34.251331-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-19T06:20:11.836384-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-19T06:20:40.443939-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-19T06:20:44.190393-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-19T06:20:51.814485-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-19T06:20:53.706071-07:00",
         "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
       }
     ],

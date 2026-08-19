@@ -1,12 +1,12 @@
 Dark Souls Remastered v1.0.3 — we6jbo character archive
 Character: we6jbo
 Level: 259
-Souls: 58346280
+Souls: 58385970
 Covenant: Chaos Servant +2
 Simulation target: NG+ beginning
-Simulator current area: Duke's Archives
-Simulator encounters won: 17010
+Simulator current area: Crystal Cave
+Simulator encounters won: 17020
 Simulator deaths: 1
-Simulator last saved: 2026-08-19T06:17:50.330602-07:00
-Last session summary: we6jbo simulation: 755 accomplishments; Found 3,333 simulated souls while exploring Duke's Archives
+Simulator last saved: 2026-08-19T06:21:00.360304-07:00
+Last session summary: we6jbo simulation: 28 accomplishments; Found 1,108 simulated souls while exploring Crystal Cave
 Repository: https://github.com/we6jbo/dark-souls-remastered-1.0.3-we6jbo-save

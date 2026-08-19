@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "simulator_version": "119.0",
+  "simulator_version": "120.0",
   "coordinate_system": "normalized X/Y, 0.0 through 1.0",
   "calculation_document": "https://we6jbo.github.io/dark-souls-remastered-1.0.3-we6jbo-save/ref-map-calculation.md",
   "privacy": "object/coordinate metadata only; third-party map images stay local",
