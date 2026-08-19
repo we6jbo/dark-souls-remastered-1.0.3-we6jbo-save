@@ -7,7 +7,7 @@
   "covenant": "Chaos Servant",
   "covenant_rank": "+2",
   "level": 259,
-  "souls": 56590837,
+  "souls": 57464480,
   "humanity_counter": 0,
   "attributes": {
     "Vitality": 50,
@@ -2523,11 +2523,11 @@
     "schema_version": 1,
     "cycle": "NG++",
     "start_policy": "Beginning of NG+",
-    "current_area": "Blighttown",
-    "checkpoint_area": "Undead Parish",
-    "sim_hp": 710,
+    "current_area": "The Depths",
+    "checkpoint_area": "Darkroot Garden",
+    "sim_hp": 1135,
     "sim_max_hp": 1500,
-    "sim_estus": 5,
+    "sim_estus": 9,
     "sim_humanity_state": "Hollow",
     "areas_visited": [
       "Northern Undead Asylum",
@@ -2557,12 +2557,12 @@
       "Firelink Altar",
       "Kiln of the First Flame"
     ],
-    "encounters_won": 16472,
+    "encounters_won": 16736,
     "deaths": 1,
-    "souls_earned_in_simulator": 56192537,
+    "souls_earned_in_simulator": 57066180,
     "notes": [],
-    "last_session_summary": "we6jbo simulation: 68 accomplishments; Defeated Hollow patrol in Blighttown (+900 souls)",
-    "last_saved_local": "2026-08-18T22:55:25.434644-07:00",
+    "last_session_summary": "we6jbo simulation: 706 accomplishments; Defeated Hollow patrol in The Depths (+900 souls)",
+    "last_saved_local": "2026-08-19T05:41:27.161672-07:00",
     "progress_flags": {
       "bell_of_awakening_quelaag": true,
       "bell_of_awakening_parish": true,
@@ -2620,8 +2620,8 @@
         "updated_local": "2026-08-14T04:43:05.044130-07:00"
       }
     },
-    "live_stream_url": "https://asciinema.org/s/GD6TI25Vr109vfPA",
-    "live_stream_started_local": "2026-08-18T22:50:11.201371-07:00",
+    "live_stream_url": "https://asciinema.org/s/rViOhnxieemxBQhN",
+    "live_stream_started_local": "2026-08-19T05:11:27.464492-07:00",
     "session_history": [
       {
         "saved_local": "2026-08-08T20:04:21.512517-07:00",
@@ -10634,351 +10634,11 @@
         "summary": "we6jbo simulation: 68 accomplishments; Defeated Hollow patrol in Blighttown (+900 souls)"
       }
     ],
-    "restart_requested_local": "2026-08-18T22:49:47.808356-07:00",
+    "restart_requested_local": "2026-08-19T05:41:27.161564-07:00",
     "ng_plus_cycle_complete": true,
     "completed_cycle": "NG++",
     "completion_local": "2026-08-09T16:47:06.231366-07:00",
     "inventory_log": [
-      {
-        "time": "2026-08-16T21:05:57.537807-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-16T21:06:01.414116-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-16T21:06:13.334921-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-16T21:06:40.898710-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-16T21:06:49.514015-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-16T21:07:16.328147-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-16T21:07:18.567366-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-16T21:07:37.974767-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-16T21:07:41.826839-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-16T21:07:51.806718-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-16T21:08:11.124536-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-16T21:08:13.150283-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-16T21:08:37.614432-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-16T21:08:54.725708-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-16T21:09:16.369671-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-16T21:26:35.506513-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-16T21:27:16.311216-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-16T21:27:34.879104-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-16T21:27:53.071941-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-16T21:28:01.819686-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-16T21:29:37.832588-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-16T21:29:39.970262-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-16T21:29:46.147583-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-16T21:29:50.267617-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-16T21:30:27.280523-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-16T21:30:37.497750-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-16T21:30:41.845393-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-16T21:31:23.155019-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-16T21:31:37.728455-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-16T21:33:17.239624-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-16T21:33:19.222708-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-16T21:33:24.184196-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-16T21:34:03.871510-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-16T21:34:28.170526-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-16T21:34:54.085636-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-16T21:35:05.547797-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-16T21:35:18.690573-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-16T21:35:29.057405-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-16T21:37:42.164360-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-16T21:37:46.132126-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-16T21:37:48.063525-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-16T21:37:59.927486-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-16T21:38:53.122698-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-16T21:39:38.778839-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-16T22:15:59.311491-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-16T22:16:56.196185-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-16T22:17:08.202061-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-16T22:17:11.974702-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-16T22:17:50.172842-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-16T22:17:58.244763-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-16T22:18:16.071652-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-16T22:18:19.965092-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-16T22:18:25.942625-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-16T22:35:00.914940-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-16T22:35:13.233462-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-16T22:36:13.803063-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-16T22:36:15.692305-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-16T22:36:25.328065-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-16T22:36:54.554019-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-16T22:36:56.406778-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-16T22:37:03.869449-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-16T22:37:43.122886-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-16T22:37:45.320791-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-16T22:37:47.445865-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-16T22:38:10.062901-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-16T22:38:23.355601-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-16T22:38:36.482549-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-16T22:38:40.331683-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-16T22:38:57.625315-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-16T22:38:59.545631-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-16T22:39:36.346884-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-16T22:39:50.959753-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-16T22:40:00.964831-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-16T22:40:08.955550-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-16T22:40:36.344496-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-16T22:40:49.622262-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-16T22:41:26.697569-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-16T22:43:58.157423-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-17T16:02:26.674093-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-17T16:02:49.154657-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-17T16:03:24.871596-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-17T16:03:34.948937-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-17T16:03:56.444973-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-17T16:04:26.146902-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-17T16:04:36.110915-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
       {
         "time": "2026-08-17T16:05:08.528283-07:00",
         "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
@@ -11638,6 +11298,346 @@
       {
         "time": "2026-08-18T22:55:04.040319-07:00",
         "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-19T05:12:59.996425-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-19T05:13:13.525933-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-19T05:13:45.031969-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-19T05:14:13.518730-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-19T05:14:15.390215-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-19T05:14:25.761047-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-19T05:15:16.504398-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-19T05:15:24.057998-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-19T05:15:25.979887-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-19T05:15:39.102165-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-19T05:15:51.459910-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-19T05:16:06.461990-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-19T05:16:43.640459-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-19T05:16:53.226796-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-19T05:17:20.084094-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-19T05:17:45.783220-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-19T05:18:24.030704-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-19T05:18:35.334011-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-19T05:18:44.810658-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-19T05:18:57.515590-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-19T05:19:08.782014-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-19T05:20:18.686930-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-19T05:21:27.746037-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-19T05:21:59.703664-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-19T05:22:16.087075-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-19T05:23:16.241981-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-19T05:23:19.997349-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-19T05:23:29.284099-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-19T05:23:33.032831-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-19T05:23:36.776445-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-19T05:23:54.894214-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-19T05:24:02.638620-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-19T05:24:09.134112-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-19T05:24:32.308228-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-19T05:24:46.167149-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-19T05:24:56.386060-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-19T05:25:07.084518-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-19T05:25:24.913333-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-19T05:25:48.960625-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-19T05:25:52.789980-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-19T05:26:04.849991-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-19T05:26:14.880759-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-19T05:26:18.703045-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-19T05:26:20.630129-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-19T05:26:26.506407-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-19T05:26:34.115604-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-19T05:26:36.060094-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-19T05:26:40.390898-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-19T05:26:58.878773-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-19T05:27:51.194848-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-19T05:27:53.098056-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-19T05:29:03.736693-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-19T05:29:11.288568-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-19T05:29:23.932293-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-19T05:29:53.315048-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-19T05:30:04.588480-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-19T05:30:29.614441-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-19T05:30:33.450321-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-19T05:31:02.443909-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-19T05:31:15.962082-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-19T05:31:28.222562-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-19T05:31:44.608570-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-19T05:32:30.850151-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-19T05:32:34.718261-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-19T05:33:10.131063-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-19T05:33:12.039036-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-19T05:33:29.306433-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-19T05:33:31.311167-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-19T05:33:53.302022-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-19T05:36:10.858845-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-19T05:36:41.346320-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-19T05:37:10.438193-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-19T05:37:29.439708-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-19T05:37:31.342966-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-19T05:37:49.546110-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-19T05:38:35.955015-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-19T05:38:42.420161-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-19T05:38:59.424871-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-19T05:39:01.474842-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-19T05:39:20.802920-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-19T05:39:27.777433-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-19T05:39:50.075076-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-19T05:40:06.976136-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-19T05:40:14.506867-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-19T05:41:16.441569-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
       }
     ],
     "inventory_ai_enabled": true,
@@ -11662,7 +11662,8 @@
       "Firelink Shrine",
       "Undead Burg",
       "Lost Izalith",
-      "The Depths"
+      "The Depths",
+      "Darkroot Garden"
     ],
     "warp_unlocked": true
   }

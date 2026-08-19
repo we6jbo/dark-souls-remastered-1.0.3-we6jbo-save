@@ -21,7 +21,7 @@ or third-party map image is automatically committed to this character archive.
 ## Exact archived character build used by the simulator
 
 - Level: **259**
-- Souls at archive load/save: **56,590,837**
+- Souls at archive load/save: **57,464,480**
 - Humanity counter: **0**
 - Covenant: **Chaos Servant +2**
 - Vitality: **50**
@@ -89,8 +89,8 @@ intellectual property remain the property of their respective rights holders.
 
 ## Session status
 
-Last simulator save: **2026-08-18T22:55:25.434644-07:00**
+Last simulator save: **2026-08-19T05:41:27.161672-07:00**
 
 Last session summary:
 
-> we6jbo simulation: 68 accomplishments; Defeated Hollow patrol in Blighttown (+900 souls)
+> we6jbo simulation: 706 accomplishments; Defeated Hollow patrol in The Depths (+900 souls)
