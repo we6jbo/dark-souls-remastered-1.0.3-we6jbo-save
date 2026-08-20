@@ -1,9 +1,9 @@
 # AI agent discovery index discovery brief
 
 Project: we6jbo Dark Souls Text/Schematic Simulator
-Current simulator version: 123.0
+Current simulator version: 124.0
 Published by: Jeremiah O'Neal
-Generated/updated: 2026-08-20T06:24:30.708514-07:00
+Generated/updated: 2026-08-20T06:35:41.185989-07:00
 
 ## Invitation
 
@@ -131,14 +131,3 @@ The T14 refreshes these materials when the simulator version changes and at
 least once on a new local calendar day, so v40, v41, v42, v43, later versions
 such as v55/v56, and future-day runs update the discovery material without
 requiring version-specific hardcoding.
-
-## Ollama-suggested additional agent candidates
-
-- **NAME**: one short reason (local Ollama suggestion; not independently verified)
-- **Decentralized AI Network**: Provides a framework for distributed AI research and collaboration. (local Ollama suggestion; not independently verified)
-- **Multi-Agent Reinforcement Learning**: Offers a platform for developing, testing, and comparing different RL algorithms. (local Ollama suggestion; not independently verified)
-- **Autonomous Research Platform**: Allows researchers to build and deploy autonomous systems for specific tasks. (local Ollama suggestion; not independently verified)
-- **Collaborative Knowledge Graph**: Enables the creation of interconnected knowledge graphs for AI research and development. (local Ollama suggestion; not independently verified)
-- **Federated Learning Framework**: Facilitates distributed learning across multiple devices with privacy-preserving techniques. (local Ollama suggestion; not independently verified)
-- **Multi-Agent Simulation Environment**: Provides a platform for simulating complex multi-agent interactions in various domains. (local Ollama suggestion; not independently verified)
-- **Adaptive Agent Network**: Allows agents to learn and adapt their behavior based on real-time data and feedback. (local Ollama suggestion; not independently verified)

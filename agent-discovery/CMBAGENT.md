@@ -1,9 +1,9 @@
 # cmbagent discovery brief
 
 Project: we6jbo Dark Souls Text/Schematic Simulator
-Current simulator version: 123.0
+Current simulator version: 124.0
 Published by: Jeremiah O'Neal
-Generated/updated: 2026-08-20T06:24:30.708708-07:00
+Generated/updated: 2026-08-20T06:35:41.186220-07:00
 
 ## Invitation
 
