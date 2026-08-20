@@ -10,7 +10,7 @@ or third-party map image is automatically committed to this character archive.
 
 ## Current simulator
 
-- Simulator version: **121.0**
+- Simulator version: **122.0**
 - Character: **we6jbo**
 - Source character archive: `we6jbo-character.json`
 - Target cycle: **NG+**
@@ -21,7 +21,7 @@ or third-party map image is automatically committed to this character archive.
 ## Exact archived character build used by the simulator
 
 - Level: **259**
-- Souls at archive load/save: **58,686,286**
+- Souls at archive load/save: **59,409,670**
 - Humanity counter: **0**
 - Covenant: **Chaos Servant +2**
 - Vitality: **50**
@@ -89,8 +89,8 @@ intellectual property remain the property of their respective rights holders.
 
 ## Session status
 
-Last simulator save: **2026-08-19T06:31:24.013328-07:00**
+Last simulator save: **2026-08-20T06:23:05.130965-07:00**
 
 Last session summary:
 
-> we6jbo simulation: 219 accomplishments; Defeated Demon-like guardian in Firelink Shrine (+5,000 souls)
+> we6jbo simulation: 595 accomplishments; Defeated Demon-like guardian in Blighttown (+5,000 souls)
