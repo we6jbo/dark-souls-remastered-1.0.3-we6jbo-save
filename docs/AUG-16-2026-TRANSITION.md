@@ -1,6 +1,6 @@
 # August 16 2026 Simulator Transition
 
-Updated: 2026-08-20T06:23:24.901168-07:00
+Updated: 2026-08-20T06:35:12.831534-07:00
 
 From 18:59 through 20:30 local time, v99 narrates the transition to the live TTYREC/asciinema audience while finishing bounded Credentials work, closing CMB Agent, evaluating KOSMOS/RepoMaster, and checking Docker use. At the cutoff, temporary active research tabs are retired and their useful information is moved into Knowledge. LocalChat, gameplay, and unrelated simulator features are not reverted by this transition.
 
