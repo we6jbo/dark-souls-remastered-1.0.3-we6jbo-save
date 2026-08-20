@@ -2561,8 +2561,8 @@
     "deaths": 1,
     "souls_earned_in_simulator": 59314951,
     "notes": [],
-    "last_session_summary": "we6jbo simulation: 253 accomplishments; Thoroughly explored Demon Ruins",
-    "last_saved_local": "2026-08-20T06:34:51.470391-07:00",
+    "last_session_summary": "Saved we6jbo simulator state at Demon Ruins",
+    "last_saved_local": "2026-08-20T06:36:36.183506-07:00",
     "progress_flags": {
       "bell_of_awakening_quelaag": true,
       "bell_of_awakening_parish": true,
@@ -2620,8 +2620,8 @@
         "updated_local": "2026-08-14T04:43:05.044130-07:00"
       }
     },
-    "live_stream_url": "https://asciinema.org/s/jDCnJ7g6wujn5EKk",
-    "live_stream_started_local": "2026-08-20T06:23:27.016386-07:00",
+    "live_stream_url": "https://asciinema.org/s/4BisryZCFmokzQwA",
+    "live_stream_started_local": "2026-08-20T06:35:17.743166-07:00",
     "session_history": [
       {
         "saved_local": "2026-08-08T20:04:21.512517-07:00",
@@ -10632,6 +10632,11 @@
           "2026-08-18 22:55:10: Defeated Hollow patrol in Blighttown (+900 souls)"
         ],
         "summary": "we6jbo simulation: 68 accomplishments; Defeated Hollow patrol in Blighttown (+900 souls)"
+      },
+      {
+        "saved_local": "2026-08-20T06:36:36.183459-07:00",
+        "events": [],
+        "summary": "Saved we6jbo simulator state at Demon Ruins"
       }
     ],
     "restart_requested_local": "2026-08-20T06:34:51.470347-07:00",

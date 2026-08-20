@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "simulator_version": "123.0",
+  "simulator_version": "124.0",
   "integration_mode": "external-discovery",
   "local_repomaster_required": false,
   "status": "complete",
@@ -8,11 +8,11 @@
   "remote_verified": true,
   "performance": {
     "cpu_count": 8,
-    "load_1m_per_cpu": 1.687,
-    "memory_used_percent": 72.1,
-    "memory_available_gib": 4.27,
-    "ollama_requests": 10,
-    "ollama_successes": 9,
+    "load_1m_per_cpu": 1.096,
+    "memory_used_percent": 58.7,
+    "memory_available_gib": 6.31,
+    "ollama_requests": 1,
+    "ollama_successes": 1,
     "ollama_timeouts": 0
   }
 }

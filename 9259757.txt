@@ -7,6 +7,6 @@ Simulation target: NG+ beginning
 Simulator current area: Demon Ruins
 Simulator encounters won: 17410
 Simulator deaths: 1
-Simulator last saved: 2026-08-20T06:34:51.470391-07:00
-Last session summary: we6jbo simulation: 253 accomplishments; Thoroughly explored Demon Ruins
+Simulator last saved: 2026-08-20T06:36:36.183506-07:00
+Last session summary: Saved we6jbo simulator state at Demon Ruins
 Repository: https://github.com/we6jbo/dark-souls-remastered-1.0.3-we6jbo-save
