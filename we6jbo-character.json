@@ -7,7 +7,7 @@
   "covenant": "Chaos Servant",
   "covenant_rank": "+2",
   "level": 259,
-  "souls": 61293828,
+  "souls": 61447250,
   "humanity_counter": 0,
   "attributes": {
     "Vitality": 50,
@@ -2523,11 +2523,11 @@
     "schema_version": 1,
     "cycle": "NG++",
     "start_policy": "Beginning of NG+",
-    "current_area": "Northern Undead Asylum",
+    "current_area": "Firelink Shrine",
     "checkpoint_area": "Firelink Shrine",
-    "sim_hp": 820,
+    "sim_hp": 1020,
     "sim_max_hp": 1500,
-    "sim_estus": 6,
+    "sim_estus": 4,
     "sim_humanity_state": "Hollow",
     "areas_visited": [
       "Northern Undead Asylum",
@@ -2557,12 +2557,12 @@
       "Firelink Altar",
       "Kiln of the First Flame"
     ],
-    "encounters_won": 17887,
+    "encounters_won": 17929,
     "deaths": 1,
-    "souls_earned_in_simulator": 60895528,
+    "souls_earned_in_simulator": 61048950,
     "notes": [],
-    "last_session_summary": "Saved we6jbo simulator state at Northern Undead Asylum",
-    "last_saved_local": "2026-08-20T20:23:14.959616-07:00",
+    "last_session_summary": "we6jbo simulation: 113 accomplishments; Defeated Armored hollow in Firelink Shrine (+1,400 souls)",
+    "last_saved_local": "2026-08-20T20:29:23.155075-07:00",
     "progress_flags": {
       "bell_of_awakening_quelaag": true,
       "bell_of_awakening_parish": true,
@@ -2620,8 +2620,8 @@
         "updated_local": "2026-08-14T04:43:05.044130-07:00"
       }
     },
-    "live_stream_url": "https://asciinema.org/s/QbsVQ5uVfrbIRbFX",
-    "live_stream_started_local": "2026-08-20T20:22:55.106298-07:00",
+    "live_stream_url": "https://asciinema.org/s/rng6ViaPYCMymPG3",
+    "live_stream_started_local": "2026-08-20T20:23:24.498916-07:00",
     "session_history": [
       {
         "saved_local": "2026-08-08T20:04:21.512517-07:00",
@@ -11863,6 +11863,125 @@
           "2026-08-20 18:36:12: Traveled from Firelink Shrine to Northern Undead Asylum"
         ],
         "summary": "we6jbo simulation: 1220 accomplishments; Traveled from Firelink Shrine to Northern Undead Asylum"
+      },
+      {
+        "saved_local": "2026-08-20T20:29:23.155010-07:00",
+        "events": [
+          "2026-08-20 20:25:02: Defeated Hostile knight in Northern Undead Asylum (+2,800 souls)",
+          "2026-08-20 20:25:04: Traveled from Northern Undead Asylum to Firelink Shrine",
+          "2026-08-20 20:25:06: Traveled from Firelink Shrine to Firelink Altar",
+          "2026-08-20 20:25:08: Defeated Hostile knight in Firelink Altar (+2,800 souls)",
+          "2026-08-20 20:25:16: Traveled from Firelink Altar to Firelink Shrine",
+          "2026-08-20 20:25:18: Found 447 simulated souls while exploring Firelink Shrine",
+          "2026-08-20 20:25:20: Found 3,128 simulated souls while exploring Firelink Shrine",
+          "2026-08-20 20:25:22: Defeated Black knight-like challenger in Firelink Shrine (+3,500 souls)",
+          "2026-08-20 20:25:23: Traveled from Firelink Shrine to Undead Burg",
+          "2026-08-20 20:25:25: Found 1,628 simulated souls while exploring Undead Burg",
+          "2026-08-20 20:25:28: Thoroughly explored Undead Burg",
+          "2026-08-20 20:25:30: Defeated Armored hollow in Undead Burg (+1,400 souls)",
+          "2026-08-20 20:25:32: Traveled from Undead Burg to Undead Parish",
+          "2026-08-20 20:25:34: Found 2,971 simulated souls while exploring Undead Parish",
+          "2026-08-20 20:25:36: Inventory: AI reviewed inventory conservatively. No safe duplicate items were removed.",
+          "2026-08-20 20:25:38: Traveled from Undead Parish to Undead Burg",
+          "2026-08-20 20:25:40: Defeated Hollow patrol in Undead Burg (+900 souls)",
+          "2026-08-20 20:25:42: Found 1,576 simulated souls while exploring Undead Burg",
+          "2026-08-20 20:25:44: Defeated Armored hollow in Undead Burg (+1,400 souls)",
+          "2026-08-20 20:25:51: Found 1,920 simulated souls while exploring Undead Burg",
+          "2026-08-20 20:25:53: Traveled from Undead Burg to Lower Undead Burg",
+          "2026-08-20 20:25:55: Found 710 simulated souls while exploring Lower Undead Burg",
+          "2026-08-20 20:25:57: Traveled from Lower Undead Burg to Undead Burg",
+          "2026-08-20 20:25:59: Traveled from Undead Burg to Lower Undead Burg",
+          "2026-08-20 20:26:01: Found 1,778 simulated souls while exploring Lower Undead Burg",
+          "2026-08-20 20:26:03: Found 1,048 simulated souls while exploring Lower Undead Burg",
+          "2026-08-20 20:26:05: Thoroughly explored Lower Undead Burg",
+          "2026-08-20 20:26:07: Inventory: AI reviewed inventory conservatively. No safe duplicate items were removed.",
+          "2026-08-20 20:26:09: Traveled from Lower Undead Burg to The Depths",
+          "2026-08-20 20:26:11: Defeated Demon-like guardian in The Depths (+5,000 souls)",
+          "2026-08-20 20:26:15: Defeated Armored hollow in The Depths (+1,400 souls)",
+          "2026-08-20 20:26:17: Traveled from The Depths to Lower Undead Burg",
+          "2026-08-20 20:26:18: Traveled from Lower Undead Burg to Undead Burg",
+          "2026-08-20 20:26:20: Found 2,241 simulated souls while exploring Undead Burg",
+          "2026-08-20 20:26:25: Inventory: AI reviewed inventory conservatively. No safe duplicate items were removed.",
+          "2026-08-20 20:26:27: Inventory: AI reviewed inventory conservatively. No safe duplicate items were removed.",
+          "2026-08-20 20:26:29: Defeated Hostile knight in Undead Burg (+2,800 souls)",
+          "2026-08-20 20:26:31: Found 2,125 simulated souls while exploring Undead Burg",
+          "2026-08-20 20:26:33: Traveled from Undead Burg to Undead Parish",
+          "2026-08-20 20:26:35: Defeated Demon-like guardian in Undead Parish (+5,000 souls)",
+          "2026-08-20 20:26:37: Traveled from Undead Parish to Undead Burg",
+          "2026-08-20 20:26:39: Traveled from Undead Burg to Undead Parish",
+          "2026-08-20 20:26:41: Found 1,367 simulated souls while exploring Undead Parish",
+          "2026-08-20 20:26:43: Inventory: AI reviewed inventory conservatively. No safe duplicate items were removed.",
+          "2026-08-20 20:26:45: Defeated Hollow patrol in Undead Parish (+900 souls)",
+          "2026-08-20 20:26:47: Defeated Hollow patrol in Undead Parish (+900 souls)",
+          "2026-08-20 20:26:49: Defeated Hollow patrol in Undead Parish (+900 souls)",
+          "2026-08-20 20:26:51: Defeated Sorcerous ambush in Undead Parish (+2,200 souls)",
+          "2026-08-20 20:26:53: Found 1,150 simulated souls while exploring Undead Parish",
+          "2026-08-20 20:27:00: Defeated Armored hollow in Undead Parish (+1,400 souls)",
+          "2026-08-20 20:27:02: Found 3,191 simulated souls while exploring Undead Parish",
+          "2026-08-20 20:27:04: Defeated Demon-like guardian in Undead Parish (+5,000 souls)",
+          "2026-08-20 20:27:06: Thoroughly explored Undead Parish",
+          "2026-08-20 20:27:08: Defeated Hollow patrol in Undead Parish (+900 souls)",
+          "2026-08-20 20:27:10: Thoroughly explored Undead Parish",
+          "2026-08-20 20:27:12: Inventory: AI reviewed inventory conservatively. No safe duplicate items were removed.",
+          "2026-08-20 20:27:14: Found 915 simulated souls while exploring Undead Parish",
+          "2026-08-20 20:27:16: Defeated Demon-like guardian in Undead Parish (+5,000 souls)",
+          "2026-08-20 20:27:18: Defeated Black knight-like challenger in Undead Parish (+3,500 souls)",
+          "2026-08-20 20:27:20: Thoroughly explored Undead Parish",
+          "2026-08-20 20:27:22: Traveled from Undead Parish to Darkroot Garden",
+          "2026-08-20 20:27:24: Defeated Sorcerous ambush in Darkroot Garden (+2,200 souls)",
+          "2026-08-20 20:27:26: Defeated Sorcerous ambush in Darkroot Garden (+2,200 souls)",
+          "2026-08-20 20:27:28: Found 563 simulated souls while exploring Darkroot Garden",
+          "2026-08-20 20:27:35: Thoroughly explored Darkroot Garden",
+          "2026-08-20 20:27:37: Traveled from Darkroot Garden to Undead Parish",
+          "2026-08-20 20:27:39: Traveled from Undead Parish to Darkroot Garden",
+          "2026-08-20 20:27:41: Defeated Hostile knight in Darkroot Garden (+2,800 souls)",
+          "2026-08-20 20:27:43: Defeated Demon-like guardian in Darkroot Garden (+5,000 souls)",
+          "2026-08-20 20:27:45: Defeated Black knight-like challenger in Darkroot Garden (+3,500 souls)",
+          "2026-08-20 20:27:47: Defeated Demon-like guardian in Darkroot Garden (+5,000 souls)",
+          "2026-08-20 20:27:49: Defeated Black knight-like challenger in Darkroot Garden (+3,500 souls)",
+          "2026-08-20 20:27:50: Defeated Hostile knight in Darkroot Garden (+2,800 souls)",
+          "2026-08-20 20:27:54: Found 3,225 simulated souls while exploring Darkroot Garden",
+          "2026-08-20 20:27:56: Defeated Black knight-like challenger in Darkroot Garden (+3,500 souls)",
+          "2026-08-20 20:27:58: Traveled from Darkroot Garden to Undead Parish",
+          "2026-08-20 20:28:00: Found 2,483 simulated souls while exploring Undead Parish",
+          "2026-08-20 20:28:02: Defeated Sorcerous ambush in Undead Parish (+2,200 souls)",
+          "2026-08-20 20:28:04: Defeated Hollow patrol in Undead Parish (+900 souls)",
+          "2026-08-20 20:28:10: Thoroughly explored Undead Parish",
+          "2026-08-20 20:28:12: Traveled from Undead Parish to Undead Burg",
+          "2026-08-20 20:28:14: Traveled from Undead Burg to Lower Undead Burg",
+          "2026-08-20 20:28:15: Found 874 simulated souls while exploring Lower Undead Burg",
+          "2026-08-20 20:28:17: Defeated Sorcerous ambush in Lower Undead Burg (+2,200 souls)",
+          "2026-08-20 20:28:19: Defeated Black knight-like challenger in Lower Undead Burg (+3,500 souls)",
+          "2026-08-20 20:28:21: Traveled from Lower Undead Burg to Undead Burg",
+          "2026-08-20 20:28:23: Traveled from Undead Burg to Undead Parish",
+          "2026-08-20 20:28:25: Inventory: AI reviewed inventory conservatively. No safe duplicate items were removed.",
+          "2026-08-20 20:28:27: Found 2,371 simulated souls while exploring Undead Parish",
+          "2026-08-20 20:28:29: Traveled from Undead Parish to Darkroot Garden",
+          "2026-08-20 20:28:31: Traveled from Darkroot Garden to Darkroot Basin",
+          "2026-08-20 20:28:33: Thoroughly explored Darkroot Basin",
+          "2026-08-20 20:28:35: Inventory: AI reviewed inventory conservatively. No safe duplicate items were removed.",
+          "2026-08-20 20:28:37: Defeated Armored hollow in Darkroot Basin (+1,400 souls)",
+          "2026-08-20 20:28:38: Traveled from Darkroot Basin to Valley of Drakes",
+          "2026-08-20 20:28:44: Defeated Hollow patrol in Valley of Drakes (+900 souls)",
+          "2026-08-20 20:28:46: Thoroughly explored Valley of Drakes",
+          "2026-08-20 20:28:48: Found 3,345 simulated souls while exploring Valley of Drakes",
+          "2026-08-20 20:28:50: Defeated Armored hollow in Valley of Drakes (+1,400 souls)",
+          "2026-08-20 20:28:52: Traveled from Valley of Drakes to New Londo Ruins",
+          "2026-08-20 20:28:54: Traveled from New Londo Ruins to The Abyss",
+          "2026-08-20 20:28:56: Defeated Demon-like guardian in The Abyss (+5,000 souls)",
+          "2026-08-20 20:28:58: Defeated Hostile knight in The Abyss (+2,800 souls)",
+          "2026-08-20 20:29:00: Traveled from The Abyss to New Londo Ruins",
+          "2026-08-20 20:29:01: Defeated Sorcerous ambush in New Londo Ruins (+2,200 souls)",
+          "2026-08-20 20:29:03: Found 2,795 simulated souls while exploring New Londo Ruins",
+          "2026-08-20 20:29:05: Defeated Sorcerous ambush in New Londo Ruins (+2,200 souls)",
+          "2026-08-20 20:29:07: Defeated Hollow patrol in New Londo Ruins (+900 souls)",
+          "2026-08-20 20:29:10: Found 1,643 simulated souls while exploring New Londo Ruins",
+          "2026-08-20 20:29:11: Traveled from New Londo Ruins to Firelink Shrine",
+          "2026-08-20 20:29:13: Found 2,528 simulated souls while exploring Firelink Shrine",
+          "2026-08-20 20:29:20: Defeated Sorcerous ambush in Firelink Shrine (+2,200 souls)",
+          "2026-08-20 20:29:22: Defeated Armored hollow in Firelink Shrine (+1,400 souls)"
+        ],
+        "summary": "we6jbo simulation: 113 accomplishments; Defeated Armored hollow in Firelink Shrine (+1,400 souls)"
       }
     ],
     "restart_requested_local": "2026-08-20T20:23:14.959571-07:00",
@@ -11870,38 +11989,6 @@
     "completed_cycle": "NG++",
     "completion_local": "2026-08-09T16:47:06.231366-07:00",
     "inventory_log": [
-      {
-        "time": "2026-08-19T06:27:26.122012-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-19T06:27:30.006121-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-19T06:28:04.377633-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-19T06:28:11.801525-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-19T06:28:40.139500-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-19T06:29:19.316446-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-19T06:29:53.052392-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
-      {
-        "time": "2026-08-19T06:30:18.764755-07:00",
-        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
-      },
       {
         "time": "2026-08-19T06:30:22.755254-07:00",
         "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
@@ -12868,6 +12955,38 @@
       },
       {
         "time": "2026-08-20T18:35:41.885792-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-20T20:25:36.382994-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-20T20:26:07.148795-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-20T20:26:25.429757-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-20T20:26:27.373266-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-20T20:26:43.419263-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-20T20:27:12.742622-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-20T20:28:25.720281-07:00",
+        "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
+      },
+      {
+        "time": "2026-08-20T20:28:35.127171-07:00",
         "event": "AI reviewed inventory conservatively. No safe duplicate items were removed."
       }
     ],
