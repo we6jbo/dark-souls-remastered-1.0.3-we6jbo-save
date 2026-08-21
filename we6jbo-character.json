@@ -2561,8 +2561,8 @@
     "deaths": 1,
     "souls_earned_in_simulator": 60895528,
     "notes": [],
-    "last_session_summary": "we6jbo simulation: 1220 accomplishments; Traveled from Firelink Shrine to Northern Undead Asylum",
-    "last_saved_local": "2026-08-20T18:36:14.484267-07:00",
+    "last_session_summary": "Saved we6jbo simulator state at Northern Undead Asylum",
+    "last_saved_local": "2026-08-20T20:23:14.959616-07:00",
     "progress_flags": {
       "bell_of_awakening_quelaag": true,
       "bell_of_awakening_parish": true,
@@ -2620,8 +2620,8 @@
         "updated_local": "2026-08-14T04:43:05.044130-07:00"
       }
     },
-    "live_stream_url": "https://asciinema.org/s/Xgg1MtsZ8r69jjEl",
-    "live_stream_started_local": "2026-08-20T17:34:39.530174-07:00",
+    "live_stream_url": "https://asciinema.org/s/QbsVQ5uVfrbIRbFX",
+    "live_stream_started_local": "2026-08-20T20:22:55.106298-07:00",
     "session_history": [
       {
         "saved_local": "2026-08-08T20:04:21.512517-07:00",
@@ -11865,7 +11865,7 @@
         "summary": "we6jbo simulation: 1220 accomplishments; Traveled from Firelink Shrine to Northern Undead Asylum"
       }
     ],
-    "restart_requested_local": "2026-08-20T06:34:51.470347-07:00",
+    "restart_requested_local": "2026-08-20T20:23:14.959571-07:00",
     "ng_plus_cycle_complete": true,
     "completed_cycle": "NG++",
     "completion_local": "2026-08-09T16:47:06.231366-07:00",

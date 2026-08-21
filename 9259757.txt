@@ -1,12 +1,12 @@
 Dark Souls Remastered v1.0.3 — we6jbo character archive
 Character: we6jbo
 Level: 259
-Souls: 61295827
+Souls: 61293828
 Covenant: Chaos Servant +2
 Simulation target: NG+ beginning
 Simulator current area: Northern Undead Asylum
 Simulator encounters won: 17887
 Simulator deaths: 1
-Simulator last saved: 2026-08-20T18:36:14.484267-07:00
-Last session summary: we6jbo simulation: 1220 accomplishments; Traveled from Firelink Shrine to Northern Undead Asylum
+Simulator last saved: 2026-08-20T20:23:14.959616-07:00
+Last session summary: Saved we6jbo simulator state at Northern Undead Asylum
 Repository: https://github.com/we6jbo/dark-souls-remastered-1.0.3-we6jbo-save
