@@ -1,6 +1,6 @@
 # CMB Agent Retirement
 
-Updated: 2026-08-20T17:34:38.501838-07:00
+Updated: 2026-08-20T20:22:54.785106-07:00
 
 The CMB Agent workflow was closed down during the Aug 16, 2026 transition. Automatic community/Discord opening was disabled. Its useful public-state and workflow information was copied into Knowledge so other simulator components, people, and language models can learn from the experiment without keeping the active CMB automation running.
 
