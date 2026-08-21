@@ -21,7 +21,7 @@ or third-party map image is automatically committed to this character archive.
 ## Exact archived character build used by the simulator
 
 - Level: **259**
-- Souls at archive load/save: **59,713,251**
+- Souls at archive load/save: **61,295,827**
 - Humanity counter: **0**
 - Covenant: **Chaos Servant +2**
 - Vitality: **50**
@@ -89,8 +89,8 @@ intellectual property remain the property of their respective rights holders.
 
 ## Session status
 
-Last simulator save: **2026-08-20T06:36:36.183506-07:00**
+Last simulator save: **2026-08-20T18:36:14.484267-07:00**
 
 Last session summary:
 
-> Saved we6jbo simulator state at Demon Ruins
+> we6jbo simulation: 1220 accomplishments; Traveled from Firelink Shrine to Northern Undead Asylum
