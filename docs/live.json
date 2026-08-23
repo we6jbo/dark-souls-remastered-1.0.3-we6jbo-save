@@ -2,7 +2,7 @@
   "project": "we6jbo Dark Souls Remastered NG+ Text Simulator",
   "simulator_version": "125.0",
   "live": true,
-  "live_url": "https://asciinema.org/s/M3zeV9y1pzuNF9ca",
+  "live_url": "https://asciinema.org/s/4uQjnYvPTYgNFysj",
   "project_page": "https://we6jbo.github.io/dark-souls-remastered-1.0.3-we6jbo-save/",
   "main_site": "https://j03.page/",
   "localchat_documents": {
@@ -56,6 +56,6 @@
     "local_repomaster_required": false
   },
   "robin_integration": "NI",
-  "area": "Undead Burg",
-  "updated": "2026-08-22T09:25:03.499966-07:00"
+  "area": "Blighttown",
+  "updated": "2026-08-22T18:43:13.407211-07:00"
 }

@@ -21,7 +21,7 @@ or third-party map image is automatically committed to this character archive.
 ## Exact archived character build used by the simulator
 
 - Level: **259**
-- Souls at archive load/save: **65,537,152**
+- Souls at archive load/save: **66,259,257**
 - Humanity counter: **0**
 - Covenant: **Chaos Servant +2**
 - Vitality: **50**
@@ -89,8 +89,8 @@ intellectual property remain the property of their respective rights holders.
 
 ## Session status
 
-Last simulator save: **2026-08-22T09:25:02.216504-07:00**
+Last simulator save: **2026-08-22T18:43:12.858421-07:00**
 
 Last session summary:
 
-> we6jbo simulation: 2682 accomplishments; Defeated Demon-like guardian in Undead Burg (+5,000 souls)
+> we6jbo simulation: 577 accomplishments; Traveled from The Depths to Blighttown
