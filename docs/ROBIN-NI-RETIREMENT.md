@@ -1,6 +1,6 @@
 # Robin NI Retirement
 
-Updated: 2026-08-22T18:18:27.186752-07:00
+Updated: 2026-08-22T18:43:30.184007-07:00
 
 Robin NI was removed from the active GUI. Robin was never an installed gameplay worker here; the project retained it as a compatibility study explaining why Robin's documented workflow did not fit this simulator. That rationale now lives in Knowledge.
 
